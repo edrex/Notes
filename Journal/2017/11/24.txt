@@ -13,3 +13,5 @@ Hi internet
 [[Voice assistant]]
 
 [[Qutebrowser]]
+
+- Sync Home folderm including code?

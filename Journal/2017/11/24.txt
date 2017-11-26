@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-24T16:03:25-08:00
+
+====== Friday 24 Nov 2017 ======
+Hi internet
+
+* [[Zim]] on a phone?
+* [[Open phone]]
+[ ] [[Return phone]]
+[ ] [[Buy a phone]] :(
+[[Nexus 5x repair attempts]]
+[[Voice assistant]]
+
+[[Qutebrowser]]

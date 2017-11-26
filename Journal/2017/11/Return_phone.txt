@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-24T19:05:06-08:00
+
+====== Return phone ======
+
+Device received has several marks of use:
+
+  - Inside of USB micro port is very dirty, indicating that the phone was in dirty environments for an extended period.
+  - Screen bezel is damaged at one corner from a prying instrument. Apparently the device was opened up for service (screen replacement perhaps?) which makes it very much not a "New" device.
+
+This is clearly a used device, therefore I would like to return it for a full refund, with Seller paying return shipping.
+
+{{./20171124_132140.jpg}}
+{{./20171124_132155.jpg}}
+{{./20171124_132212.jpg}}
+{{./20171124_133029.jpg}}

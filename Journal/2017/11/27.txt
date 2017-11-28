@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-27T19:07:01-08:00
+
+====== Monday 27 Nov 2017 ======
+Talked with Pat and Ale[[Game Jam]]
+pico8
+pigsquad
+dylan bennett
+@lexaloffle
+itch
+kivy
+
+Talked with Alex [[Library Science]]
+
+Josh

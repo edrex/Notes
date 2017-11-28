@@ -6,11 +6,6 @@ Creation-Date: 2017-11-27T17:18:59-08:00
 Created Sunday 26 November 2017
 
 
-openbiblio
-koha
-contentdm
-discovery
-omeka  dpla
 
 pico8
 pigsquad
@@ -20,6 +15,5 @@ itch
 
 kivy
 
-Pat
-Alex
+Talked with Alex [[Library Science]]
 Josh

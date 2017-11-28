@@ -10,3 +10,11 @@ openbiblio
 koha
 contentdm
 discovery
+omeka  dpla
+
+pico8
+pigsquad
+dylan bennett
+@lexaloffle
+itch
+

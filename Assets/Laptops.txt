@@ -1,8 +1,7 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2017-11-28T20:02:22-08:00
+Creation-Date: 2017-11-28T20:03:46-08:00
 
-====== Assets ======
+====== Laptops ======
 Created Tuesday 28 November 2017
 
-[[Laptops]]

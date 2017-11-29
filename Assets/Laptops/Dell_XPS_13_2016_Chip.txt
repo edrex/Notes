@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2017-11-28T20:04:27-08:00
 
-====== Dell XPS 13 2016 ======
+====== Dell XPS 13 2016 Chip ======
 Created Tuesday 28 November 2017
 
 8XV2QF2

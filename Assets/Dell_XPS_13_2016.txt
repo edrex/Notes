@@ -1,8 +1,8 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2017-11-28T20:02:22-08:00
+Creation-Date: 2017-11-28T20:04:27-08:00
 
-====== Assets ======
+====== Dell XPS 13 2016 ======
 Created Tuesday 28 November 2017
 
-[[+Laptops]]
+8XV2QF2

@@ -9,3 +9,4 @@ https://synocommunity.com/packages
 
 Things I want to try installing on the NAS:
 https://home-assistant.io/
+GoogleAssistant integration

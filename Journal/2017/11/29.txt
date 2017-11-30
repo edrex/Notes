@@ -11,5 +11,5 @@ Pt: Meh
 [[SixgillCoagExpenseReport]] carried over.
 [[LinkedIn]] replies
 
-[[file:///People/Leif|:Leif]] told me about jq
+[[:People/Leif]] told me about jq
 http://cap-lore.com/CapTheory/upenn/

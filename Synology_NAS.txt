@@ -4,5 +4,5 @@ Creation-Date: 2017-11-30T13:08:33-08:00
 
 ====== Synology NAS ======
 Created Thursday 30 November 2017
-Syncthing, Duplicity packages:
+Syncthing, Duplicity packages (out of date)
 https://synocommunity.com/packages

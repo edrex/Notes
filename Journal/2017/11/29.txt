@@ -12,5 +12,5 @@ Pt: Meh
 [[LinkedIn]] replies
 Assets/Laptops
 
-:People/Leif told me about jq
+:People:Leif told me about jq
 http://cap-lore.com/CapTheory/upenn/

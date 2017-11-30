@@ -6,4 +6,6 @@ Creation-Date: 2017-11-30T14:38:44-08:00
 Created Thursday 30 November 2017
 
 Music
+
 http://www.audioordeal.co.uk/2016/01/can-you-produce-music-on-raspberry-pi.html
+non seq on Arch https://linuxmusicians.com/viewtopic.php?t=11758

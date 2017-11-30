@@ -14,3 +14,4 @@ Assets/Laptops
 
 [[:People:Leif]] told me about jq
 [[:People:Lyle]] told me about  http://cap-lore.com/CapTheory/upenn/
+Researched 

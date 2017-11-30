@@ -8,5 +8,7 @@ Syncthing, Duplicity packages (out of date)
 https://synocommunity.com/packages
 
 Things I want to try installing on the NAS:
+[[HomeAssistant]]
+
 https://home-assistant.io/
-GoogleAssistant integration
+[[GoogleAssistant]] integration

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-11-30T13:05:35-08:00
+
+====== Leif ======
+Created Thursday 30 November 2017
+
+Good at programming monads (?)

@@ -9,6 +9,7 @@ https://synocommunity.com/packages
 
 Things I want to try installing on the NAS:
 [[HomeAssistant]]
+[[MycroftAI]]
 
 https://home-assistant.io/
 [[GoogleAssistant]] integration

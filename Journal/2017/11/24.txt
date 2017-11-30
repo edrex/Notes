@@ -15,4 +15,4 @@ Hi internet
 [[Qutebrowser]]
 
 - Sync Home folderm including code?
-Raspberry pi synth software?
+[[RaspberryPi]] synth software?

@@ -6,3 +6,5 @@ Creation-Date: 2017-12-01T14:26:46-08:00
 Created Friday 01 December 2017
 
 http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825
+https://www.jeffgeerling.com/blog/2016/review-odroid-c2-compared-raspberry-pi-3-and-orange-pi-plus
+[[RetroPie]]

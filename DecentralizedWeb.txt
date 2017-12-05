@@ -4,6 +4,8 @@ Creation-Date: 2017-12-04T17:04:11-08:00
 
 ====== DecentralizedWeb ======
 Created Monday 04 December 2017
+@Research
+
 [[:People:BrennanNovak]]
 
 http://wiki.p2pfoundation.net/P2P_Foundation:About

@@ -4,9 +4,10 @@ Creation-Date: 2017-12-04T17:04:39-08:00
 
 ====== BrennanNovak ======
 Created Monday 04 December 2017
+@Research
 
 https://brennannovak.com/
 
-[[:DecentralizedWeb]]
+[[DecentralizedWeb]]
 
 [[PHP]]

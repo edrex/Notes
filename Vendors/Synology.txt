@@ -17,3 +17,4 @@ https://home-assistant.io/
 [[:GoogleAssistant]] integration
 
 [[SyncThing]] :  https://forum.syncthing.net/t/nas-synology-box/397/2
+http://www.synology-wiki.de/index.php/Duplicity

@@ -4,16 +4,3 @@ Creation-Date: 2017-11-27T17:18:59-08:00
 
 ====== Open phone ======
 Created Sunday 26 November 2017
-
-
-
-pico8
-pigsquad
-dylan bennett
-@lexaloffle
-itch
-kivy
-
-Talked with Alex [[Library Science]]
-
-Josh

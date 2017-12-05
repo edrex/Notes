@@ -16,3 +16,4 @@ Hi internet
 
 - Sync Home folderm including code?
 [[RaspberryPi]] synth software?
+

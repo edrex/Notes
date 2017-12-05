@@ -16,3 +16,4 @@ Assets/Laptops
 [[:People:Lyle]] told me about  http://cap-lore.com/CapTheory/upenn/
 Researched [[:Vendors:Synology NAS]]
 [[:BuyList]]
+

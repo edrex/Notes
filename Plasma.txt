@@ -6,3 +6,4 @@ Creation-Date: 2017-12-04T16:52:31-08:00
 Created Monday 04 December 2017
 
 https://community.kde.org/Neon/Docker
+http://neon.plasma-mobile.org:8080/pool/main/p/plasma-mobile/

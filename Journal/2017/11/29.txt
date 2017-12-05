@@ -15,6 +15,7 @@ Assets/Laptops
 [[:People:Leif]] told me about [[:vendors:jq]]
 
 [[:People:Lyle]] told me about  http://cap-lore.com/CapTheory/upenn/
-Researched [[:Vendors:Synology NAS]]
+Researched [[:Vendors:Synology]]
+
 [[:BuyList]]
 

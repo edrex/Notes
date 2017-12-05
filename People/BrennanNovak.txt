@@ -7,5 +7,6 @@ Created Monday 04 December 2017
 
 https://brennannovak.com/
 
-[[DecentralizedWeb]]
+[[:DecentralizedWeb]]
+
 [[PHP]]

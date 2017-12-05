@@ -7,7 +7,7 @@ http://zim-wiki.org
 
 http://zim-wiki.org/manual/Usage/Publishing.html
 
-[ ] use rifle as default editor. 
+[ ] use rifle as default editor. Test: [[~/screen.png.]] Yay! [[../Assets.txt]]
 [ ] plugin to auto add to journal?
 [ ] On phone?
 [ ] In Vim https://github.com/jakykong/vim-zim/blob/master/doc/zim.txt

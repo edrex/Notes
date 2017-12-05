@@ -6,3 +6,4 @@ Creation-Date: 2017-12-04T16:29:58-08:00
 [[:WorkingRemotely]]
 [[:Zim]] plugin to auto add to journal?
 [[:Plasma]]
+[[DecentralizedWeb]]

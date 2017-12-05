@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-04T17:04:11-08:00
+
+====== DecentralizedWeb ======
+Created Monday 04 December 2017

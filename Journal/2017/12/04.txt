@@ -7,3 +7,4 @@ Creation-Date: 2017-12-04T16:29:58-08:00
 [[:Vendors:Zim]] plugin to auto add to journal?
 [[:Vendors:Plasma]]
 [[DecentralizedWeb]]
+[[:Vendors:i3]]

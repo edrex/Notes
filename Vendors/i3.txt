@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-04T19:47:49-08:00
+
+====== i3 ======
+Created Monday 04 December 2017
+
+https://github.com/jamesofarrell/i3-swallow
+https://www.reddit.com/r/i3wm/comments/5urtb4/i3swallow_a_simple_swallow_script_for_i3/

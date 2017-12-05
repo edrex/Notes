@@ -8,5 +8,6 @@ http://zim-wiki.org
 http://zim-wiki.org/manual/Usage/Publishing.html
 
 [ ] plugin to auto add to journal?
-[ ] On phone? Just Vim
+[ ] On phone?
+[ ] In Vim https://github.com/jakykong/vim-zim/blob/master/doc/zim.txt
 

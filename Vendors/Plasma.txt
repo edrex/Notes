@@ -7,5 +7,5 @@ Created Monday 04 December 2017
 
 https://community.kde.org/Neon/Docker
 
-[[:PlasmaMobile]] :
+[[PlasmaMobile]] :
 http://neon.plasma-mobile.org:8080/pool/main/p/plasma-mobile/

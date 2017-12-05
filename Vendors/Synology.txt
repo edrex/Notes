@@ -16,4 +16,4 @@ Things I want to try installing on the NAS:
 https://home-assistant.io/
 [[:GoogleAssistant]] integration
 
-[[SyncThing]]
+[[SyncThing]] :  https://forum.syncthing.net/t/nas-synology-box/397/2

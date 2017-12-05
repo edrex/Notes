@@ -5,5 +5,5 @@ Creation-Date: 2017-12-04T16:29:58-08:00
 ====== Monday 04 Dec 2017 ======
 [[:SelfWork:WorkingRemotely]]
 [[:Zim]] plugin to auto add to journal?
-[[:Projects:Plasma]]
+[[:Vendors:Plasma]]
 [[DecentralizedWeb]]

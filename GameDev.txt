@@ -8,8 +8,9 @@ Created Monday 04 December 2017
 [[+GameJams]]
 
 [[+Pico8]]
-+[[PigSquad]]
-dylan bennett
+[[+PigSquad]]
+[[+People:DylanBennett]]
+
 @lexaloffle
 itch
 kivy

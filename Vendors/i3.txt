@@ -7,3 +7,5 @@ Created Monday 04 December 2017
 
 https://github.com/jamesofarrell/i3-swallow
 https://www.reddit.com/r/i3wm/comments/5urtb4/i3swallow_a_simple_swallow_script_for_i3/
+
+https://faq.i3wm.org/question/954/open-window-as-a-scratchpad/index.html

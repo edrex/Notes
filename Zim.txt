@@ -7,6 +7,7 @@ http://zim-wiki.org
 
 http://zim-wiki.org/manual/Usage/Publishing.html
 
+[ ] use rifle as default editor
 [ ] plugin to auto add to journal?
 [ ] On phone?
 [ ] In Vim https://github.com/jakykong/vim-zim/blob/master/doc/zim.txt

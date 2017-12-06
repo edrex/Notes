@@ -8,3 +8,6 @@ Created Tuesday 05 December 2017
 Printing [[GameDev]] with [[Pico8]]  
 612x396
 [[+Booklets]]
+
+[[./mybooklet]] 
+man pstops

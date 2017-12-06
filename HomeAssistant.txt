@@ -5,4 +5,4 @@ Creation-Date: 2017-11-30T14:12:18-08:00
 ====== HomeAssistant ======
 [[:tag:vendor]]
 Created Thursday 30 November 2017
-On [[RaspberryPi]] : https://home-assistant.io/hassio/installation/
+On [[Vendors:RaspberryPi]] : https://home-assistant.io/hassio/installation/

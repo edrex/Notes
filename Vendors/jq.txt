@@ -4,5 +4,6 @@ Creation-Date: 2017-12-04T19:43:50-08:00
 
 ====== jq ======
 Created Monday 04 December 2017
+[[:tag:vendor]]
 
 https://stedolan.github.io/jq/manual/#Basicfilters

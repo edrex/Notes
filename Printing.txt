@@ -12,5 +12,8 @@ Printing [[GameDev]] with [[Pico8]]
 [[./mybooklet]] 
 man pstops
 
+Troubleshooting
 
-[[+Troubleshooting]] 
+Find out why print jobs aren't coming out:
+http://localhost:631/jobs/
+

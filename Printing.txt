@@ -11,3 +11,6 @@ Printing [[GameDev]] with [[Pico8]]
 
 [[./mybooklet]] 
 man pstops
+
+
+[[+Troubleshooting]] 

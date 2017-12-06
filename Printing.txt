@@ -22,3 +22,5 @@ To enable the "unlock" button in system-config-printer,
 https://wiki.archlinux.org/index.php/CUPS#Allowing_admin_authentication_through_PolicyKit
 bleh.
 
+http://www.papersizes.org/a-paper-sizes.htm
+I wonder how to ask gs for the dimensions of a paper size? some ar

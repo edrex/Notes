@@ -7,6 +7,6 @@ Creation-Date: 2017-12-06T14:37:03-08:00
 [[Pico8]]
 Added [[LibraryScience]] to Field (link omitted)
 man pstops
-:Zim    ditta
+[[:Zim]] ditta
 gtksourceview2
 [[:Printing]] 

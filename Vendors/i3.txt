@@ -3,6 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-12-04T19:47:49-08:00
 
 ====== i3 ======
+[[:tag:vendor]]
 Created Monday 04 December 2017
 
 https://github.com/jamesofarrell/i3-swallow

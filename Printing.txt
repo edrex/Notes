@@ -16,4 +16,5 @@ Troubleshooting
 
 Find out why print jobs aren't coming out:
 http://localhost:631/jobs/
+also system-config-printer
 

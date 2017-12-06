@@ -18,3 +18,7 @@ Find out why print jobs aren't coming out:
 http://localhost:631/jobs/
 also system-config-printer
 
+To enable the "unlock" button in system-config-printer,
+https://wiki.archlinux.org/index.php/CUPS#Allowing_admin_authentication_through_PolicyKit
+bleh.
+

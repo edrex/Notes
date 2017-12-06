@@ -7,7 +7,7 @@ Created Monday 04 December 2017
 
 [[+GameJams]]
 
-[[+Pico8]]
+[[Pico8]]
 [[+PigSquad]]
 [[+People:DylanBennett]]
 

@@ -4,4 +4,4 @@ Creation-Date: 2017-11-21T14:52:44-08:00
 
 ====== CapturingActivity ======
 [[Vendors:Zim]]
-[[Vendors:Camlistore]]
+[[Vendor:Camlistore]]

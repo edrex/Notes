@@ -11,5 +11,5 @@ man pstops
 gtksourceview2
 [[:Printing]] 
 [[:urxvt]] 
-Zim popup should come to current container
+[[:Zim]] popup should come to current container
 

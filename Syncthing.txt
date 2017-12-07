@@ -6,5 +6,5 @@ Creation-Date: 2017-12-04T19:49:14-08:00
 [[:tag:vendor]]
 Created Monday 04 December 2017
 
-[[:Vendors:Synology]]
+[[:Synology]]
 https://forum.syncthing.net/t/nas-synology-box/397/3

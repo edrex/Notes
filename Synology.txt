@@ -12,10 +12,10 @@ https://synocommunity.com/packages
 
 Things I want to try installing on the NAS:
 [[HomeAssistant]]
-[[MycroftAI]]
+[[Vendors:MycroftAI]]
 
 https://home-assistant.io/
 GoogleAssistant integration: https://home-assistant.io/addons/google_assistant/
 
-[[SyncThing]] :  https://forum.syncthing.net/t/nas-synology-box/397/2
+[[Syncthing]] :  https://forum.syncthing.net/t/nas-synology-box/397/2
 http://www.synology-wiki.de/index.php/Duplicity

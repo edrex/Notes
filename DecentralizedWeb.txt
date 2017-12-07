@@ -7,7 +7,7 @@ Created Monday 04 December 2017
 @Research
 
 [[:People:BrennanNovak]]
-[[:Vendors:IPFS]]
+[[:IPFS]]
 
 
 

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-06T18:56:10-08:00
+
+====== urxvt ======
+
+How to customize? Web ui
+How to paste? Shift-middle click. Keyboard?

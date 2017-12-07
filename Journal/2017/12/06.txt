@@ -10,3 +10,5 @@ man pstops
 [[:Zim]] ditta
 gtksourceview2
 [[:Printing]] 
+[[:urxvt]] 
+

@@ -10,4 +10,4 @@ Creation-Date: 2017-12-04T16:29:58-08:00
 [[:i3]]
 [[:Syncthing]]
 
-Showed [[:People:Lauren]] my [[FreshBooks]] account: https://shared.freshbooks.com/
+Showed [[:People:Lauren]] my :[[FreshBooks]] account: https://shared.freshbooks.com/

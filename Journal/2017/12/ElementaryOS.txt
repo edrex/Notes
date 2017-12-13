@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2017-12-12T18:06:54-08:00
-
-====== ElementaryOS ======
-Created Tuesday 12 December 2017
-:[[tag:Linux|t]][[ag:Linux|a]][[g:Linux|g]][[:Linux|:]][[Linux]]
-:[[tag:Vendor|t]][[ag:Vendor|a]][[g:Vendor|g]][[:Vendor|:]][[Vendor]]

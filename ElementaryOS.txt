@@ -4,5 +4,5 @@ Creation-Date: 2017-12-12T18:06:54-08:00
 
 ====== ElementaryOS ======
 Created Tuesday 12 December 2017
-:[[tag:Linux|t]][[Journal:2017:12:ag:Linux|a]]g[[:Linux|:]]Journal:2017:12:Linux
-:[[tag:Vendor|t]][[Journal:2017:12:ag:Vendor|a]][[Journal:2017:12:g:Vendor|g]][[:Vendor|:]][[Journal:2017:12:Vendor]]
+[[:Linux]] [[:Vendor]]
+

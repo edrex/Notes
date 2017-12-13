@@ -7,6 +7,10 @@ Hi!
 
 Trying [[ElementaryOS]] out in a [[VirtualBox]] VM
 
+[[:Project:ProjectsSite]]
+
+
 This week, I need to wrap up [[ChristmasCardsAndPresents.]]
 
-Fred
+Fred: RetroPi?
+

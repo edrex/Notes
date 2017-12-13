@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-12-04T19:49:14-08:00
 
 ====== Syncthing ======
-[[:tag:vendor]]
+[[:tag:Vendor]]
 Created Monday 04 December 2017
 
 [[:Synology]]

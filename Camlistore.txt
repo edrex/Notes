@@ -5,5 +5,5 @@ Creation-Date: 2017-12-06T14:43:42-08:00
 ====== Camlistore ======
 Created Wednesday 06 December 2017
 
-[[:tag:vendor]]
+[[:tag:Vendor]]
 

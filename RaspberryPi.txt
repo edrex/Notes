@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-11-30T14:38:44-08:00
 
 ====== RaspberryPi ======
-[[:tag:vendor]]
+[[:tag:Vendor]]
 Created Thursday 30 November 2017
 
 Music

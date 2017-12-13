@@ -7,4 +7,6 @@ Hi!
 
 Trying [[ElementaryOS]] out in a [[VirtualBox]] VM
 
-[[ChristmasCardsAndPresents]]
+This week, I need to wrap up [[ChristmasCardsAndPresents.]]
+
+Fred

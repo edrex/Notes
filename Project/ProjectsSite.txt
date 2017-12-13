@@ -11,4 +11,4 @@ Idea:
 
  - Zim notebook
  - Something to render it.
- - Hmm but mobile
+ - Hmm but mobile.

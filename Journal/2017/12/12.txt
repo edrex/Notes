@@ -5,5 +5,5 @@ Creation-Date: 2017-12-12T18:06:44-08:00
 ====== Tuesday 12 Dec 2017 ======
 Hi!
 
-[[ElementaryOS]]
+Trying [[ElementaryOS]] out in a [[VirtualBox]] VM
 

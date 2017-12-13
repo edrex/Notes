@@ -1,8 +1,8 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2017-12-12T18:37:38-08:00
+Creation-Date: 2017-12-12T18:38:26-08:00
 
 ====== Logo ======
 Created Tuesday 12 December 2017
 
-Create new logo/branding for my 
+Logo/branding for my youtube channel/project journal

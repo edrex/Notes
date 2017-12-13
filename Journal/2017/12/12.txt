@@ -8,7 +8,8 @@ Hi!
 Trying [[ElementaryOS]] out in a [[VirtualBox]] VM
 
 [[:Project:ProjectsSite]]
-[[:PDXHub:Logo]]
+[[:Logo]]
+
 
 This week, I need to wrap up [[ChristmasCardsAndPresents.]]
 

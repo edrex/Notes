@@ -6,3 +6,5 @@ Creation-Date: 2017-12-12T18:06:54-08:00
 Created Tuesday 12 December 2017
 [[:Linux]] [[:Vendor]]
 
+On [[:ArchLinux]] :
+http://pkgbuild.com/~alucryd/

@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-12-01T14:26:46-08:00
 
 ====== ODroid ======
-[[:tag:Vendor]]
+[[:Vendor]]
 Created Friday 01 December 2017
 
 http://www.hardkernel.com/main/products/prdt_info.php?g_code=G143452239825

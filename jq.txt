@@ -3,6 +3,6 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-12-04T19:43:50-08:00
 
 ====== jq ======
-[[:tag:Vendor]]
+[[:Vendor]]
 
 https://stedolan.github.io/jq/manual/#Basicfilters

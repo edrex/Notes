@@ -3,6 +3,9 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-12-13T18:44:23-08:00
 
 ====== CarShopping ======
+Searches:
+ - https://portland.craigslist.org/search/cto?query=sedona%7Codyssey%7Centourage&max_price=6000&min_auto_miles=1000&max_auto_miles=170000
+ - 
 Created Wednesday 13 December 2017
 [[https://portland.craigslist.org/mlt/cto/d/honda-odyssey/6423215930.html|honda odyssey - $2100 (Gresham)]]  150000
 

@@ -9,8 +9,7 @@ Types:
  [[+UtilityVan]]
 
 Searches:
-
- - https://portland.craigslist.org/search/cto?query=sedona%7Codyssey%7Centourage&max_price=6000&min_auto_miles=1000&max_auto_miles=170000
+https://portland.craigslist.org/search/cto?query=sedona%7Codyssey%7Centourage&max_price=6000&min_auto_miles=1000&max_auto_miles=170000
 
 Active Leads:
 

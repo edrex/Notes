@@ -11,6 +11,7 @@ Types:
 Searches:
 https://portland.craigslist.org/search/cto?query=sedona%7Codyssey%7Centourage&max_price=6000&min_auto_miles=1000&max_auto_miles=170000
 https://portland.craigslist.org/search/cto?query=van&max_price=6000&min_auto_miles=1000&max_auto_miles=170000
+https://portland.craigslist.org/search/cto?query=%28chrysler+town%29%7C%28dodge+caravan%7Cgc%29&max_price=6000&min_auto_year=2005&min_auto_miles=1000&max_auto_miles=150000
 Active Leads:
 
 [[https://portland.craigslist.org/mlt/cto/d/honda-odyssey/6423215930.html|honda odyssey - $2100 (Gresham)]]  150000

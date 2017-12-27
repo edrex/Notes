@@ -8,6 +8,7 @@ Ford E-150
 1994
 Matt replaced:
  - S belt
+ - belt tensioner
  - brakes
  - some hoses
 E40D transmission

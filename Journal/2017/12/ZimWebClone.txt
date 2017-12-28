@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-28T15:11:25-08:00
+
+====== ZimWebClone ======
+Created Thursday 28 December 2017
+[[Zim]]

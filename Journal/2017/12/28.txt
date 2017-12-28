@@ -9,4 +9,5 @@ Creation-Date: 2017-12-28T15:12:02-08:00
 
 [[TheVan]]
 [ ] Look up DMV proofs
+[ ] Pass DEQ
  

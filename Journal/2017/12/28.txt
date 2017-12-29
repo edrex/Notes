@@ -8,7 +8,7 @@ Creation-Date: 2017-12-28T15:12:02-08:00
   [[KeyboardShortcuts]]
   [[DesktopAppsOnTheWeb]] 
 [[TheVan]]
-[ ] Look up DMV proofs
+[*] Look up DMV proofs
 [ ] Pass DEQ
 
 Student loan one time payment

@@ -5,6 +5,9 @@ Creation-Date: 2018-01-05T15:41:40-08:00
 ====== MergeWiki ======
 Created Friday 05 January 2018
 
-Idea: continuously import a wiki ci
+Idea: continuously import a wiki into a unified data model.
+
+Idea: make a [[WikiImporter]] toolkit for [[PerKeep]]
+
 
 If you 

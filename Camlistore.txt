@@ -3,8 +3,6 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-12-06T14:43:42-08:00
 
 ====== Camlistore ======
-Created Wednesday 06 December 2017
-[[:Vendor]] [[:Infrastructure]] [[:Storage]]
-
+Redirect to PerKeep
 
 

@@ -3,6 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-12-06T14:43:42-08:00
 
 ====== Camlistore ======
-Redirect to PerKeep
+Redirect to [[PerKeep]]
+
 
 

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-06T19:14:55-08:00
+
+====== AISaturdays ======
+
+https://www.meetup.com/AI-Saturdays-PDX
+
+Saturday, January 6, 2018
+https://www.meetup.com/AI-Saturdays-PDX/events/246072611/

@@ -5,8 +5,13 @@ Creation-Date: 2018-01-17T12:39:27-08:00
 ====== Estimate ======
 Created Wednesday 17 January 2018
 
-Front
+Front Suspension
+ - shocks
+ - 2x upper ball joint
+ - 2x lower ball joint
+
 Horn/Air bag
  - Clock spring
  - ~1.5h
+
 

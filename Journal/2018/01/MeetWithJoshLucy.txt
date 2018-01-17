@@ -12,3 +12,5 @@ https://github.com/antirez/dump1090
 wion at Orchard hw
 hackable smart light bulb
 esp8266 can flash from arduino
+
+airsuck is a wrapper for dump1090

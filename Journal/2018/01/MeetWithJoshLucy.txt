@@ -14,3 +14,4 @@ hackable smart light bulb
 esp8266 can flash from arduino
 
 airsuck is a wrapper for dump1090
+rtlamr is power meters

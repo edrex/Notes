@@ -8,6 +8,7 @@ Creation-Date: 2018-01-18T15:22:26-08:00
 [*] Get Sandals online (Adidas sliders size 11)
 [ ] Set up [[:MoViHaNi]]
 
+[[:IndieWeb]]
 
 Thinking about [[:Zim]] website editing.
 [[:Infrastructure]]

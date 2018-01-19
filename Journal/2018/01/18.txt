@@ -5,11 +5,11 @@ Creation-Date: 2018-01-18T15:22:26-08:00
 ====== Thursday 18 Jan 2018 ======
 
 [[:Van]]
-[ ] Get Sandals online (Adidas sliders size 11)
+[*] Get Sandals online (Adidas sliders size 11)
 [ ] Set up [[:MoViHaNi]]
 
 
-Thinking about [[:Zim]] website editing..
+Thinking about [[:Zim]] website editing.
 [[:Infrastructure]]
 
 

@@ -5,5 +5,8 @@ Creation-Date: 2018-01-19T15:29:25-08:00
 ====== GregAzbil ======
 Created Friday 19 January 2018
 
+Acer Aspire R15
+https://google.com/search?q=N16P2
+
 [ ] USB C hub and power supply (65W @ 19V)
 [ ] SSD scratch disk (does it have an m2 slot?)

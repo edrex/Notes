@@ -5,9 +5,9 @@ Creation-Date: 2018-01-18T18:39:40-08:00
 ====== IndieWeb ======
 Created Thursday 18 January 2018
 
-[[:Zim]] and IndieWeb?
+[[:Zim]] and IndieWeb
 How to receive webmentions?
 Ideas:
  - Request in template? unlikely..
- - Render with JS
+ - Render with JS from somewhere else
 https://webmention.herokuapp.com/

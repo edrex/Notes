@@ -5,4 +5,11 @@ Creation-Date: 2018-01-20T16:39:32-08:00
 ====== Infrastructure ======
 Created Saturday 20 January 2018 [[:Hub]]
 
-* [[:ShoH]]
+Spaces
+* [[:Shop]]
+* [[:House]]
+* [[:Van]]
+
+Servers
+* [[:Alexandria]]
+* [[:Chip]]

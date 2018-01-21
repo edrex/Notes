@@ -4,6 +4,7 @@ Creation-Date: 2018-01-19T14:18:43-08:00
 
 ====== HomeDepot ======
 Created Friday 19 January 2018
+[[:Shop]]
 
 For sure:
 [ ] 4x 5 gallon buckets

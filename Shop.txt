@@ -9,6 +9,6 @@ Created Friday 19 January 2018
 [[+AirFilter]]
 
 Need [[:Storage]] containers
-[ ] Small component drawers
+Small component drawers
 [ ] Hangable ziplock bags
 [ ] [[PegBoard]]

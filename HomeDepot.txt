@@ -11,3 +11,4 @@ Created Friday 19 January 2018
 [ ] Shop bench?
 [ ] Free standing storage unit?
 [[:Ikea]] may be better
+[ ] Small component drawers

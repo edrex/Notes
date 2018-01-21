@@ -7,7 +7,7 @@ Hi internet
 
 * Zim on a phone?
 * [[Open phone]]
-[ ] [[Return S7 Active phone]]
+[*] [[Return S7 Active phone]]
 [*] [[Buy a phone]] :(
 [[Nexus 5x repair attempts]]
 [[Voice assistant]]

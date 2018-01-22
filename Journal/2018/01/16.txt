@@ -3,9 +3,6 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-01-16T16:17:38-08:00
 
 ====== Tuesday 16 Jan 2018 ======
-[[WikiLinking]]
-[[+Childpage]]
-[[:RootPage]]
 pdxhub.org
 
 [[MeetWithJoshLucy]]

@@ -6,3 +6,5 @@ Creation-Date: 2018-01-24T19:41:58-08:00
 HW:
 [ ] install GRC
 [ ] decode FM radio (not using gqrx)
+
+IQ 

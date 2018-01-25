@@ -19,3 +19,7 @@ joshlucy@gmail.com
 When is [[:Defcon?]]
 
 Fuck i lost that post twice
+Todo:
+
+[ ] update known
+[ ] submit PR for update

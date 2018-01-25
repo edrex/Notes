@@ -8,3 +8,5 @@ HW:
 [ ] decode FM radio (not using gqrx)
 
 IQ 
+
+balint seber radio educator. talks. meetups: 

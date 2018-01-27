@@ -5,4 +5,6 @@ Creation-Date: 2018-01-22T10:32:45-08:00
 ====== MoViHaNi ======
 Created Monday 22 January 2018
 
-[ ] Set up Known site
+[*] Set up Known site
+[ ] Send out an email invite for next week
+

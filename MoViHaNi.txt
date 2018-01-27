@@ -7,4 +7,7 @@ Created Monday 22 January 2018
 
 [*] Set up Known site
 [ ] Send out an email invite for next week
+	* Leif
+	* Bret
+	* Aaronpk
 

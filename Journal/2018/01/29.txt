@@ -7,4 +7,10 @@ Hi
 [[:Mood:Depressed]]
 
 Tasks
-[ ] Set up a basement workspace that's sufficiently clean and ergonomic
+[ ] Set up a basement workspace that's sufficiently clean and ergonomic //Progress!//
+	[ ] air cleaner
+	[ ] hang bikes
+	[ ] clear bench
+	[ ] vacuum
+
+

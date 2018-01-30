@@ -12,3 +12,5 @@ Need [[:Storage]] containers
 Small component drawers
 [ ] Hangable ziplock bags
 [ ] [[PegBoard]]
+
+Electronics

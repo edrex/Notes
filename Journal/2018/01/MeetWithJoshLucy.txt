@@ -6,7 +6,7 @@ Creation-Date: 2018-01-16T16:38:39-08:00
 Created Tuesday 16 January 2018
 [[:People:JoshLucy]]
 
-[[:NodeRED]]
+[[:Node-RED]]
 
 [[:GQRX]]
 https://github.com/antirez/dump1090

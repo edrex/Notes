@@ -4,8 +4,8 @@ Creation-Date: 2018-01-31T08:54:14-08:00
 
 ====== Wednesday 31 Jan 2018 ======
 High Priority:
-[ ] Schedule with Greg
 [ ] File unemp
+[ ] Schedule with Greg
 
 [ ] Update coreos on edrex.pdxhub.org
 [ ] Free up space

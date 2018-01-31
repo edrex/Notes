@@ -5,4 +5,6 @@ Creation-Date: 2018-01-30T18:50:48-08:00
 ====== Alexandria ======
 Created Tuesday 30 January 2018
 
+Fix short:
 https://www.lifewire.com/how-to-fix-a-computer-that-turns-on-and-then-off-2624444
+http://www.practicalmachinist.com/vb/cnc-machining/cleaning-circuit-boards-241453/

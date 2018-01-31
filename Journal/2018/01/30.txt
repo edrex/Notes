@@ -5,4 +5,5 @@ Creation-Date: 2018-01-30T18:50:36-08:00
 ====== Tuesday 30 Jan 2018 ======
 Fix [[:Alexandria]]
 
-:MoViHaN
+[[:MoViHaNi]] fix email
+[ ] rebuild image

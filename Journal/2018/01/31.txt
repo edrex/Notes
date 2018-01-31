@@ -7,3 +7,5 @@ High Priority:
 [ ] Schedule with Greg
 [ ] File unemp
 
+[ ] Update coreos on edrex.pdxhub.org
+[ ] Free up space

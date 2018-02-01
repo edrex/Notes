@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-31T18:19:52-08:00
+
+====== DavinciResolve ======
+Created Wednesday 31 January 2018
+
+[ ] Why does it see video files as audio only?

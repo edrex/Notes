@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-03T05:16:09-08:00
+
+====== PowerSystem ======
+Created Saturday 03 February 2018
+
+
+[ ] [[SolarPanels]]

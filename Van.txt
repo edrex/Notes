@@ -12,10 +12,15 @@ Created Wednesday 27 December 2017
 
 ===== Buy Lists =====
 
-===== Junkyard list =====
+==== Junkyard ====
 [ ] Better bumper
 [ ] Tow yoke
 [ ] Swivel seat bases for front
+
+==== Lumber ====
+
+==== Misc ====
+
 
 ===== Getting parts =====
 [[Row52.com]]

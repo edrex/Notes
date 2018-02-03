@@ -9,6 +9,8 @@ Created Wednesday 27 December 2017
 [[+Builtins]]
 [[+Seats]]
 [[+Insulation]]
+[[+PowerSystem]]
+
 
 ===== Buy Lists =====
 

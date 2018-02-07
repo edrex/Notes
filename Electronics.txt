@@ -10,3 +10,4 @@ Created Tuesday 06 February 2018
 Buy List:
 [ ] Raspberry Pi 2x
 [ ] Breadboard and starter kit
+[ ] Mini component drawers, 2x

@@ -6,3 +6,7 @@ Creation-Date: 2018-02-06T18:32:13-08:00
 Created Tuesday 06 February 2018
 
 [[RaspberryPi]]
+
+Buy List:
+[ ] Raspberry Pi 2x
+[ ] Breadboard and starter kit

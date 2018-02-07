@@ -11,3 +11,4 @@ Buy List:
 [ ] Raspberry Pi 2x
 [ ] Breadboard and starter kit
 [ ] Mini component drawers, 2x
+[ ] Good USB hub, 2x (different types, power injection)

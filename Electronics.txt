@@ -8,7 +8,7 @@ Created Tuesday 06 February 2018
 [[RaspberryPi]]
 
 Buy List:
-[ ] Raspberry Pi 2x
+[*] Raspberry Pi for van etc
 [ ] Breadboard and starter kit
 [ ] Battery oscilloscope
 [ ] Soldering iron (someone recommended a cheap one ~$35 check reddit?)

@@ -12,4 +12,4 @@ Buy List:
 [ ] Breadboard and starter kit
 [ ] Soldering iron (someone recommended a cheap one ~$35 check reddit?)
 [ ] Mini component drawers
-[ ] Good USB hub, 2x (different types, power injection)
+[*] Good USB hub, 2x (different types, power injection)

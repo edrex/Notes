@@ -8,4 +8,4 @@ Created Thursday 30 November 2017
 [ ] Buy one or two more [[RaspberryPi]] for [[HomeAssistant]] , [[MycroftAI]]
 
 
-
+[ ] 

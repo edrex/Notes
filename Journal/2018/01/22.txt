@@ -5,3 +5,10 @@ Creation-Date: 2018-01-22T10:39:45-08:00
 ====== Monday 22 Jan 2018 ======
 [[BuyList]]
 [[:Infrastructure]]
+
+this is my first edit on a phone.
+will zim handle this edit properly?
+
+:Refile
+
+per keep plus Sandstorm equals sand keep?

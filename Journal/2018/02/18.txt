@@ -6,6 +6,4 @@ Creation-Date: 2018-02-18T08:21:57-08:00
 Happy Sunday!
 Gross weather today. Catch up on Open source / infra stuff!
 
-Check Amazon Orders
-
 [[MigrateIkiWiki]]

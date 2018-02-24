@@ -5,7 +5,9 @@ Creation-Date: 2018-02-24T08:35:21-08:00
 ====== Data ======
 Created Saturday 24 February 2018
 
+Batman:
 https://www.open-mesh.org/projects/open-mesh/wiki
+https://github.com/nicholasvmoore/raspberrypi-mesh
 
 http://mofinetwork.com/index.php?main_page=product_info&products_id=199
 

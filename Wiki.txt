@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-24T08:32:22-08:00
+
+====== Wiki ======
+Created Saturday 24 February 2018
+
+Ikiwiki under docker?
+https://hub.docker.com/r/pdxhub/ikiwiki/builds/bru7sdjhrehfe4qxlincttn/

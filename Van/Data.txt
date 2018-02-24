@@ -6,3 +6,9 @@ Creation-Date: 2018-02-24T08:35:21-08:00
 Created Saturday 24 February 2018
 
 https://www.open-mesh.org/projects/open-mesh/wiki
+
+http://mofinetwork.com/index.php?main_page=product_info&products_id=199
+
+[[./MOFI4500_4GXeLTE_SIM4_Spec_Sheet.pdf]] 
+[[./MOFI4500_4GXeLTE_SIM4_User_Manual.pdf]] 
+[[./MOFI4500_4GXeLTE_SIM4_OVERVIEW.pdf]] 

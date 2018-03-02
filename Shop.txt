@@ -13,4 +13,4 @@ Small component drawers
 [ ] Hangable ziplock bags
 [ ] [[PegBoard]]
 
-[[+Electronics]]
+[[Electronics]]

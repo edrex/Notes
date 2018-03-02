@@ -7,10 +7,13 @@ Created Tuesday 06 February 2018
 
 [[RaspberryPi]]
 
-Buy List:
+===== Buy List =====
 [*] Raspberry Pi for van etc
 [ ] Breadboard and starter kit
 [ ] Battery oscilloscope
 [ ] Soldering iron (someone recommended a cheap one ~$35 check reddit?)
 [ ] Mini component drawers
 [*] Good USB hub, 2x (different types, power injection)
+https://youtu.be/cL8FHz-TOzQ
++[[BenchPowerSupply]]
+[ ] [[:Oscilloscope]]

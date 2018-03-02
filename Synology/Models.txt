@@ -5,6 +5,10 @@ Creation-Date: 2018-03-01T17:28:19-08:00
 ====== Models ======
 Created Thursday 01 March 2018
 
+CPUs
+https://www.synology.com/en-global/knowledgebase/DSM/tutorial/General/What_kind_of_CPU_does_my_NAS_have
+
+===== DS918+ =====
 Upgrading memory:
 https://www.disczone.net/2017/12/11/upgrading-memory-synology-diskstation-ds918/
 

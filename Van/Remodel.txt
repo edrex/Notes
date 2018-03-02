@@ -12,14 +12,15 @@ Created Saturday 03 February 2018
 
 ==== Sealant ====
 [ ] Sikaflex elastomeric polyeurathane sealant or just regular poly
-https://www.emisupply.com/catalog/sikaflex1a-91017-white-part-polyurethane-elastomeric-sealant-300ml-cartridge-p-17954.html
+ - https://www.emisupply.com/catalog/sikaflex1a-91017-white-part-polyurethane-elastomeric-sealant-300ml-cartridge-p-17954.html
+ - https://www.google.com/search?q=sikaflex
 
 ==== Wiring ====
 [ ] Conduit for cables
 [ ] Light switches?
 
 ===== Projects =====
-External windscreen blanket from Reflectix?
+External windscreen blanket from Reflectix? Maybe too obvious?
 
 ===== Sources =====
 https://gnomadhome.com/insulating-our-van/

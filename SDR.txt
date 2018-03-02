@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-01T17:35:06-08:00
+
+====== SDR ======
+Created Thursday 01 March 2018
+
+
+https://docs.influxdata.com/influxdb/v1.4/administration/security/

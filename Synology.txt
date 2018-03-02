@@ -4,9 +4,12 @@ Creation-Date: 2017-12-04T19:50:40-08:00
 
 ====== Synology ======
 [[:Vendor]]
+[[:NAS]]
+
 Created Thursday 30 November 2017
 
 [[+RunningServices]]
+
 
 I'm thinking to buy a DS918+, top of the consumer line
 [[+Models]]

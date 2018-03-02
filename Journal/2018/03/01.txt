@@ -4,8 +4,12 @@ Creation-Date: 2018-03-01T17:54:20-08:00
 
 ====== Thursday 01 Mar 2018 ======
 
-Planning/ordering f[[:Van:Remodel]]
+
 
 [*] Deposited checks
 [*] Got new cards
 [ ] Update payment info with: Paypal, Digital Ocean, Linode
+
+
+Evening at [[RockingFrog:]]
+Organizing notes for [[:Van:Remodel]]

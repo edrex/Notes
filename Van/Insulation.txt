@@ -8,14 +8,14 @@ Created Saturday 03 February 2018
 ===== Materials =====
 
 ==== Adhesive ====
-[ ] 3M spray 70
+[*] 3M spray 70 (maybe should have gotten 90? we'll see)
 
 ==== Sealant ====
 [ ] Sikaflex elastomeric polyeurathane sealant or just regular poly
-
 https://www.emisupply.com/catalog/sikaflex1a-91017-white-part-polyurethane-elastomeric-sealant-300ml-cartridge-p-17954.html
 
-Trunking for cables?
+==== Wiring ====
+ConduitTrunking for cables?
 Thinsulate carpet for walls?
 Loft/fill insulation for 
 Roof vent?

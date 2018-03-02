@@ -15,7 +15,8 @@ Created Saturday 03 February 2018
 https://www.emisupply.com/catalog/sikaflex1a-91017-white-part-polyurethane-elastomeric-sealant-300ml-cartridge-p-17954.html
 
 ==== Wiring ====
-ConduitTrunking for cables?
+[ ] Conduit for cables
+[ ] Light switches?
 Thinsulate carpet for walls?
 Loft/fill insulation for 
 Roof vent?

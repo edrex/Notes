@@ -8,4 +8,5 @@ Created Thursday 01 March 2018
 [[RaspberryPi]]
 http://wiki.radxa.com/Rock2
 
-See also: NAS
+See also: [[:NAS]]
+

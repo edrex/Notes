@@ -4,7 +4,8 @@ Creation-Date: 2018-03-01T17:54:20-08:00
 
 ====== Thursday 01 Mar 2018 ======
 
-[[:Van:Remodel]]
+Planning/ordering f[[:Van:Remodel]]
 
-[x] Deposited checks
-[ ] Got
+[*] Deposited checks
+[*] Got new cards
+[ ] Update payment info with: Paypal, Digital Ocean, Linode

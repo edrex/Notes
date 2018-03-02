@@ -9,7 +9,7 @@ Created Thursday 30 November 2017
 [[+RunningServices]]
 
 I'm thinking to buy a DS918+, top of the consumer line
-[[+DS918Plus]]
+[[+Models]]
 
 
 https://www.disczone.net/2017/12/11/upgrading-memory-synology-diskstation-ds918/

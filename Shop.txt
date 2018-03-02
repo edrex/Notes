@@ -13,6 +13,4 @@ Small component drawers
 [ ] Hangable ziplock bags
 [ ] [[PegBoard]]
 
-Electronics
-[ ] [[BenchPowerSupply]]
-[ ] [[:Oscilloscope]]
+[[+Electronics]]

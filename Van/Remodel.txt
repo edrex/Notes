@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-02-03T04:53:33-08:00
 
-====== Insulation ======
+====== Remodel ======
 Created Saturday 03 February 2018
 
 ===== Materials =====
@@ -18,6 +18,7 @@ https://www.emisupply.com/catalog/sikaflex1a-91017-white-part-polyurethane-elast
 [ ] Conduit for cables
 [ ] Light switches?
 
+===== Projects =====
 External windscreen blanket from Reflectix?
 
 ===== Sources =====

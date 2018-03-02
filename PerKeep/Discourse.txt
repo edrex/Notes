@@ -9,5 +9,7 @@ Using https://github.com/indiehosters/discourse
 
 The Death Star is not yet fully operational.
 
-[ ] Basic email send (gmail)
-[ ] Welcome 
+[*] Basic email send (gmail)
+[*] Let's encrypt
+[*] Welcome text/logo customization/etc
+

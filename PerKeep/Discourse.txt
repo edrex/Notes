@@ -7,9 +7,11 @@ Created Friday 02 March 2018
 
 Using https://github.com/indiehosters/discourse
 
-The Death Star is not yet fully operational.
-
 [*] Basic email send (gmail)
 [*] Let's encrypt
 [*] Welcome text/logo customization/etc
 
+The Death Star is not yet fully operational.
+
+[ ] Seed topics
+[ ] Email send/receive (mailpile or similar)

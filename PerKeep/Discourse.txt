@@ -6,3 +6,8 @@ Creation-Date: 2018-03-02T12:55:16-08:00
 Created Friday 02 March 2018
 
 Using https://github.com/indiehosters/discourse
+
+The Death Star is not yet fully operational.
+
+[ ] Basic email send (gmail)
+[ ] Welcome 

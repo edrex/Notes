@@ -9,7 +9,11 @@ Upgrading memory:
 https://www.disczone.net/2017/12/11/upgrading-memory-synology-diskstation-ds918/
 
 Another option, previous gen DS1517+
- - 
+ - About $200 more
+ + One more drive
+ - m2 is an addon
+ + [[GigE]] avail as an addon
+ 
 
 
 https://www.amazon.com/Synology-DiskStation-DS1517-8GB-Diskless/dp/B06Y4VFRQP?psc=1&SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duckduckgo-d-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=B06Y4VFRQP

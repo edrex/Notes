@@ -6,16 +6,6 @@ Creation-Date: 2017-12-04T19:50:40-08:00
 [[:Vendor]]
 Created Thursday 30 November 2017
 
-+Runnin
-Syncthing, Duplicity packages (out of date)
-https://synocommunity.com/packages
+[[+RunningServices]]
 
-Things I want to try installing on the NAS:
-[[HomeAssistant]]
-[[MycroftAI]]
-
-https://home-assistant.io/
-GoogleAssistant integration: https://home-assistant.io/addons/google_assistant/
-
-[[Syncthing]] :  https://forum.syncthing.net/t/nas-synology-box/397/2
-http://www.synology-wiki.de/index.php/Duplicity
+I'm thinking to buy a DS918+, top of the consumer line

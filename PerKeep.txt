@@ -10,3 +10,5 @@ Previously known as: [[Camlistore]]
 Tasks:
 [ ] Create a ticket for support channel
 
+[[+Discourse]]
+

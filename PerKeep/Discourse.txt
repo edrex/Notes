@@ -13,5 +13,5 @@ Using https://github.com/indiehosters/discourse
 
 The Death Star is not yet fully operational.
 
-[ ] Seed topics
+[ ] Seed topics`
 [ ] Email send/receive (mailpile or similar)

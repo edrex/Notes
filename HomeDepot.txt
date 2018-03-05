@@ -8,7 +8,7 @@ Created Friday 19 January 2018
 
 For sure:
 [ ] 4x 5 gallon buckets
-[ ] Hooks for hanging bikes etc from the rafters
+[*] Hooks for hanging bikes etc from the rafters
 [ ] Storage bins (clear, stackable) for basement and van
 [ ] Small component drawers (maybe online tho)
 

@@ -7,4 +7,4 @@ Creation-Date: 2018-03-07T12:02:30-08:00
 
 Installing @Openmediavault 4 on my RPi3 was a revelation. A $50 (+drive) fully open NAS we could give one to everyone. Think about how that could change things. 
 
-Still, the #Pi3 can only transfer at ~4MB/s, 1/12 full speed for HDDs. I'm planning two more builds one  12V #ODroid #HC2  with drives co
+Still, the #Pi3 can only transfer at ~4MB/s, 1/12 full speed for HDDs. I'm planning two more builds: a 12V #ODroid #HC2  with drives co

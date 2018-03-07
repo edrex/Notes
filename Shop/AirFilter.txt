@@ -4,6 +4,10 @@ Creation-Date: 2018-01-19T13:43:26-08:00
 
 ====== AirFilter ======
 Created Friday 19 January 2018
+Attaching a sensor:
+Idea: arduino with sensor and IR, control blower that way.
+
+https://hackaday.com/2012/04/19/monitoring-air-quality-with-a-12-sensor/
 
 http://google.com/search?q=small+shop+air+filter
 Tab recovery hmm

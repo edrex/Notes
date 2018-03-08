@@ -8,3 +8,6 @@ Created Saturday 03 March 2018
 Grin technology ebikes.ca
 Endless sphere diy 
 Bafang 8fang
+http://www.ebikes.ca/tools/simulator.html?motor=MSNM13&wheel=16i&cont=C20&bopen=false&k=1&autothrot=false&mass=85&wheel_b=16i&mass_b=85&axis=mph&hp=100
+http://www.ebikes.ca/tools/simulator.html?motor=MSNM13&wheel=16i&cont=C20&bopen=false&k=1&axis=mph&autothrot=true&throt=100
+http://www.ebikes.ca/tools/simulator.html?motor=MSAW2013&wheel=16i&cont=C20&bopen=false&axis=mph&batt=B3623_GA&autothrot=true&throt=100&hp=0

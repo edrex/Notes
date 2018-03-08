@@ -4,8 +4,9 @@ Creation-Date: 2017-11-30T14:10:24-08:00
 
 ====== BuyList ======
 Created Thursday 30 November 2017
+[[:Shop]]
+
 
 [ ] Buy one or two more [[RaspberryPi]] for [[HomeAssistant]] , [[MycroftAI]]
 
 
-[ ] 

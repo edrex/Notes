@@ -3,3 +3,6 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-03-09T11:09:39-08:00
 
 ====== Friday 09 Mar 2018 ======
+[ ] Comm w/Tim:
+	[ ] make spreadsheet
+	[ ] deposit check

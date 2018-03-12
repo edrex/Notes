@@ -7,5 +7,8 @@ Created Thursday 01 March 2018
 
 https://www.cnx-software.com/2018/01/18/odroid-hc2-linux-nas-system-for-3-5-hard-drives-launched-for-54/
 
+Cloudshell
+http://www.hardkernel.com/main/products/prdt_info.php?g_code=G149142327280
+
 https://www.crowdsupply.com/gnubee/personal-cloud-1
 

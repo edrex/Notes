@@ -6,5 +6,7 @@ Creation-Date: 2018-03-13T12:28:51-07:00
 Created Tuesday 13 March 2018
 
 https://www.autowrecking.com/parts/view/id/11966688
-FITE 6675 FA
-09 30 93A{{./20180313_125926.jpg}}
+FITE 6675 FA ?
+09 30 93A ?
+
+{{./20180313_125926.jpg?width=600}}

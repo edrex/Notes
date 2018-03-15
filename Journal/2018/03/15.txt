@@ -5,4 +5,5 @@ Creation-Date: 2018-03-15T12:49:05-07:00
 ====== Thursday 15 Mar 2018 ======
 [[:Home]]
 [ ] msg Tim/deposit
+[ ] [[:HomeLab]]
 

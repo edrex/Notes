@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-15T13:00:03-07:00
+
+====== BookMobile ======
+Created Thursday 15 March 2018
+
+[[:Server]]
+
+[[:ODroid]]  HC1

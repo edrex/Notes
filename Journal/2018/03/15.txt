@@ -3,4 +3,6 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-03-15T12:49:05-07:00
 
 ====== Thursday 15 Mar 2018 ======
-[[:Focu]]
+[[:Home]]
+[ ] msg Tim/deposit
+

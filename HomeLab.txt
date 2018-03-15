@@ -8,4 +8,4 @@ Created Thursday 15 March 2018
 [[:Embedded]]
 
 Builds
-[[BookMobile]]
+:[[BookMobile]]

@@ -11,6 +11,6 @@ Created Friday 19 January 2018
 Need [[:Storage]] containers
 Small component drawers
 [ ] Hangable ziplock bags
-[ ] [[PegBoard]]
+[ ] [[+PegBoard]]
 
 [[Electronics]]

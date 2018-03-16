@@ -5,4 +5,3 @@ Creation-Date: 2018-01-31T17:33:51-08:00
 ====== GregAzbill ======
 Created Wednesday 31 January 2018
 
-[[DavinciResolve]]

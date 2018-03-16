@@ -5,7 +5,7 @@ Creation-Date: 2018-03-13T12:28:51-07:00
 ====== Transmission ======
 Created Tuesday 13 March 2018
 
-[ ] Replace filter/service transmission solen
+[ ] Replace filter/service transmission solenoid pack
 
 https://www.autowrecking.com/parts/view/id/11966688
 FITE 6675 FA ?

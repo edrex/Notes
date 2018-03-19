@@ -3,4 +3,4 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-03-18T17:04:36-07:00
 
 ====== Monday 19 Mar 2018 ======
-[ ] Call city [[:House:Zoning]] with 
+[ ] Call city [[:House:Zoning]] with fence height question 

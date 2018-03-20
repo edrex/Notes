@@ -13,3 +13,6 @@ r5-571tg-78g6
 nxgcfaa001628026a87200
 [ ] USB C hub and power supply (65W @ 19V)
 [ ] SSD scratch disk (does it have an m2 slot?)
+
+https://www.google.com/search?q=blender%20video%20preview%20frame%20rate%20cache
+https://blender.stackexchange.com/questions/27007/how-to-speed-up-blender-video-sequence-editor-rendering?noredirect=1&lq=1

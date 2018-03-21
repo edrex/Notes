@@ -4,4 +4,6 @@ Creation-Date: 2017-11-21T14:39:38-08:00
 
 ====== Home ======
 
+Remember: Go to Home
+
 [[BuyList]]

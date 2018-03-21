@@ -5,6 +5,9 @@ Creation-Date: 2018-02-03T05:16:09-08:00
 ====== PowerSystem ======
 Created Saturday 03 February 2018
 Currently installed configuration:
-1x deep drain lead acid battery. Purchased Jan
+
+1x deep drain lead acid battery. Purchased Jan 2018.
+
+[[:Batteries]]
 
 [ ] [[SolarPanels]]

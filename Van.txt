@@ -10,7 +10,7 @@ Created Wednesday 27 December 2017
 [[+Mounts]] 
 [[+Builtins]]
 [[+Seats]]
-[[+Remodel]]
+[[+Interior]]
 [[+PowerSystem]]
 [[+Data]]
 

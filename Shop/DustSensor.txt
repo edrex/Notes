@@ -6,6 +6,10 @@ Creation-Date: 2018-03-23T11:16:05-07:00
 Created Friday 23 March 2018
 See also [[AirFilter]]
 
+Sensor interface
+https://gist.github.com/jcouyang/43dd60e94b79526cc2fdd6a69a125d9c
+
+
 http://www.howmuchsnow.com/arduino/airquality/grovedust/#references
 
 http://www.epictinker.com/Grove-Dust-Sensor-p/sen12291p.htm

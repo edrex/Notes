@@ -2,6 +2,10 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-03-23T11:28:48-07:00
 
-====== Infrastructure:Apps ======
+====== Apps ======
 Created Friday 23 March 2018
+Photos
+mediagoblin
 https://oasis.sandstorm.io/grain/LH2zvnRQpGJesmEbj9A66u
+
+https://github.com/Kickball/awesome-selfhosted#document-archiving

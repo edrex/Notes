@@ -3,8 +3,12 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-03-23T11:18:43-07:00
 
 ====== LogicAnalyzer ======
+[[:Electronics]]
+
+
+
 Created Friday 23 March 2018
-https://www.google.com/search?ei=o2y0WoHWF6mL0wLvqbi4Bg&q=best+cheap+open+source+logic+analyzers&oq=best+cheap+open+source+logic+analyzers&gs_l=psy-ab.3..35i39k1.2707.5370.0.6029.2.2.0.0.0.0.170.289.0j2.2.0....0...1c.1.64.psy-ab..0.2.285...33i21k1.0.fgS0wODS9lw
+https://www.google.com/search?q=best+cheap+open+source+logic+analyzers&oq=best+cheap+open+source+logic+analyzers
 
 https://www.sump.org/projects/analyzer/client/
 https://www.sump.org/projects/analyzer/

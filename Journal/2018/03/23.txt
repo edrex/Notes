@@ -6,3 +6,7 @@ Creation-Date: 2018-03-23T11:04:11-07:00
 Order arduino
 [ ] temp sensor
 [ ] network?
+
+
+Sel
+https://github.com/Kickball/awesome-selfhosted#document-archiving

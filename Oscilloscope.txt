@@ -5,6 +5,8 @@ Creation-Date: 2018-03-23T11:23:42-07:00
 ====== Oscilloscope ======
 Created Friday 23 March 2018
 
+https://docs.google.com/spreadsheets/d/1rtPqMAkNw2bSkqocuc7zcYkl57fsdPVlxzyqcJmbKIc/edit#gid=197124678
+
 Micsig tbook mini
 https://www.youtube.com/watch?v=DNou_H-kHZY&t=1092s
 https://www.aliexpress.com/item/Digital-Tablet-Oscilloscope-100MHz-2CH-4CH-handheld-oscilloscope-automotive-scopemeter-oscilloscope-osciloscopio-TO1000M-series/32767101226.html

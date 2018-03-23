@@ -4,8 +4,10 @@ Creation-Date: 2018-03-23T11:28:48-07:00
 
 ====== Apps ======
 Created Friday 23 March 2018
+Nextcloud https://hub.docker.com/r/arm32v7/nextcloud/
+
 Photos
-mediagoblin
-https://oasis.sandstorm.io/grain/LH2zvnRQpGJesmEbj9A66u
+mediagoblin https://oasis.sandstorm.io/grain/LH2zvnRQpGJesmEbj9A66u
+lychee https://ld.electerious.com/#0/13901681749502
 
 https://github.com/Kickball/awesome-selfhosted#document-archiving

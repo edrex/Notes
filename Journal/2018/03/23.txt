@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-23T11:04:11-07:00
+
+====== Friday 23 Mar 2018 ======
+Order arduino
+[ ] temp sensor
+[ ] network?

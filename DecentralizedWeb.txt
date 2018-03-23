@@ -8,7 +8,10 @@ Created Monday 04 December 2017
 
 [[:People:BrennanNovak]]
 [[:IPFS]]
+[[:Infrastructure]]
 
+Apps
+https://github.com/Kickball/awesome-selfhosted#document-archiving
 
 
 http://wiki.p2pfoundation.net/P2P_Foundation:About

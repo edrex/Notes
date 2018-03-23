@@ -8,5 +8,5 @@ Order arduino
 [ ] network?
 
 
-Sel
-https://github.com/Kickball/awesome-selfhosted#document-archiving
+[[DecentralizedWeb]]
+

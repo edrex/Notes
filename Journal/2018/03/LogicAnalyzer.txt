@@ -8,4 +8,7 @@ https://www.sump.org/projects/analyzer/client/
 https://www.sump.org/projects/analyzer/
 https://www.seeedstudio.com/bus-pirate-v3-assembled-p-609.html
 
+https://www.youtube.com/watch?v=I30fCF4bWes
+https://hackaday.com/2016/10/26/an-open-source-96-msps-logic-analyzer-for-22/
+
 https://electronics.stackexchange.com/questions/2036/beginners-logic-analyzer

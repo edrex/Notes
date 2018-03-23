@@ -9,5 +9,5 @@ Nextcloud https://hub.docker.com/r/arm32v7/nextcloud/
 Photos
 mediagoblin https://oasis.sandstorm.io/grain/LH2zvnRQpGJesmEbj9A66u
 lychee https://ld.electerious.com/#0/13901681749502
-
+piwigo http://piwigo.org/doc/doku.php?id=user_documentation:metadata
 https://github.com/Kickball/awesome-selfhosted#document-archiving

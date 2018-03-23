@@ -11,4 +11,4 @@ Order arduino
 [[DecentralizedWeb]]
 [[LogicAnalyzer]]
 
-[[PhotoSharing]]
+[[Infrastructure:Apps]]

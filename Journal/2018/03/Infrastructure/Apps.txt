@@ -2,6 +2,6 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-03-23T11:28:48-07:00
 
-====== PhotoSharing ======
+====== Infrastructure:Apps ======
 Created Friday 23 March 2018
 https://oasis.sandstorm.io/grain/LH2zvnRQpGJesmEbj9A66u

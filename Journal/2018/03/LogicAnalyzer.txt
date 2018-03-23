@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-23T11:18:43-07:00
+
+====== LogicAnalyzer ======
+Created Friday 23 March 2018
+https://www.sump.org/projects/analyzer/client/
+https://www.sump.org/projects/analyzer/
+https://www.seeedstudio.com/bus-pirate-v3-assembled-p-609.html
+
+https://electronics.stackexchange.com/questions/2036/beginners-logic-analyzer

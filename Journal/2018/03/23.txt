@@ -9,4 +9,5 @@ Order arduino
 
 
 [[DecentralizedWeb]]
+[[LogicAnalyzer]]
 

@@ -7,7 +7,7 @@ Created Saturday 07 April 2018
 04/03/2018
 Check #312: SHARE DRAFT / Eff. Date:
  	
-$150.00
+$150.00$150.00
 $8,470.48
 04/03/2018
 Check #311: SHARE DRAFT / Eff. Date:
@@ -15,8 +15,9 @@ Check #311: SHARE DRAFT / Eff. Date:
 $200.00
 $8,620.48
 
-| Item          | Date | Amount |
-|:--------------|:-----|-------:|
-| Original loan |      |        |
-|               |      |        |
+| Item          | Date       |  Amount |
+|:--------------|:-----------|--------:|
+| Original loan |            |         |
+| Temp loan     | 04/03/2018 | $150.00 |
+| Temp loan     | 04/03/2018 | $150.00 |
 

@@ -8,4 +8,5 @@ Created Saturday 07 April 2018
 | Item          | Amount |
 |:--------------|-------:|
 | Original loan |        |
+|               |        |
 

@@ -13,4 +13,8 @@ Tasks:
 [ ] [[:Sandstorm]] on spacelab
 [ ] wekan
 [ ] [[:ikiwiki]] as sandstorm app
-[ ] [[:i3]]  
+[ ] [[:i3]] keyboard shortcuts 
+[ ] \
+
+
+[ ] put my [[:Zim]] wiki online

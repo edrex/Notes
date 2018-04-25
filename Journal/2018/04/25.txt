@@ -10,5 +10,6 @@ Tasks:
 [>] known image limit
 [x] ~~gitlab~~ ~~hosting~~
 [ ] spacelab Debian VM under Win10
-[ ] [[:Sandstorm]] 
+[ ] [[:Sandstorm]] on spacelab
+[ ] wekan
 [ ] [[:ikiwiki]] as sandstorm app

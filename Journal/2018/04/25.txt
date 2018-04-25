@@ -7,3 +7,5 @@ Working on PDXHub infrastructure.
 
 Tasks:
 [ ] Find mail settings for gmail SMTP
+[ ] sandstorm instance
+[ ] ikiwiki

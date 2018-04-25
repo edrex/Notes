@@ -13,3 +13,4 @@ Tasks:
 [ ] [[:Sandstorm]] on spacelab
 [ ] wekan
 [ ] [[:ikiwiki]] as sandstorm app
+[ ] [[:i3]]  

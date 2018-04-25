@@ -15,5 +15,5 @@ Working on PDXHub infrastructure.
 [ ] spacelab Debian VM under Win10
 [ ] [[:Sandstorm]] on spacelab
 [ ] wekan
-[ ] [[:ikiwiki]] as sandstorm app
+[ ] [[:ikiwiki]] as libresh app
 [ ] [[:i3]] keyboard shortcuts 

@@ -5,7 +5,10 @@ Creation-Date: 2018-04-25T11:56:54-07:00
 ====== Wednesday 25 Apr 2018 ======
 Working on PDXHub infrastructure.
 
-Tasks:
+===== Outcomes =====
+[ ] share my [[:Zim]] wiki online
+
+===== Tasks =====
 [>] Find mail settings for gmail SMTP
 [>] known image limit
 [x] ~~gitlab~~ ~~hosting~~
@@ -14,7 +17,3 @@ Tasks:
 [ ] wekan
 [ ] [[:ikiwiki]] as sandstorm app
 [ ] [[:i3]] keyboard shortcuts 
-[ ] \
-
-
-[ ] put my [[:Zim]] wiki online

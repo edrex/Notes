@@ -7,6 +7,6 @@ Working on PDXHub infrastructure.
 
 Tasks:
 [>] Find mail settings for gmail SMTP
-[ ] sandstorm instance
+[>] known image limit
 [ ] ikiwiki
-[*] known image limit
+[ ] sandstorm instance

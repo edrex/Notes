@@ -9,4 +9,4 @@ Tasks:
 [ ] Find mail settings for gmail SMTP
 [ ] sandstorm instance
 [ ] ikiwiki
-[ ] known 
+[ ] known image limit

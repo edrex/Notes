@@ -9,5 +9,5 @@ Tasks:
 [>] Find mail settings for gmail SMTP
 [>] known image limit
 [x] ~~gitlab~~ ~~hosting~~
-[ ] ikiwiki
-[ ] sandstorm instance (spacelab vm?)
+[ ] [[:ikiwiki]]
+[ ] [[:Sandstorm]] instance (spacelab vm?)

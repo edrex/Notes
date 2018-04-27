@@ -8,3 +8,6 @@ Creation-Date: 2018-04-27T16:01:09-07:00
 [ ] Qutebrowser -> rofi history launcher?
 [ ] setup dns for bookmobile and gonas
 
+Try out the new sway?
+
+Look at lfnw 

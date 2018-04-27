@@ -5,4 +5,5 @@ Creation-Date: 2018-04-27T16:01:09-07:00
 ====== Friday 27 Apr 2018 ======
 
 ==== On the train ====
-Qutebrowser -> rofi history launcher?
+[ ] Qutebrowser -> rofi history launcher?
+[ ] setup dns for bookmobile and 

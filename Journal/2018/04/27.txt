@@ -5,7 +5,8 @@ Creation-Date: 2018-04-27T16:01:09-07:00
 ====== Friday 27 Apr 2018 ======
 
 ==== On the train ====
-[ ] ikiwiki as libresh app
+[*] ikiwiki as libresh app
+[ ] Migrate wiki.pdxhub.org to libre2
 [ ] Qutebrowser -> rofi history launcher?
 [ ] setup dns for bookmobile and gonas
 

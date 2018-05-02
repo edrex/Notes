@@ -12,4 +12,7 @@ Creation-Date: 2018-05-02T11:35:42-07:00
 Goals:
 - Get rid of as much stuff as possible.
 
+[[:MovingOut]]
+
+
 

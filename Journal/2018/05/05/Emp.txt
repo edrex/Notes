@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-05T22:28:20-07:00
+
+====== Emp ======
+Created Saturday 05 May 2018
+Attend Linuxfest NW

@@ -3,6 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-05-05T06:56:35-07:00
 
 ====== Saturday 05 May 2018 ======
+[ ] [[+Emp]]
 
 wth is going wrong with my blog?
 
@@ -13,3 +14,4 @@ http://opensourcebridge.org/blog/2018/05/register-now-for-open-source-bridge-201
 This June's edition of Open Source Bridge will be an unconference + party (the best parts) and the final year for the event. Tickets are limited so get yours now!
 
 Gratitude to the organizers for their persistent efforts and inspiring skills 💙
+

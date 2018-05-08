@@ -11,3 +11,4 @@ Daily status
 
 Research:
 Amazon Lambda alternatives?
+Rofi STT frontend?

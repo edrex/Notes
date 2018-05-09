@@ -5,6 +5,8 @@ Creation-Date: 2018-05-08T08:40:07-07:00
 ====== MomsHouse ======
 Created Tuesday 08 May 2018
 
+[ ] Order VDSL modem (comtrend 3030?), router
+
 Bring from [[LaurensHouse:]]
 - [[NiMh]] charger
 

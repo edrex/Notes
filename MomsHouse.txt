@@ -7,7 +7,7 @@ Created Tuesday 08 May 2018
 
 [[https://broadbandmap.fcc.gov/#/location-summary?lat=43.150832&lon=-123.397404&tech=acfosw&speed=25_3&vlat=43.151759025659345&vlon=-123.3973555&vzoom=16.007864250438523|Broadband map]]
 [ ] Order VDSL modem (comtrend 3030?), router
-[ ] Order router (el cheapo 
+[ ] Order router (openwrt something)
 
 Bring from [[LaurensHouse:]]
 - [[NiMh]] charger

@@ -13,10 +13,19 @@ maybe cause-indicating?
  07:22 xhci_hcd 0000:39:00.0: HC died; cleaning up kernel 2 
  07:22 dpm_run_callback(): pci_pm_resume+0x0/0xa0 returns -110 kernel
  07:22 PM: Device 0000:39:00.0 failed to resume async: error -110 kernel
-
  07:22 [drm:intel_dp_start_link_train [i915]] *ERROR* failed to enable link training kernel
+
+SUSPEND
+
  08:04 [drm:intel_display_resume [i915]] *ERROR* Restoring old state failed with -22 kernel
+
+BAD STATE
+
  08:05 PM: Some devices failed to suspend, or early wake event detected kernel
+
+Plugged in, ran "xrandr --auto"
+
+
  08:12 ACPI BIOS Error (bug): Failure creating [\_GPE.XTBT.SPRT], AE_ALREADY_EXISTS (20180105/dswload2-350) kernel
  08:12 ACPI Error: AE_ALREADY_EXISTS, During name lookup/catalog (20180105/psobject-252) kernel
  08:12 ACPI Error: Method parse/execution failed \_GPE.XTBT, AE_ALREADY_EXISTS (20180105/psparse-550) kernel 2 

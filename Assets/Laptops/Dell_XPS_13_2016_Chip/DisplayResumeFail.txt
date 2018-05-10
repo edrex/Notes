@@ -8,5 +8,6 @@ Created Thursday 10 May 2018
 Problem description: When usb-c HDMI dongle is disconnected while suspended, display later fails to resume. 
 
 [drm:intel_dp_start_link_train [i915]] *ERROR* failed to enable link training
+[drm:intel_display_resume [i915]] *ERROR* Restoring old state failed with -22
 
 https://www.google.com/search?q=%5Bdrm%3Aintel_dp_start_link_train%20%5Bi915%5D%5D%20%2AERROR%2A%20failed%20to%20enable%20link%20training

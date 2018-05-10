@@ -3,18 +3,10 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-05-07T21:30:48-07:00
 
 ====== NorthBackTrip ======
-Created Monday 07 May 2018
-
 
 Thursday 5/24 - carpool to Bend, stay at Linda's friend's and.or Cosmo's cousin's or...?
 Friday 5/25 - depart Bend for 7 days of amazing riding, 60-70 miles each day, mostly off road
 Thursday 5/31 - return to Bend, carpool back to Portland
-
-Eric and Linda have offered to drive, there's room for all of us on this email list and our bikes. 
-
-If you're not coming from Portland, we might be able to stop at a train station on the way to scoop you up.
-
-I've spent a good amount of time researching and creating the below routes.  They are still in development, so if you copy them to your own RideWithGPS account, please know they may change before we go.  If you have intel on any of the areas we're riding in, or any other route feedback, please send it on over!
 
 https://ridewithgps.com/routes/26939575
 https://ridewithgps.com/routes/26939683
@@ -30,9 +22,9 @@ HIGHLIGHTS: Crooked River, Painted Hills, Sherar's Bridge, Cove Pallisades, Lake
 Itinerary
 
 
-Day 1
-https://ridewithgps.com/routes/26939575
-https://ridewithgps.com/routes/26939683
+
+Day 1 https://ridewithgps.com/routes/26939575
+Day 1 https://ridewithgps.com/routes/26939683
 https://ridewithgps.com/routes/27016245
 https://ridewithgps.com/routes/27016319
 https://ridewithgps.com/routes/27017522

@@ -7,13 +7,13 @@ Created Thursday 10 May 2018
 
 Problem description: When usb-c HDMI dongle is disconnected while suspended, display later fails to resume. 
 
-[drm:intel_dp_start_link_train [i915]] *ERROR* failed to enable link training
-[drm:intel_display_resume [i915]] *ERROR* Restoring old state failed with -22
+maybe cause-indicating?
 
  07:22 xhci_hcd 0000:39:00.0: PCI post-resume error -110! kernel
  07:22 xhci_hcd 0000:39:00.0: HC died; cleaning up kernel 2 
  07:22 dpm_run_callback(): pci_pm_resume+0x0/0xa0 returns -110 kernel
  07:22 PM: Device 0000:39:00.0 failed to resume async: error -110 kernel
+
  07:22 [drm:intel_dp_start_link_train [i915]] *ERROR* failed to enable link training kernel
  08:04 [drm:intel_display_resume [i915]] *ERROR* Restoring old state failed with -22 kernel
  08:05 PM: Some devices failed to suspend, or early wake event detected kernel

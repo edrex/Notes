@@ -23,8 +23,7 @@ BAD STATE
 
  08:05 PM: Some devices failed to suspend, or early wake event detected kernel
 
-Plugged in, ran "xrandr --auto"
-
+Plugged in
 
  08:12 ACPI BIOS Error (bug): Failure creating [\_GPE.XTBT.SPRT], AE_ALREADY_EXISTS (20180105/dswload2-350) kernel
  08:12 ACPI Error: AE_ALREADY_EXISTS, During name lookup/catalog (20180105/psobject-252) kernel
@@ -35,5 +34,6 @@ Plugged in, ran "xrandr --auto"
  08:12 Error calling EVIOCSKEYCODE on device node '/dev/input/event21' (scan code 0x700e2, key code 125): Invalid argument systemd-udevd
  08:12 Error calling EVIOCSKEYCODE on device node '/dev/input/event21' (scan code 0x700e3, key code 56): Invalid argument systemd-udevd
 
+Ran "xrandr --auto", display is back
 
 https://www.google.com/search?q=%5Bdrm%3Aintel_dp_start_link_train%20%5Bi915%5D%5D%20%2AERROR%2A%20failed%20to%20enable%20link%20training

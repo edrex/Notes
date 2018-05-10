@@ -6,5 +6,14 @@ Creation-Date: 2018-05-07T21:30:48-07:00
 Created Monday 07 May 2018
 
 Itinerary
+Day 1
+https://ridewithgps.com/routes/26939575
+https://ridewithgps.com/routes/26939683
+https://ridewithgps.com/routes/27016245
+https://ridewithgps.com/routes/27016319
+https://ridewithgps.com/routes/27017522
+https://ridewithgps.com/routes/27077799
+https://ridewithgps.com/routes/27017692
+
 
 [[+PackList]]

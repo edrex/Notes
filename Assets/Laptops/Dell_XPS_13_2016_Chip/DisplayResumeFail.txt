@@ -7,7 +7,21 @@ Created Thursday 10 May 2018
 
 Problem description: When usb-c HDMI dongle is disconnected while suspended, display later fails to resume. 
 
-[drm:intel_dp_start_link_train [i915]] *ERROR* failed to enable link training
-[drm:intel_display_resume [i915]] *ERROR* Restoring old state failed with -22
+
+ 08:12 Error calling EVIOCSKEYCODE on device node '/dev/input/event21' (scan code 0x700e3, key code 56): Invalid argument systemd-udevd
+ 08:12 Error calling EVIOCSKEYCODE on device node '/dev/input/event21' (scan code 0x700e2, key code 125): Invalid argument systemd-udevd
+ 08:12 Error calling EVIOCSKEYCODE on device node '/dev/input/event21' (scan code 0x70039, key code 1): Invalid argument systemd-udevd
+ 08:12 ACPI Error: AE_ALREADY_EXISTS, while evaluating GPE method [_E42] (20180105/evgpe-646) kernel
+ 08:12 ACPI Error: Method parse/execution failed \_GPE._E42, AE_ALREADY_EXISTS (20180105/psparse-550) kernel
+ 08:12 ACPI Error: Method parse/execution failed \_GPE.XTBT, AE_ALREADY_EXISTS (20180105/psparse-550) kernel 2 
+ 08:12 ACPI Error: AE_ALREADY_EXISTS, During name lookup/catalog (20180105/psobject-252) kernel
+ 08:12 ACPI BIOS Error (bug): Failure creating [\_GPE.XTBT.SPRT], AE_ALREADY_EXISTS (20180105/dswload2-350) kernel
+ 08:05 PM: Some devices failed to suspend, or early wake event detected kernel
+ 08:04 [drm:intel_display_resume [i915]] *ERROR* Restoring old state failed with -22 kernel
+ 07:22 [drm:intel_dp_start_link_train [i915]] *ERROR* failed to enable link training kernel
+ 07:22 PM: Device 0000:39:00.0 failed to resume async: error -110 kernel
+ 07:22 dpm_run_callback(): pci_pm_resume+0x0/0xa0 returns -110 kernel
+ 07:22 xhci_hcd 0000:39:00.0: HC died; cleaning up kernel 2 
+ 07:22 xhci_hcd 0000:39:00.0: PCI post-resume error -110! kernel
 
 https://www.google.com/search?q=%5Bdrm%3Aintel_dp_start_link_train%20%5Bi915%5D%5D%20%2AERROR%2A%20failed%20to%20enable%20link%20training

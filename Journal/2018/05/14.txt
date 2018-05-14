@@ -4,5 +4,6 @@ Creation-Date: 2018-05-14T09:32:58-07:00
 
 ====== Monday 14 May 2018 ======
 [ ] Unpack from [[:Bikes:Trips:ScapooseShakedown]]
-[ ] Lounge podcasts and icing/hot
+[ ] Icing/podcasts
 [ ] Clean desk
+[ ] Glue keyboard hinges

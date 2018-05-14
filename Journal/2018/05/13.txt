@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-13T20:50:32-07:00
+
+====== Sunday 13 May 2018 ======
+Shakedown learnings:
+
+- Copy Cosmo's fender
+- Stem shock?

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T14:59:24-07:00
+
+====== EricsInterface ======
+Created Monday 14 May 2018
+
+[ ] Name current workspace
+[ ] Tag

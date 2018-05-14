@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-14T11:48:00-07:00
+
+====== PkMail ======
+Created Monday 14 May 2018
+
+https://github.com/bobg/pkmail/blob/master/perkeep.go

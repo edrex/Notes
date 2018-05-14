@@ -6,4 +6,4 @@ Creation-Date: 2018-05-14T14:59:24-07:00
 Created Monday 14 May 2018
 
 [ ] Name current workspace
-[ ] Tag
+[ ] Tags:

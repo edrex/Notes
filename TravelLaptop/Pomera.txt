@@ -2,7 +2,8 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2018-05-15T15:35:50-07:00
 
-====== Pomero ======
+====== Pomera ======
 Created Tuesday 15 May 2018
 
 [[:Vendor]]
+https://www.kickstarter.com/projects/2132003782/pomera-pocket-typewriter-with-e-ink

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-15T12:06:36-07:00
+
+====== CryptDrive ======
+Created Tuesday 15 May 2018
+
+- Used by IPFS team
+- Kind of like etherpad?

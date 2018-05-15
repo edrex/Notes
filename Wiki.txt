@@ -7,3 +7,5 @@ Created Saturday 24 February 2018
 
 Ikiwiki under docker?
 https://hub.docker.com/r/pdxhub/ikiwiki/builds/bru7sdjhrehfe4qxlincttn/
+
+[ ] Fix 10MB attachment limit http://wiki.pdxhub.org/Prism_House/sewing_machine/

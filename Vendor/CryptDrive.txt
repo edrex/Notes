@@ -6,4 +6,4 @@ Creation-Date: 2018-05-15T12:06:36-07:00
 Created Tuesday 15 May 2018
 
 - Used by IPFS team
-- Kind of like etherpad?
+- Kind of like etherpad but encrypted e2e?

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-15T15:27:59-07:00
+
+====== HomeAutomation ======
+Created Tuesday 15 May 2018
+
+[[:Project]]

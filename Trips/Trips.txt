@@ -5,4 +5,4 @@ Creation-Date: 2018-05-09T09:34:14-07:00
 ====== Trips ======
 Created Wednesday 09 May 2018
 
-[[+ScapooseShakedown]]
+[[ScapooseShakedown]]

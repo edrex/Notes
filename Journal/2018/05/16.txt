@@ -3,4 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-05-16T11:36:18-07:00
 
 ====== Wednesday 16 May 2018 ======
-[[:MomsHouse]]
+
+Packing for [[:MomsHouse]]
+Meeting with Lauren @5pm
+Nextcloud on [[:IPFS?]] 

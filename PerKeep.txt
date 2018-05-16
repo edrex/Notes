@@ -11,6 +11,7 @@ Tasks:
 [ ] Create a ticket for support channel
 
 [[+Discourse]]
+Other QA site possibilities
 
 ===== Applications =====
 [[+\PkMail]]

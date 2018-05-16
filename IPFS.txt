@@ -12,4 +12,4 @@ https://ipfs.io/
 Tips for storing large data https://github.com/ipfs/notes/issues/212#issue-199355239
 
 ===== Applications =====
-As [[:Nextcloud]] backend: https://github.com/nextcloud/server/issues/385
+[[:Nextcloud:IPFS]]

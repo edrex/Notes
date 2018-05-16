@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-16T12:42:55-07:00
+
+====== IPFS ======
+Created Wednesday 16 May 2018
+
+https://github.com/nextcloud/server/issues/385
+Use this as a starting point: https://github.com/icewind1991/files_external_ftp/blob/master/tests/FTP.php

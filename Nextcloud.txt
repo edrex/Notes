@@ -12,4 +12,5 @@ https://en.wikipedia.org/wiki/Nextcloud
 https://github.com/nextcloud
 
 ===== Topics =====
-With [[:IPFS]] backend: https://github.com/nextcloud/server/issues/385
+[[+IPFS]] With [[:IPFS]] backend: https://github.com/nextcloud/server/issues/385
+https://github.com/icewind1991/files_external_ftp/blob/master/tests/FTP.php

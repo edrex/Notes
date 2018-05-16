@@ -3,7 +3,6 @@ Wiki-Format: zim 0.4
 Creation-Date: 2017-12-28T20:22:33-08:00
 
 ====== DesktopAppsOnTheWeb ======
-[[:topic]]
 
 I would really love to make Zim run as a web app. Let's try!
 

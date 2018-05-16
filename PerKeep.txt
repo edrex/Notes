@@ -14,5 +14,5 @@ Tasks:
 Other QA site possibilities
 
 ===== Applications =====
-[[+\PkMail]]
+[[+PkMail]]
 

@@ -6,3 +6,5 @@ Creation-Date: 2018-05-16T12:34:35-07:00
 Created Wednesday 16 May 2018
 
 With [[:IPFS]] backend: https://github.com/nextcloud/server/issues/385
+https://wiki.archlinux.org/index.php/Nextcloud
+https://nextcloud.com/

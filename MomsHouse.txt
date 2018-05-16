@@ -5,10 +5,11 @@ Creation-Date: 2018-05-08T08:40:07-07:00
 ====== MomsHouse ======
 Created Tuesday 08 May 2018
 [[+Internet]]
-
+[*] Order internet eqpt
+[ ] Forward modem package to mom's house?
 
 Bring from [[LaurensHouse:]]
-- [[NiMh]] charger
+[ ] [[NiMh]] charger
 
 hub
 

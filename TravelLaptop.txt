@@ -6,5 +6,5 @@ Creation-Date: 2018-05-15T15:35:41-07:00
 Created Tuesday 15 May 2018
 
 [[:Project]]
-
+https://bke.ro/attempts-source-large-e-ink-screens-for-a-laptop-like-device/
 [[+Pomera]]

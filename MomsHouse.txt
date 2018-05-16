@@ -14,7 +14,7 @@ Bring from [[LaurensHouse:]]
 [ ] Bookmobile
 [ ] Kit to work on bookmobile (microSD, reader, hub, hub power supply)
 [ ] Wood
-[x] Desk? Hmm... no
+[x] Desk? Hmm... no.
 
 hub
 

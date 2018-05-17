@@ -10,6 +10,7 @@ Created Tuesday 08 May 2018
 [ ] Setup "Find My iPhone" (provided she finds it :/
 
 Bring from [[LaurensHouse:]]
+[ ] Monitor/kb/mouse
 [ ] [[NiMh]] charger
 [ ] Bookmobile
 [ ] Kit to work on bookmobile (microSD, reader, hub, hub power supply)

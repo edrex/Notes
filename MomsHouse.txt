@@ -12,8 +12,8 @@ Created Tuesday 08 May 2018
 Bring from [[LaurensHouse:]]
 [ ] Monitor/kb/mouse
 [ ] [[NiMh]] charger
-[ ] Bookmobile
-[ ] Kit to work on bookmobile (microSD, reader, hub, hub power supply)
+[ ] Bookmobile + Kit to work on bookmobile (microSD, reader, hub, hub power supply)
+[ ] Speakers + head unit (left there?)
 [ ] Wood
 [x] Desk? Hmm... no.
 

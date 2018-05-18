@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-17T22:08:25-07:00
+
+====== Thursday 17 May 2018 ======
+[[:NixOS]]

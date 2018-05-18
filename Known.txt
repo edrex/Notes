@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-17T22:16:40-07:00
+
+====== Known ======
+Created Thursday 17 May 2018
+
+https://github.com/PDXHub/Known/tree/master
+https://github.com/egoexpress/docker-known/tree/git-head
+https://hub.docker.com/r/pdxhub/known-git/builds/bjm9avnnrvwuj3ctcc78o2c/
+
+https://github.com/PDXHub/known-docker-withplugins/blob/master/Dockerfile

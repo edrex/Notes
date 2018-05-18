@@ -5,6 +5,6 @@ Creation-Date: 2018-05-17T22:08:25-07:00
 ====== Thursday 17 May 2018 ======
 
 Deploy a basic [[:NixOS.]] How hard to replace Arch?
-
+[[:Known]]
 
 http://bijan.binaee.com/index.php/2016/10/12/enable-wake-up-on-keyboardmouse-on-arch-linux/

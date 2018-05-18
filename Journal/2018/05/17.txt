@@ -6,3 +6,4 @@ Creation-Date: 2018-05-17T22:08:25-07:00
 
 Deploy a basic [[:NixOS.]] How hard to replace Arch?
 https://nixos.org/nixos/download.html
+https://kevincox.ca/2015/12/13/getting-started-with-nixos/

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-05-19T21:55:02-07:00
+
+====== Emp ======
+Created Saturday 19 May 2018
+Thur Perl
+http://calagator.org/events/1250473718
+Thur Ruby

@@ -5,7 +5,8 @@ Creation-Date: 2018-05-19T21:55:02-07:00
 ====== Emp ======
 Created Saturday 19 May 2018
 Thur SANS
-http://calagator.org/events/1250473718
+http://calagator.org/events/1250473634
+HP Vancouver
 Thur Ruby
 Wed SIM
 https://secure.emp.state.or.us/ocs4/claim/step3-after-restart.cfm?ID=101463794&lang=E

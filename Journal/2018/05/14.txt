@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-05-14T09:32:58-07:00
 
 ====== Monday 14 May 2018 ======
-[*] Unpack from [[:Trips:ScapooseShakedown]]
+[*] Unpack from [[:ScapooseShakedown]]
 [ ] Icing/podcasts
 [ ] Clean desk
 [ ] [[:Repair:GlueKeyboardHinges]]

@@ -13,4 +13,4 @@ Research:
 Amazon Lambda alternatives?
 Rofi STT frontend?
 
-[[:Trips:NorthBack]]
+[[:NorthBack]]

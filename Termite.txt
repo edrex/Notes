@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-08T12:43:44-07:00
+
+====== Termite ======
+Created Friday 08 June 2018
+
+https://github.com/khamer/base16-termite

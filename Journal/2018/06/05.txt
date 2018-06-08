@@ -4,3 +4,4 @@ Creation-Date: 2018-06-05T12:37:17-07:00
 
 ====== Tuesday 05 Jun 2018 ======
 damaged elec list
+Clearing out browser tabs: [[:Termite]]

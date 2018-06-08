@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-08T12:46:00-07:00
+
+====== Friday 08 Jun 2018 ======
+
+Modular storage?

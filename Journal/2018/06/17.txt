@@ -6,5 +6,6 @@ Creation-Date: 2018-06-17T13:07:24-07:00
 Today:
 
 [ ] laundry
+[ ] trim kickstand
 [ ] setup voicemail
 [ ] put clothes away

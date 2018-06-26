@@ -5,6 +5,9 @@ Creation-Date: 2018-06-26T10:36:22-07:00
 ====== Summit2018 ======
 Created Tuesday 26 June 2018
 
-"year of the indie web reader
+https://aaronparecki.com/2018/06/23/5/indieweb-summit
+https://webmention.net/draft/
+
+"year of the indie web reader"
 indigenous
 together

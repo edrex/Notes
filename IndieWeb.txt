@@ -11,3 +11,5 @@ Ideas:
  - Request in template? unlikely..
  - Render with JS from somewhere else
 https://webmention.herokuapp.com/
+
+[[+Summit2018]]

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-06-26T10:42:15-07:00
+
+====== MachineLearning ======
+Created Tuesday 26 June 2018
+
+http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+http://www.r2d3.us/visual-intro-to-machine-learning-part-2/

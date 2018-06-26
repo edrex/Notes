@@ -10,5 +10,7 @@ Creation-Date: 2018-06-26T10:40:51-07:00
 [[ToorCamp]] followup
 
 Archive:
+[[:MachineLearning]]
+
 [[NixOS]]
 [[:Lab]]

@@ -11,4 +11,4 @@ paul on youtube
 glitch.com (fogcreek)
 zite
 
-checklist 
+checklist for browser to implement beaker functionality

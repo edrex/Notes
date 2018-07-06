@@ -1,9 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-05-17T22:15:22-07:00
-
-====== NixOS. ======
-Created Thursday 17 May 2018
-
-https://nixos.org/nixos/download.html
-https://kevincox.ca/2015/12/13/getting-started-with-nixos/

@@ -4,13 +4,18 @@ Creation-Date: 2018-05-08T08:40:07-07:00
 
 ====== MomsHouse ======
 Created Tuesday 08 May 2018
+
+
+
+
+
 [[+Internet]]
 [*] Order internet eqpt
-[ ] Forward modem package to mom's house?
-[ ] Setup "Find My iPhone" (provided she finds it :/
+[*] Forward modem package to mom's house?
+[*] Setup "Find My iPhone" (provided she finds it :/
 
 Bring from [[LaurensHouse:]]
-[ ] Monitor/kb/mouse
+[*] Monitor/kb/mouse
 [ ] [[NiMh]] charger
 [ ] Bookmobile + Kit to work on bookmobile (microSD, reader, hub, hub power supply)
 [ ] Speakers + head unit (left there?)

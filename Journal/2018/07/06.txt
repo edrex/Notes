@@ -5,4 +5,4 @@ Creation-Date: 2018-07-06T13:34:59-07:00
 ====== Friday 06 Jul 2018 ======
 Hi
 I'm using [S]way[land]! 
-I'm watching 
+I'm watching [[https://www.youtube.com/watch?v=hy1wjkcIBCU|Functional Programming: Type Systems]] on Coding Tech

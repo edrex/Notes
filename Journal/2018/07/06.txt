@@ -9,6 +9,7 @@ I'm watching [[https://www.youtube.com/watch?v=hy1wjkcIBCU|Functional Programmin
 https://www.cis.upenn.edu/~bcpierce/tapl/
 
 [[MomsHouse:WallBed]]
+[[MomsHouse:Attic]]
 
 [[:DecentralizedWeb:Summit]]
 

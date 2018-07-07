@@ -13,3 +13,4 @@ https://www.cis.upenn.edu/~bcpierce/tapl/
 [[:DecentralizedWeb:Summit]]
 
 https://www.eventbrite.com/e/decentralized-web-summit-2018-tickets-46312003449
+[[MomsHouse:AtticInsulation]]

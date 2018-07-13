@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-13T11:40:38-07:00
+
+====== Friday 13 Jul 2018 ======
+[ ] POST: I'm going to be at the Dweb summit
+[ ] get location tracker set up

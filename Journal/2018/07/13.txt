@@ -5,3 +5,5 @@ Creation-Date: 2018-07-13T11:40:38-07:00
 ====== Friday 13 Jul 2018 ======
 [ ] POST: I'm going to be at the Dweb summit
 [ ] get location tracker set up
+
+lat:[43.615414] lon:[-123.21523]

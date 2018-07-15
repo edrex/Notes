@@ -7,7 +7,7 @@ Created Tuesday 08 May 2018
 
 
 [[+WallBed]]
-[[+AtticInsulation]]
+[[Casita:AtticInsulation]]
 
 
 

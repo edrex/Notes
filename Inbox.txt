@@ -14,10 +14,10 @@ https://github.com/libresh/compose-wader
 [[:LocationSharing]]
 
 
-https://www.google.com/search?q=signal%20app%20libpurple
+https://www.google.com/search?q=signal app libpurple
 https://github.com/janimo/textsecure-qml
 
-[[[[:Casita]]]]
+[[[[:Cassita]]]]
 
 [[:BikeHoist]]
 [[:Plumbing]]

@@ -7,3 +7,5 @@ Created Saturday 14 July 2018
 
 https://guardianproject.info/2015/01/23/sharing-your-location-privately/
 http://osmand.net/help/HowToArticles.html
+
+http://localhost:5000/foo?dsajklfjd=fdsfesd&dfjkdslfjdls=fjdskflds

@@ -4,9 +4,11 @@ Creation-Date: 2018-07-15T11:08:57-07:00
 
 ====== Sunday 15 Jul 2018 ======
 [[:MachineLearning]]
-Demos:L
+[[:Teleconferencing]]
+
 
 entropay uk 16:28
 entropay 16"20
 total wireless 15:56
 sherms tbird
+[[:Inbox]]

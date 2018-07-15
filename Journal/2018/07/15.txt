@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-15T11:08:57-07:00
+
+====== Sunday 15 Jul 2018 ======
+[[:MachineLearning]]

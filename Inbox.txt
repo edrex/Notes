@@ -5,6 +5,15 @@ Creation-Date: 2018-07-14T19:47:24-07:00
 ====== Inbox ======
 Created Saturday 14 July 2018
 
+[[[[:Cassita]]]]
+
+[[:BikeHoist]]
+[[:Plumbing]]
+[[:Dat]]
+[[:Lovi:ID]]
+
+
+
 https://holo.host/whitepapers/
 https://glitch.com/edit/#!/chain-train
 https://infinityplusonemath.wordpress.com/2017/03/11/a-mathematical-intro-to-special-relativity/
@@ -14,12 +23,6 @@ https://github.com/libresh/compose-wader
 [[:LocationSharing]]
 
 
-https://www.google.com/search?q=signal app libpurple
+https://www.google.com/search?q=signal%20app%20libpurple
 https://github.com/janimo/textsecure-qml
 
-[[[[:Cassita]]]]
-
-[[:BikeHoist]]
-[[:Plumbing]]
-[[:Dat]]
-[[:Lovi:ID]]

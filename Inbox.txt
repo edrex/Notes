@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-14T19:47:24-07:00
+
+====== Inbox ======
+Created Saturday 14 July 2018
+
+https://holo.host/whitepapers/
+https://glitch.com/edit/#!/chain-train
+https://infinityplusonemath.wordpress.com/2017/03/11/a-mathematical-intro-to-special-relativity/
+https://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy
+http://microformats.org/wiki/grouping-examples
+[[:BikeHoist]]
+[[:Plumbing]]
+[[:Dat]]
+[[:Lovi:ID]]

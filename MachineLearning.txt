@@ -8,4 +8,4 @@ Created Tuesday 26 June 2018
 http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 http://www.r2d3.us/visual-intro-to-machine-learning-part-2/
 
-+Bayes
+[[+Bayesian]]

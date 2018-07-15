@@ -7,3 +7,4 @@ Creation-Date: 2018-07-13T11:40:38-07:00
 [ ] get location tracker set up
 
 lat:[43.615414] lon:[-123.21523]
+

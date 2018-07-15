@@ -8,9 +8,9 @@ https://glitch.com/edit/#!/chain-train
 https://infinityplusonemath.wordpress.com/2017/03/11/a-mathematical-intro-to-special-relativity/
 https://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy
 http://microformats.org/wiki/grouping-examples
-https://www.google.com/search?q=diy%20bike%20hoist%20parts%20list
 [[:BikeHoist]]
 
 [[:Plumbing]]
 [[:Dat]]
-https://www.oregon.gov/oha/PH/BIRTHDEATHCERTIFICATES/GETVITALRECORDS/Pages/recordinformation.aspx#iddocs
+[[:Lovi:ID]]
+

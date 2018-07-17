@@ -7,3 +7,5 @@ hi
 [[:Store]]
 
 How to enable global mounting of filesystems via udisks2 using a udev rule: https://bbs.archlinux.org/viewtopic.php?id=145115
+
+[[:LabelMaker]]

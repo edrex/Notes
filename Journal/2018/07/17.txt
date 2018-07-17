@@ -5,3 +5,5 @@ Creation-Date: 2018-07-17T13:31:36-07:00
 ====== Tuesday 17 Jul 2018 ======
 hi
 [[:Store]]
+
+How to enable global mounting of filesystems via udisks2 using a udev rule: https://bbs.archlinux.org/viewtopic.php?id=145115

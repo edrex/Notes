@@ -7,5 +7,15 @@ Created Tuesday 17 July 2018
 
 [[Infrastructure]]
 
-LineagOS:
+LineageOS:
 https://wiki.lineageos.org/devices/shieldtablet/install
+
+~/Downloads/OS/nvidiak1   10s
+❯ sudo fastboot flash recovery twrp-3.2.2-0-shieldtablet.img         
+[sudo] password for eric: 
+target reported max download size of 100663296 bytes
+sending 'recovery' (12450 KB)...
+OKAY [  0.639s]
+writing 'recovery'...
+OKAY [  0.733s]
+finished. total time: 1.372s

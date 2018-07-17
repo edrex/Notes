@@ -6,3 +6,14 @@ Creation-Date: 2018-07-17T14:09:04-07:00
 Created Tuesday 17 July 2018
 How to write an image text:
 http://www.imagemagick.org/discourse-server/viewtopic.php?t=24187
+
+❯ convert -background white -threshold 50% -rotate 90 -size 700x -pointsize 40 \
+-gravity Center \
+-weight 700 \                                                     
+caption:"Arkstore2 Media Drive\n4TB edrex lehudgins evilpatrick" \
+oil4.png
+
+❯ cd ~/src/github.com/sudomesh/ql570
+ql570 git/master  
+❯ ./ql570 /dev/usb/lp2 w oil4.png
+Printing image with width: 700	 and height: 84

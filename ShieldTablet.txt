@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-17T14:39:46-07:00
+
+====== ShieldTablet ======
+Created Tuesday 17 July 2018
+
+[[Infrastructure]]
+
+LineagOS:
+https://wiki.lineageos.org/devices/shieldtablet/install

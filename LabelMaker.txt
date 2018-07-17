@@ -6,5 +6,3 @@ Creation-Date: 2018-07-17T14:09:04-07:00
 Created Tuesday 17 July 2018
 How to write an image text:
 http://www.imagemagick.org/discourse-server/viewtopic.php?t=24187
-
-http://www.imagemagick.org/discourse-server/viewtopic.php?t=24187

@@ -19,3 +19,6 @@ OKAY [  0.639s]
 writing 'recovery'...
 OKAY [  0.733s]
 finished. total time: 1.372s
+
+
+Bootloader mismatch issue https://www.reddit.com/r/LineageOS/comments/6sj7xa/this_device_has_an_unknown_bootloader_nvidia/

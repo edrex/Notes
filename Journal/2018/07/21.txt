@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-21T17:14:24-07:00
+
+====== Saturday 21 Jul 2018 ======
+
+Tasks
+[ ] Restore Net10 service
+[ ] Claim unemployment

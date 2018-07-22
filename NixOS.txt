@@ -6,10 +6,12 @@ Creation-Date: 2018-05-17T22:08:34-07:00
 Created Thursday 17 May 2018
 
 https://nixos.org/nixos/download.html
+https://nixos.org/nix/manual/#ch-basic-package-mgmt
 
 https://kevincox.ca/2015/12/13/getting-started-with-nixos/
 https://lastlog.de/blog/posts/odroid_xu4_with_nixos.html
 https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi
+
 
 Apps:
 https://github.com/NixOS/nixpkgs/tree/master/pkgs/applications/networking/instant-messengers

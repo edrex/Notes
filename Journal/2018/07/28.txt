@@ -4,5 +4,5 @@ Creation-Date: 2018-07-28T12:07:24-07:00
 
 ====== Saturday 28 Jul 2018 ======
 
-[ ] Unemployment
+[*] Unemployment
 [ ] gonas.mooo.com

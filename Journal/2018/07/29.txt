@@ -6,4 +6,6 @@ Creation-Date: 2018-07-29T14:41:02-07:00
 
 [*] Mom
 [ ] Share photos
-	* How to avoid duplication? Deduplicated 
+	* How to avoid duplication? 
+		* Storage Access Framework
+		* Camlistore IPFS or Dat?

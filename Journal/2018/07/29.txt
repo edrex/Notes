@@ -8,4 +8,4 @@ Creation-Date: 2018-07-29T14:41:02-07:00
 [ ] Share photos
 	* How to avoid duplication? 
 		* Storage Access Framework
-		* Camlistore IPFS or Dat?
+		* Deduplicated backing store like Camlistore, IPFS, or Dat

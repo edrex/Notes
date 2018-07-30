@@ -10,11 +10,12 @@ Creation-Date: 2018-07-29T14:41:02-07:00
 		* Storage Access Framework
 		* Deduplicated backing store like Camlistore, IPFS, or Dat
 		* ?CollabLoviEric:Home
-the line i posted previously will correct line to add to ~/.profile is 
-export XDG_DATA_DIRS=$HOME/.nix-profile/share:$HOME/.share:/usr/share
-Otherwise zim fails to start.
 
 you can use a disk usage analyzer (eg, baobab for gnome) to figure out what's taking space. 42GB seems a lot for a few hundred pdfs, unless they are all fat textbook scans.
 you probably want to put them on a server and just access them when you need them. Syncthing isn't a panacea. there are other complementary tools like nextcloud.
 Be careful with syncthing if you have to manually intervene. Deletes propogate. If you use syncthing as a backup solution you should have versioning turned on in at least one copy (the server copy usually).
+
+the line i posted previously will cause zim to fail to start. the correct line to add to ~/.profile is 
+export XDG_DATA_DIRS=$HOME/.nix-profile/share:$HOME/.share:/usr/share
+
 i'm looking for good videos on nonviolent communication.

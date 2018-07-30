@@ -14,8 +14,8 @@ Creation-Date: 2018-07-29T14:41:02-07:00
 		
 		you can use a disk usage analyzer (eg, baobab for gnome) to figure out what's taking space. 42GB seems a lot for a few hundred pdfs, unless they are all fat textbook scans.
 		you probably want to put them on a server and then access them when you need them.
-		i am working on some stuff around that. super low energy today though.
-		the correct line to add to ~/.profile is 
+		i am working on some stuff to support you in that. super low energy today though.
+		Correction: the correct line to add to ~/.profile is 
 		export XDG_DATA_DIRS=$HOME/.nix-profile/share:$HOME/.share:/usr/share
 		Otherwise zim fails to start.
 		How big of an SD card is installed in it? 32GB? If one storage is full but not the other, you might try moving stuff to the other.

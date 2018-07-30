@@ -20,4 +20,4 @@ Creation-Date: 2018-07-29T14:41:02-07:00
 		Otherwise zim fails to start.
 		How big of an SD card is installed in it? 32GB? If one storage is full but not the other, you might try moving stuff to the other.
 		also, you should be careful with syncthing if you have to manually intervene. Deletes propogate. If you use syncthing as a backup solution you should have versioning turned on in at least one copy (the server copy usually).
-		i'm looking for good videos on nonviolent communication.0
+		i'm looking for good videos on nonviolent communication.

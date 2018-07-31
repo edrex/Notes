@@ -19,4 +19,4 @@ the line i posted previously will cause zim to fail to start. the correct line t
 export XDG_DATA_DIRS=$HOME/.nix-profile/share:$HOME/.share:/usr/share
 
 i'm looking for good videos on nonviolent communication.
- 
+ H

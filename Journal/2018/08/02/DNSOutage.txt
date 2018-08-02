@@ -11,3 +11,5 @@ Linode deleted all zones from my account. This includes:
  - pdxhub.org
  - laurenhudgins.com
  ?
+
+[ ] zones restored

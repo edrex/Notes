@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-02T14:07:02-07:00
+
+====== DNSOutage ======
+Created Thursday 02 August 2018
+Ah!!
+
+Linode deleted all zones from my account. This includes:
+
+ - pdxhub.org
+ - laurenhudgins.com
+ ?

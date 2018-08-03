@@ -12,4 +12,5 @@ Wrong username and password for Forage
 [[LaLovi]]
 [[ForageGarden]]
 Forage
+Register for another user
 

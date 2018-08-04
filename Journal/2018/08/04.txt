@@ -9,3 +9,6 @@ https://github.com/vector-im/riot-web/issues/238
 
 Nixos Dual boot on chip
 https://wiki.archlinux.org/index.php/Dm-crypt/Encrypting_an_entire_system
+
+Entertainment
+https://www.youtube.com/watch?v=vsMydMDi3rI

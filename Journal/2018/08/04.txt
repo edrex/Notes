@@ -6,3 +6,6 @@ Creation-Date: 2018-08-04T10:38:39-07:00
 
 Screensharing in riot
 https://github.com/vector-im/riot-web/issues/238
+
+Nixos Dual boot on chip
+https://wiki.archlinux.org/index.php/Dm-crypt/Encrypting_an_entire_system

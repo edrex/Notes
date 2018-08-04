@@ -4,6 +4,8 @@ Creation-Date: 2018-08-04T10:38:39-07:00
 
 ====== Saturday 04 Aug 2018 ======
 
+Nix
+https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi
 
 Projects
 - Backup and reimage phone with LineageOS

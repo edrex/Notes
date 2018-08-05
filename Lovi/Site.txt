@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-06-26T10:48:58-07:00
-
-====== Site ======
-Created Tuesday 26 June 2018
-
-[ ] Transfer subdomain to Lovi http://freedns.afraid.org/subdomain/edit.php?edit_domain_id=109408

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-05T12:14:03-07:00
+
+====== Elm ======
+Created Sunday 05 August 2018
+https://github.com/elm-lang
+For static sites?

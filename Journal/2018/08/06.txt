@@ -4,5 +4,5 @@ Creation-Date: 2018-08-06T09:51:31-07:00
 
 ====== Monday 06 Aug 2018 ======
 What do i need before I can start charging for service?
- R&D
-Hardware inventory
+ - R&D
+ - Hardware inventory

@@ -6,3 +6,5 @@ Creation-Date: 2018-08-06T09:51:31-07:00
 What do i need before I can start charging for service?
  - R&D
  - Hardware inventory
+
+[[:HardwareSamples]]

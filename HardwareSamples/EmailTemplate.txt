@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-06T17:05:10-07:00
+
+====== EmailTemplate ======
+Created Monday 06 August 2018
+
+eric@pdxhub.org
+
+Eric Drechsel
+
+Hi, my company sells and manages decentralized internet services.
+
+We are evaluating newer generation boards with good compute and IO, with USB-C/3.1 as the base for our next gen appliances.
+
+Does the RK3399 run mainline Linux yet, or only Android? Both are of interest.
+
+We are interested in a sample board to evaluate. 
+
+Regards,
+Eric Drechsel
+Nomad Systems
+ 

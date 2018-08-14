@@ -3,4 +3,6 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-08-14T16:19:41-07:00
 
 ====== Tuesday 14 Aug 2018 ======
-Total 
+Total Wireless meid
+99000689005489
+256691572100021641

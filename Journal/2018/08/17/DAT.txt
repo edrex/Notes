@@ -8,5 +8,11 @@ Created Friday 17 August 2018
 Single source of truth way of sharing
 	instead of all of us puting our changes into one big pool
 
-Most 
+Most non-standard(decentralized like GIT, IPFS, Camley store), transform them into internal format so if you want to get to data, you have to translate that systemss files
+	can mount the filesystems
+	twice as much space
+	checked out copy and internal copy
+DAT indexes your files on disk 
+	translate into content adressable storage, etc
+
 

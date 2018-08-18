@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-17T18:01:10-07:00
+
+====== DAT ======
+Created Friday 17 August 2018
+
+Single source of truth way of sharing
+	instead of all of us puting our changes into one big pool
+

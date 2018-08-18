@@ -23,5 +23,7 @@ can take directory that takes TB storage
 	you are either writer or subscriber
 		only one writer logically, one key
 		if you add files to share have to be writer
-	on
-	
+	once you have done that all other nodes don't need to be writer
+
+
+

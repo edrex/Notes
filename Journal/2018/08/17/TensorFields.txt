@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-17T17:56:06-07:00
+
+====== TensorFields ======
+Created Friday 17 August 2018
+prototypical example, famous quote from physicist, kipp thorne maybe, 

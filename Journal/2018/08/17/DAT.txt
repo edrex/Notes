@@ -25,6 +25,7 @@ can take directory that takes TB storage
 		if you add files to share have to be writer
 	once you have done that all other nodes don't need to be writer
 	You can have a server node
-	If a new reader comes online
+	If a new reader comes online and writer not online, its going to ask network: does anyone have latest updates
+	to ensure that when laptop not online, 
 
 

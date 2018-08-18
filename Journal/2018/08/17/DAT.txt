@@ -30,6 +30,11 @@ can take directory that takes TB storage
 		to share with Eric: 
 			share with laptop, bookmobile, mobile
 				laptop may not be online, but bookmobile has latest, 
-				eric laptop would get invitation to 
+				eric laptop would get invitation to share
+Has versioning into it
+	shares are intrinsically versions
+	like GIT, different from IPFS
+	people can go back to previous versions
+	shares are essentially undeletable
 
 

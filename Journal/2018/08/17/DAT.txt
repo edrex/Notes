@@ -14,5 +14,9 @@ Most non-standard(decentralized like GIT, IPFS, Camley store), transform them in
 	checked out copy and internal copy
 DAT indexes your files on disk 
 	translate into content adressable storage, etc
-
-
+can take directory that takes TB storage
+	has to scan all files in disk
+	has indext that poiints to files on disk
+	run DAT node all the time
+	looks at al
+	

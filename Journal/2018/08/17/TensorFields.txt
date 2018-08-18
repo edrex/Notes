@@ -4,4 +4,9 @@ Creation-Date: 2018-08-17T17:56:06-07:00
 
 ====== TensorFields ======
 Created Friday 17 August 2018
-prototypical example, famous quote from physicist, kipp thorne maybe, 
+prototypical example, famous quote from physicist, kipp thorne maybe, ~fields tell particles how to move, and particles tell fields what shape to be
+	some particles generate a particular type of field
+		electro-magnetic field
+		strong/weak nuclear force
+		
+

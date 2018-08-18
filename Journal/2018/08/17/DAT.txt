@@ -36,5 +36,9 @@ Has versioning into it
 	like GIT, different from IPFS
 	people can go back to previous versions
 	shares are essentially undeletable
+Can Fork someone's share
+	can merge someone's shares
+	like GIT
+	Your mod
 
 

@@ -26,6 +26,10 @@ can take directory that takes TB storage
 	once you have done that all other nodes don't need to be writer
 	You can have a server node
 	If a new reader comes online and writer not online, its going to ask network: does anyone have latest updates
-	to ensure that when laptop not online, 
+	to ensure that when laptop not online 
+		to share with Eric: 
+			share with laptop, bookmobile, mobile
+				laptop may not be online, but bookmobile has latest, 
+				eric laptop would get invitation to 
 
 

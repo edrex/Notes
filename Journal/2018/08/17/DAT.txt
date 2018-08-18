@@ -24,6 +24,7 @@ can take directory that takes TB storage
 		only one writer logically, one key
 		if you add files to share have to be writer
 	once you have done that all other nodes don't need to be writer
-
+	You can have a server node
+	If a new reader comes online
 
 

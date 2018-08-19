@@ -39,6 +39,9 @@ Has versioning into it
 Can Fork someone's share
 	can merge someone's shares
 	like GIT
-	Your mod
+	Your modified version of my share is a fork of my previous share
+Resolving incompatible
+	ultimately has to be resolved by user
+
 
 

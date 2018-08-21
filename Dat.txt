@@ -7,3 +7,44 @@ Created Saturday 14 July 2018
 
 https://docs.datproject.org/publish
 https://docs.datproject.org/server
+
+Single source of truth way of sharing
+	instead of all of us puting our changes into one big pool
+
+Most non-standard(decentralized like GIT, IPFS, Camley store), transform them into internal format so if you want to get to data, you have to translate that systemss files
+	can mount the filesystems
+	twice as much space
+	checked out copy and internal copy
+DAT indexes your files on disk 
+	translate into content adressable storage, etc
+can take directory that takes TB storage
+	has to scan all files in disk
+	has indext that points to files on disk
+	run DAT node all the time
+	looks at all your shares
+	publisher and subscriber
+	you are either writer or subscriber
+		only one writer logically, one key
+		if you add files to share have to be writer
+	once you have done that all other nodes don't need to be writer
+	You can have a server node
+	If a new reader comes online and writer not online, its going to ask network: does anyone have latest updates
+	to ensure that when laptop not online 
+		to share with Eric: 
+			share with laptop, bookmobile, mobile
+				laptop may not be online, but bookmobile has latest, 
+				eric laptop would get invitation to share
+Has versioning into it
+	shares are intrinsically versions
+	like GIT, different from IPFS
+	people can go back to previous versions
+	shares are essentially undeletable
+Can Fork someone's share
+	can merge someone's shares
+	like GIT
+	Your modified version of my share is a fork of my previous share
+Resolving incompatible
+	ultimately has to be resolved by user
+
+
+

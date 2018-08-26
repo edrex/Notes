@@ -8,6 +8,7 @@ Created Thursday 17 May 2018
 https://nixos.org/nixos/download.html
 https://nixos.org/nix/manual/#ch-basic-package-mgmt
 
+https://nixos.org/nixos/nix-pills/why-you-should-give-it-a-try.html
 https://kevincox.ca/2015/12/13/getting-started-with-nixos/
 https://lastlog.de/blog/posts/odroid_xu4_with_nixos.html
 https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi

@@ -48,4 +48,5 @@ Resolving incompatible
 
 Also Beaker browser:
 https://github.com/beakerbrowser/explore
+With Tiddlywiki: https://tiddlywiki.com/static/Saving%2520on%2520Beaker%2520Browser.html
 

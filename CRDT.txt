@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-26T09:39:45-07:00
+
+====== CRDT ======
+Created Sunday 26 August 2018
+
+https://github.com/ipfs/research-CRDT
+http://jtfmumm.com/blog/2015/11/24/crdt-primer-2-convergent-crdts/

@@ -46,5 +46,6 @@ Can Fork someone's share
 Resolving incompatible
 	ultimately has to be resolved by user
 
-
+Also Beaker browser:
+https://github.com/beakerbrowser/explore
 

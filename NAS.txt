@@ -4,6 +4,7 @@ Creation-Date: 2018-03-01T17:34:00-08:00
 
 ====== NAS ======
 Created Thursday 01 March 2018
+https://www.reddit.com/r/linux/comments/2nuwln/linux_home_nas/
 
 https://www.cnx-software.com/2018/01/18/odroid-hc2-linux-nas-system-for-3-5-hard-drives-launched-for-54/
 

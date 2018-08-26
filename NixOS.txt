@@ -12,6 +12,9 @@ https://kevincox.ca/2015/12/13/getting-started-with-nixos/
 https://lastlog.de/blog/posts/odroid_xu4_with_nixos.html
 https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi
 
+Other ppls configs:
+https://github.com/jluttine/nixos-configuration/blob/master/extra-services/bluetooth.nix
+https://github.com/wkennington/nixos
 
 Apps:
 https://github.com/NixOS/nixpkgs/tree/master/pkgs/applications/networking/instant-messengers

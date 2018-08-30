@@ -4,9 +4,6 @@ Creation-Date: 2018-08-30T11:58:06-07:00
 
 ====== Thursday 30 Aug 2018 ======
 
-Ma
-
-y
 | Month | Due |
 |:------|:----|
 | May   | 200 |

@@ -6,7 +6,11 @@ Creation-Date: 2017-12-04T17:18:48-08:00
 [[:Vendor]]
 
 [*] Install node on chip $ ipfs init
-[*] Add Zim Notebook export to root
+[*] Mount
+[ ] Publish eric.pdxhub.org via IPFS
+[ ] Put alt tag in header
+[ ] do the same fr 
+[ ] Add Zim Notebook export to root
 [ ] Create Zim "Tool" to export and republish to IPFSima
 [ ] Share articles via public netoff
 [ ] Install gateway on bookmobile

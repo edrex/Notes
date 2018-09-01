@@ -5,6 +5,10 @@ Creation-Date: 2017-12-04T17:18:48-08:00
 ====== IPFS ======
 [[:Vendor]]
 
+[ ] Install node on chip
+[ ] Create IPNS root
+[ ] Add z
+
 https://github.com/ipfs
 https://github.com/ipfs/go-ipfs
 https://ipfs.io/

@@ -6,6 +6,7 @@ Creation-Date: 2018-09-01T10:08:09-07:00
 
 Switch monitors [[:Mons]]
 
+[ ] Share Notebook securely
 [ ] NOOBS rPi
 [ ] [[NixOS]] rPi
 [ ] [[:OBT]] additional small microSD

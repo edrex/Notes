@@ -5,8 +5,7 @@ Creation-Date: 2017-12-04T17:18:48-08:00
 ====== IPFS ======
 [[:Vendor]]
 
-[ ] Install node on chip
-[ ] Create IPNS root
+[*] Install node on chip $ ipfs init
 [*] Add Zim Notebook export to root
 [ ] Create Zim "Tool" to export and republish to IPFSima
 [ ] Share articles via public netoff

@@ -5,7 +5,8 @@ Creation-Date: 2018-07-14T19:44:25-07:00
 ====== Dat ======
 Created Saturday 14 July 2018
 
-[ ] Create data 
+[ ] Create dat share of html export of notebook
+[ ] https://github.com/beakerbrowser/homebase
 
 https://docs.datproject.org/publish
 https://docs.datproject.org/server

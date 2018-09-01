@@ -6,7 +6,8 @@ Creation-Date: 2018-09-01T10:08:09-07:00
 
 Switch monitors [[:Mons]]
 
-
+[ ] NOOBS rPi
+[ ] [[NixOS]] rPi
 [[:LoraWAN]]
 
 [[:Dwellings]]

@@ -8,7 +8,7 @@ Switch monitors [[:Mons]]
 
 [ ] NOOBS rPi
 [ ] [[NixOS]] rPi
-[ ] [[:OBT]] microsd,  
+[ ] [[:OBT]] additional small microSD
 [[:LoraWAN]]
 
 [[:Dwellings]]

@@ -8,3 +8,4 @@ Created Wednesday 21 March 2018
 [[+LeadAcid]]
 [[+NiMH]]
 [[+Li-Ion]]
+[[+LiFePO4]]

@@ -5,7 +5,7 @@ Creation-Date: 2018-05-17T22:08:34-07:00
 ====== NixOS ======
 Created Thursday 17 May 2018
 
-[ ] [[NixOS]] under Windows 10 Hyper-V
+[ ] Install [[NixOS]] under Windows 10 Hyper-V
 [ ] Clone nixpkgs
 [ ] Build aarch64 image
 [ ] Write to SD

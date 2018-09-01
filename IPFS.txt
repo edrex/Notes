@@ -8,7 +8,9 @@ Creation-Date: 2017-12-04T17:18:48-08:00
 [ ] Install node on chip
 [ ] Create IPNS root
 [*] Add Zim Notebook export to root
-[ ] Create Zim "Tool" to export and republish to IPFS
+[ ] Create Zim "Tool" to export and republish to IPFSima
+[ ] Share articles via public netoff
+[ ] Install gateway on bookmobile
 
 https://github.com/ipfs
 https://github.com/ipfs/go-ipfs

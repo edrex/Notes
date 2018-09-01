@@ -10,3 +10,4 @@ https://blog.plan99.net/more-design-principles-for-the-newweb-b88582dcb4e0 [[:IP
 [[:LoraWAN]]
 
 [[:Dwellings]]
+[[:NixOS]]

@@ -11,6 +11,8 @@ Switch monitors [[:Mons]]
 [ ] [[:OBT]] additional small microSD
 [[:LoraWAN]]
 
+[[:Wildfire]]
+
 [[:Dwellings]]
 [[:NixOS]]
 [[:IPFS]]

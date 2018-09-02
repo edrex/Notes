@@ -24,5 +24,8 @@ Tips for storing large data https://github.com/ipfs/notes/issues/212#issue-19935
 ===== Applications =====
 [[:Nextcloud:IPFS]]
 
+==== Data sets ====
+https://archives.ipfs.io
+
 ===== Ideas =====
 https://blog.plan99.net/more-design-principles-for-the-newweb-b88582dcb4e0

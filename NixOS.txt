@@ -8,7 +8,7 @@ Created Thursday 17 May 2018
 [ ] Install [[NixOS]] under Windows 10 Hyper-V
 [ ] Clone nixpkgs
 [ ] Build aarch64 image
-[ ] Write to SD
+[*] Write to SD
 [ ] Boot on pi
 [ ] Build armv7l image
 https://nixos.org/nixos/download.html

@@ -5,5 +5,7 @@ Creation-Date: 2018-09-24T13:50:11-07:00
 ====== Gateway ======
 Created Monday 24 September 2018
 
-https://github.com/beakerbrowser/homebase
+https://github.com/beakerbrowser/homebase 
+single user pinning service
+
 https://github.com/beakerbrowser/hashbase

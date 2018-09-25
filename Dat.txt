@@ -5,6 +5,8 @@ Creation-Date: 2018-07-14T19:44:25-07:00
 ====== Dat ======
 Created Saturday 14 July 2018
 [ ] Learn basic dat
+	[ ] create a share and publish it with hashbase via the cmd line
+	[ ] can two dats be composed into a 
 
 [ ] Create dat share of html export of notebook
 [ ] Share via https gateway 

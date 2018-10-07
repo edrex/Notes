@@ -5,7 +5,7 @@ Creation-Date: 2018-03-01T17:35:06-08:00
 ====== SDR ======
 Created Thursday 01 March 2018
 
-See also: [[Embedded]]
+See also: [[SBC]]
 
 
 Data collection:

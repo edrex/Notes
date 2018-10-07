@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-07T16:25:09-07:00
+
+====== LineageOS ======
+Created Sunday 07 October 2018
+
+Need device to play with. Huawei Honor 7x?
+https://www.xda-developers.com/best-phone-for-the-money/

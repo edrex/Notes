@@ -4,6 +4,7 @@ Creation-Date: 2018-10-07T07:37:10-07:00
 
 ====== Sunday 07 Oct 2018 ======
 
+[[:RaspberryPi]] [[:NixOS]] build
 Good morning
 [ ] Wireless on nixpi
 [ ] Order sample [[:SBC]]

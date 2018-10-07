@@ -6,7 +6,7 @@ Creation-Date: 2018-10-07T07:37:10-07:00
 
 Good morning
 [ ] Wireless on nixpi
-[ ] Order sample 
+[ ] Order sample [[:SBC]]
 
 Watched
 https://www.audible.com/ep/ted-ed-guest-curator

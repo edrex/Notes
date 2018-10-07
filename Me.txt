@@ -3,7 +3,8 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-10-06T20:20:04-07:00
 
 ====== Me ======
-Created Saturday 06 October 2018
-I need better habits, around sleep, exercise, schedule, work.
 
-Resolutions:
+===== Habits =====
+I need better habits, around sleep, exercise, schedule, work.
+Resolve to w
+Resolutions

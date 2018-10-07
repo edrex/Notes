@@ -3,3 +3,6 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-10-07T07:37:10-07:00
 
 ====== Sunday 07 Oct 2018 ======
+
+Watched
+Linux Potteringhttps://media.ccc.de/v/ASG2018-230-systemd_in_2018

@@ -12,3 +12,5 @@ Created Sunday 07 October 2018
 	[ ] TODO copy ssh key from chip
 nix-rebuild switch
 
+[ ] Create repo for recipes
+[ ] add termite.terminfo to systemPackages (

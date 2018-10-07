@@ -4,5 +4,8 @@ Creation-Date: 2018-10-07T07:37:10-07:00
 
 ====== Sunday 07 Oct 2018 ======
 
+Pushing to get all stuff in perkeep/dat
+
 Watched
 https://media.ccc.de/v/ASG2018-230-systemd_in_2018 Lennart Poettering
+

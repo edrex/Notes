@@ -5,7 +5,8 @@ Creation-Date: 2018-10-07T16:25:09-07:00
 ====== LineageOS ======
 Created Sunday 07 October 2018
 
-==== Need device to play with ====
+=== Need device to play with? ===
+Maybe not. Budgets.
 https://www.lineageoslog.com/statistics
 
 Huawei Honor 7x?

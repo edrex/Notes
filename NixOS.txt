@@ -5,14 +5,6 @@ Creation-Date: 2018-05-17T22:08:34-07:00
 ====== NixOS ======
 [[:BuildLog]]
 
-Created Thursday 17 May 2018
-
-[ ] Install [[NixOS]] under Windows 10 Hyper-V
-[ ] Clone nixpkgs
-[ ] Build aarch64 image
-[*] Write to SD
-[ ] Boot on pi
-[ ] Build armv7l image
 https://nixos.org/nixos/download.html
 https://nixos.org/nix/manual/#ch-basic-package-mgmt
 

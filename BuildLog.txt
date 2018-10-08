@@ -14,3 +14,13 @@ nix-rebuild switch
 
 [ ] Create repo for recipes
 [ ] add termite.terminfo to systemPackages (https://github.com/NixOS/nixpkgs/issues/8473#issuecomment-227020257)
+
+
+Created Thursday 17 May 2018
+
+[ ] Install [[NixOS]] under Windows 10 Hyper-V
+[ ] Clone nixpkgs
+[*] Build aarch64 image
+[*] Write to SD
+[ ] Boot on pi
+[ ] Build armv7l image

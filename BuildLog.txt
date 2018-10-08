@@ -7,9 +7,10 @@ Created Sunday 07 October 2018
 
 ===== NixPi =====
 
-[*] enabl
-* passwd root
-	[ ] TODO copy ssh key from chip
+[*] enable sshd
+[>] passwd root
+[ ] nixops
+[>] copy ssh key from chip
 
 
 nix-rebuild switch

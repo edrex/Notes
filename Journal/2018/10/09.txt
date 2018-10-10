@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-09T19:25:01-07:00
+
+====== Tuesday 09 Oct 2018 ======
+[[QuteBrowser]] [[+Crash]]

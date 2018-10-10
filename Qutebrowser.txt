@@ -9,5 +9,8 @@ https://github.com/qutebrowser/qutebrowser/issues/2329
 
 Ok, reading through https://github.com/qutebrowser/qutebrowser/blob/43aa7423abb931ddcbccc51411f6a8a16bf056b5/qutebrowser/javascript/webelem.js helped me understand 
 I'm not sure if I understand why supporting multiple frames requires async
- 
+
+[[+Crashes]]
+
+
 

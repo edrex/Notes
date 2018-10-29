@@ -9,12 +9,18 @@ https://nixos.org/nixos/download.html
 https://nixos.org/nix/manual/#ch-basic-package-mgmt
 https://nixos.org/nixos/options.html
 
+intro
 https://nixos.org/nixos/nix-pills/why-you-should-give-it-a-try.html
+
 https://kevincox.ca/2015/12/13/getting-started-with-nixos/
 https://lastlog.de/blog/posts/odroid_xu4_with_nixos.html
 https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi
 
-I think I should start with dezgeg's config as a template:
+digging deeper
+
+https://nixos.wiki/wiki/NixOS:extend_NixOS#Example:_Add_a_System_Service
+
+https://github.com/bjornfor/nixos-config
 https://github.com/dezgeg/nixconfs/blob/master/jetson.nix
 https://github.com/dezgeg/nixconfs/blob/master/arm-board.nix
 

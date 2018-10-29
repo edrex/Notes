@@ -16,6 +16,7 @@ https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi
 
 I think I should start with dezgeg's config as a template:
 https://github.com/dezgeg/nixconfs/blob/master/jetson.nix
+https://github.com/dezgeg/nixconfs/blob/master/arm-board.nix
 
 Other ppls configs:
 https://github.com/jluttine/nixos-configuration

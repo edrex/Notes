@@ -4,6 +4,9 @@ Creation-Date: 2018-07-14T19:44:25-07:00
 
 ====== Dat ======
 
+https://docs.datproject.org/browser
+https://indieweb.org/Dat
+
 ===== hyperdrive/db =====
 https://github.com/mafintosh/hyperdb/blob/master/ARCHITECTURE.md
 https://github.com/datproject/docs/blob/master/docs/cookbook/using-fs.md

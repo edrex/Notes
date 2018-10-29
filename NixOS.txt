@@ -13,10 +13,10 @@ https://nixos.org/nixos/options.html
 ===== intro =====
 https://nixos.org/nixos/nix-pills/why-you-should-give-it-a-try.html
 https://kevincox.ca/2015/12/13/getting-started-with-nixos/
-https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55
 
 ===== digging deeper =====
 https://nixos.wiki/wiki/NixOS:extend_NixOS#Example:_Add_a_System_Service
+https://medium.com/@MrJamesFisher/nix-by-example-a0063a1a4c55
 
 ===== Other ppls configs: =====
 https://github.com/jluttine/nixos-configuration

@@ -3,6 +3,11 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-07-14T19:44:25-07:00
 
 ====== Dat ======
+
+===== hyperdrive/db =====
+https://github.com/mafintosh/hyperdb/blob/master/ARCHITECTURE.md
+https://github.com/datproject/docs/blob/master/docs/cookbook/using-fs.md
+
 Created Saturday 14 July 2018
 [ ] Learn basic dat
 	[ ] create a share and publish it with hashbase via the cmd line

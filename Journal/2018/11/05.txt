@@ -3,8 +3,12 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-11-05T07:22:41-08:00
 
 ====== Monday 05 Nov 2018 ======
+
 It is morning.
 Yesterday I was thinking deeply about sharing, and what technology support is needed.
 Taking cues from successful social practices seems wise:
 
 - a real-time experience (take photos directly into share)
+
+
+[[+Tasks]]

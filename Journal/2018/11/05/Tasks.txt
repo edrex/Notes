@@ -4,7 +4,7 @@ Creation-Date: 2018-11-05T07:24:45-08:00
 
 ====== Tasks ======
 
-[ ] order water heater for mom
-[ ] water filter
+[*] order water heater for mom
+[*] water filter
 [ ] job search
 [ ] vote

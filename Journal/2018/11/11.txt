@@ -4,4 +4,5 @@ Creation-Date: 2018-11-11T10:49:43-08:00
 
 ====== Sunday 11 Nov 2018 ======
 [ ] order heat gun
-[ ] chainsaw sharpen
+[ ] chainsaw sharpener
+[ ] auto sleep

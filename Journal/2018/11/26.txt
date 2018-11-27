@@ -1,0 +1,6 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-27T10:34:35-08:00
+
+====== Monday 26 Nov 2018 ======
+[[ThermalCamera]]

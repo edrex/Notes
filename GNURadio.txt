@@ -7,6 +7,10 @@ Created Tuesday 30 January 2018
 
 http://osmocom.org/projects/sdr/wiki/GrOsmoSDR
 
-
+Goal: capture z-wave traffic from smart outlets
 Link dump
+https://aur.archlinux.org/packages/?O=0&SeB=nd&K=gnuradio&outdated=&SB=n&SO=a&PP=50&do_Search=Go
 https://blackarch.org/tools.html
+zwave:
+https://github.com/edrex/EZ-Wave
+https://bitbucket.org/cybertools/scapy-radio/src

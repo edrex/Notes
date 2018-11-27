@@ -7,6 +7,12 @@ Created Tuesday 27 November 2018
  
 
 ===== Link Dump =====
+
+==== Seek ====
+https://github.com/maartenvds/libseek-thermal/pull/23
+https://github.com/lod/seek-thermal-documentation/wiki/Temperature-Values
+
+==== Thermal Expert $$$ ====
 https://www.eevblog.com/forum/thermal-imaging/thermal-expert-te-q1-versus-te-q1-plus-(features-and-pricing)/
 https://www.thermalexpert.eu/english-1/
 https://highvoltageshop.com/epages/b73088c0-9f9a-4230-9ffc-4fd5c619abc4.mobile/en_GB/?ObjectPath=/Shops/b73088c0-9f9a-4230-9ffc-4fd5c619abc4/Categories/Waermebildkamera

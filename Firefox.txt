@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-27T10:38:25-08:00
+
+====== Firefox ======
+Created Tuesday 27 November 2018
+
+One window per tab?
+https://medium.com/@Aenon/firefox-hide-native-tabs-and-titlebar-f0b00bdbb88b

@@ -7,7 +7,8 @@ Created Saturday 01 December 2018
 
 ===== Notes =====
 
-==== Wiki for coordinating care ====
+[[+Projects]]
+
  - Zim export to markdown or anything
  - Dokuwiki
 

@@ -8,6 +8,7 @@ Created Saturday 01 December 2018
 Metaquestion: Which direction should I go?
 
 
+* [ ] Kaldi 
 
 
 [[EricPaulson:]]

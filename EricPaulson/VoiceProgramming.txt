@@ -25,4 +25,4 @@ Python 2 basically dead in a year and change
 
 ## Follow ups
 
-CNN Inception model each l
+CNN Inception model each layer has multiple kernels

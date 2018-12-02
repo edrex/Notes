@@ -11,3 +11,7 @@ Created Saturday 01 December 2018
  - Zim export to markdown or anything
  - Dokuwiki
 
+===== Homework =====
+* (edrex) Figure how to screen-share
+* Get up to speed on [[:VoiceProgramming]]
+

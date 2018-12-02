@@ -6,4 +6,9 @@ Creation-Date: 2018-12-01T16:04:22-08:00
 Created Saturday 01 December 2018
 
 [[EricPaulson:]]
-Dragon NaturallyNatlink Python 2.7 32 bit only 
+Dragon Naturally
+
+Natlink Python 2.7 32 bit only 
+Written by Jay Gould late 90s or early 2000s
+Made module as a project to teach himself python
+Python 2 basically dead in a year and change

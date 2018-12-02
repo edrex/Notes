@@ -23,4 +23,6 @@ Python 2 basically dead in a year and change
 
 [[TensorFlow:DataSets:VoiceControlForMechanics]]
 
-CNN Inception
+## Follow ups
+
+CNN Inception model each l

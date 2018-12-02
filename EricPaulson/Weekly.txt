@@ -13,7 +13,8 @@ Creation-Date: 2018-12-01T15:20:44-08:00
 * TOE checkin
 
 ===== Homework =====
-* Figure how to screen
+* (edrex) Figure how to screen-share
+* Get up to speed on [[:VoiceProgramming]]
 
 [[+2018:12:01]]
 

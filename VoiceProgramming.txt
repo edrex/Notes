@@ -7,8 +7,7 @@ Created Saturday 01 December 2018
 
 Goal: answer the metaquestion: Which direction should I go?
 
-
-* 90% sure stick with [[DragonFly]]
+* 90% sure stick with [[EricPaulson:DragonFly]]
 * Aenea https://github.com/dictation-toolbox/aenea  
 * [ ] Kaldi 
 
@@ -22,7 +21,7 @@ Natlink Python 2.7 32 bit only
 Written by Jay Gould late 90s or early 2000s
 Made module as a project to teach himself python
 Python 2 basically dead in a year and change
-+[[DragonFly]]
++[[EricPaulson:DragonFly]]
 * Originally just 2 systems: win speech and DNS
 * New lead this year, pushing
 * CMU Sphinx backend
@@ -32,7 +31,7 @@ Python 2 basically dead in a year and change
 
 [[EricPaulson:Projects:CallBox]]
 
-[[TensorFlow:DataSets:VoiceControlForMechanics]]
+[[EricPaulson:TensorFlow:DataSets:VoiceControlForMechanics]]
 
 ## Follow ups
 

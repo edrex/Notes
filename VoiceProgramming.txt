@@ -26,7 +26,8 @@ Python 2 basically dead in a year and change
 * New lead this year, pushing
 * CMU Sphinx backend
 
-[[+Caster]]
+Caster
+
 
 
 [[EricPaulson:Projects:CallBox]]

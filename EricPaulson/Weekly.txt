@@ -12,7 +12,8 @@ Creation-Date: 2018-12-01T15:20:44-08:00
 * Eric checkin
 * TOE checkin
 
-
+===== Homework =====
+* Figure how to screen
 
 [[+2018:12:01]]
 

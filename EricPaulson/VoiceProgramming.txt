@@ -9,6 +9,7 @@ Goal: answer the metaquestion: Which direction should I go?
 
 
 * 90% sure stick with [[DragonFly]]
+* Aenea https://github.com/dictation-toolbox/aenea
 * [ ] Kaldi 
 
 

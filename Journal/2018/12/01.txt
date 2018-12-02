@@ -5,3 +5,6 @@ Creation-Date: 2018-12-01T15:18:39-08:00
 ====== Saturday 01 Dec 2018 ======
 [[EricPaulson]]
 
+reimage phone
+ - adb backup (unencrypted?)
+

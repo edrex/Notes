@@ -7,7 +7,6 @@ Created Saturday 01 December 2018
 
 ===== Notes =====
 
-[[+Projects]]
 
  - Zim export to markdown or anything
  - Dokuwiki

@@ -4,5 +4,6 @@ Creation-Date: 2018-12-28T14:19:36-08:00
 
 ====== Wednesday 26 Dec 2018 ======
  - Dat archive on laptop
- - Import Documents dir
- - 
+ - Host a website
+ - Bookmarklet to edit current file?
+ - Webextension to 

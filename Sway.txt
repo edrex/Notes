@@ -5,4 +5,4 @@ Creation-Date: 2018-12-31T22:34:44-08:00
 ====== Sway ======
 Created Monday 31 December 2018
 
-[ ] [[+TODO]]  https://github.com/swaywm/sway/issues/1005
+[ ] @TODO Write an i3 IPC listener thathttps://github.com/swaywm/sway/issues/1005

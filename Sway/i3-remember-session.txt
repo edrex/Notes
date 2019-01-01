@@ -5,6 +5,8 @@ Creation-Date: 2018-12-31T22:39:12-08:00
 ====== i3-remember-session ======
 Created Monday 31 December 2018
 
+Write an i3 IPC listener that remembers and restores windows in a selective way https://github.com/swaywm/sway/issues/1005
+
 @project
 [ ] Make repo
 [ ] See 

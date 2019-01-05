@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-05T14:37:02-08:00
+
+====== Workflow ======
+Created Saturday 05 January 2019
+
+ [[:i3]] trees with [[:Firefox]]
+
+https://addons.mozilla.org/en-US/firefox/addon/adsum-notabs/

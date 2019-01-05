@@ -7,4 +7,7 @@ Created Saturday 05 January 2019
 
  [[:i3]] trees with [[:Firefox]]
 
+https://www.reddit.com/r/firefox/comments/4syqrv/would_it_be_possible_to_fully_use_ff_without_tabs/
+https://www.reddit.com/r/i3wm/comments/a7h7se/possible_to_replace_firefox_tabs_with_i3_tabs/
+https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/
 https://addons.mozilla.org/en-US/firefox/addon/adsum-notabs/

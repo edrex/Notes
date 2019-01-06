@@ -6,3 +6,4 @@ Creation-Date: 2018-12-31T22:34:44-08:00
 Created Monday 31 December 2018
 
 [ ] @TODO [[+i3-remember-session]]
+https://www.reddit.com/r/i3wm/comments/8q44zr/script_to_runs_scratchpad_if_not_running/

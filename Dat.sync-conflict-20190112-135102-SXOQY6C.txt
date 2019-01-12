@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-14T19:44:25-07:00
+
+====== Dat ======
+Created Saturday 14 July 2018
+
+https://docs.datproject.org/publish
+https://docs.datproject.org/server

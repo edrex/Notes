@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2017-12-04T17:18:48-08:00
+
+====== IPFS ======
+[[:Vendor]]
+
+https://github.com/ipfs
+https://github.com/ipfs/go-ipfs
+https://ipfs.io/
+
+Tips for storing large data https://github.com/ipfs/notes/issues/212#issue-199355239
+
+===== Applications =====
+[[:Nextcloud:IPFS]]

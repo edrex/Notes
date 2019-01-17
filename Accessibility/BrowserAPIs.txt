@@ -6,3 +6,5 @@ Creation-Date: 2019-01-16T16:28:59-08:00
 Created Wednesday 16 January 2019
 
 https://support.mozilla.org/en-US/kb/accessibility-services#w_what-is-firefox-accessibility-service
+https://developer.mozilla.org/en-US/docs/Mozilla/Accessibility/Accessibility_architecture
+https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector

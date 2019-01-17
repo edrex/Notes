@@ -4,6 +4,7 @@ Creation-Date: 2018-11-27T10:38:25-08:00
 
 ====== Firefox ======
 Created Tuesday 27 November 2018
+[[Accessibility:BrowserAPIs]]
 
 ===== One window per tab? =====
 https://gist.github.com/BenoitAverty/af633ee20e27f48f9ba7178451432206

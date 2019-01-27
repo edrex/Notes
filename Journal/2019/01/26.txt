@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-26T20:37:53-08:00
+
+====== Saturday 26 Jan 2019 ======
+
+[[:GitAnnex]]
+

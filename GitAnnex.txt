@@ -1,0 +1,190 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-26T20:38:10-08:00
+
+====== GitAnnex ======
+Created Saturday 26 January 2019
+
+git-annex
+https://git-annex.branchable.com/
+
+quickstart
+https://git-annex.branchable.com/assistant/quickstart/
+
+metadata driven views
+https://git-annex.branchable.com/tips/metadata_driven_views/
+
+archival walkthrough
+https://git-annex.branchable.com/assistant/archival_walkthrough/
+
+related software
+https://git-annex.branchable.com/related_software/
+
+alpernebbi/git-annex-metadata-gui: Graphical interface for git-annex metadata commands
+https://github.com/alpernebbi/git-annex-metadata-gui
+
+git-annex-metadata
+https://git-annex.branchable.com/git-annex-metadata/
+
+what git-annex is not
+https://git-annex.branchable.com/not/
+
+metadata driven views
+https://git-annex.branchable.com/tips/metadata_driven_views/
+
+wiki-projects - IndieWeb
+https://indieweb.org/wiki-projects
+
+Git - gitattributes Documentation
+https://git-scm.com/docs/gitattributes
+
+~/DocumentsGitAnnexExperiment
+http://127.0.0.1:37329/?auth=bd057d988ed664cf10e778e167f48ebedcb280d5fba67972287524bea736df89a8bbae47273f04ba9fd93112d7de34ac9b7d5706ee90230d5c096d766d246209
+
+Export Tabs URLs – Get this Extension for 🦊 Firefox (en-US)
+https://addons.mozilla.org/en-US/firefox/addon/export-tabs-urls-and-titles/
+
+Getting started with web-ext | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Getting_started_with_web-ext
+
+Developing extensions for Firefox for Android | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Developing_WebExtensions_for_Firefox_for_Android
+
+mdn/webextensions-examples: Example Firefox add-ons created using the WebExtensions API
+https://github.com/mdn/webextensions-examples
+
+tabs.query() | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/query
+
+windows.Window | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/windows/Window
+
+history.search() | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/history/search
+
+ProseMirror schema example
+https://prosemirror.net/examples/schema/
+
+webextensions-examples/chill-out at master · mdn/webextensions-examples
+https://github.com/mdn/webextensions-examples/tree/master/chill-out
+
+mozilla-addons-and-browserify/manifest.json at master · rpl/mozilla-addons-and-browserify
+https://github.com/rpl/mozilla-addons-and-browserify/blob/master/web-ext/manifest.json
+
+mozilla/web-ext: A command line tool to help build, run, and test web extensions
+https://github.com/mozilla/web-ext
+
+choojs/bankai: - friendly web compiler
+https://github.com/choojs/bankai
+
+Embedded fallback Recipe - Caching strategies - ServiceWorker Cookbook
+https://serviceworke.rs/strategy-embedded-fallback.html
+
+Node-RED
+http://127.0.0.1:1880/#flow/970197f9.6f8868
+
+Socialist millionaires - Wikipedia
+https://en.wikipedia.org/wiki/Socialist_millionaires#cite_ref-socialist-millionaire-protocol_4-0
+
+dam.pdf
+https://www.win.tue.nl/~berry/papers/dam.pdf
+
+dschrempf/syncthing-resolve-conflicts: A small bash script that handles synchronization conflicts with Syncthing. Inspired by 'pacdiff' from Arch Linux.
+https://github.com/dschrempf/syncthing-resolve-conflicts
+
+External conflict handling tool (to merge, or select winner) · Issue #1746 · syncthing/syncthing
+https://github.com/syncthing/syncthing/issues/1746
+
+Riot
+https://riot.im/app/#/room/#freenode_#sway:matrix.org
+
+Convergent Encryption · Issue #63 · ipfs/notes
+https://github.com/ipfs/notes/issues/63
+
+nadreck.me – Maunderings of a Digital Self
+https://nadreck.me/
+
+Hypothes.is Historical Survey of Annotation Efforts - Google Sheets
+https://docs.google.com/spreadsheets/d/1f86L7vgHUW9wSLNNSunhjmtxtg6KlCOVpHGKbqUzW-Y/edit#gid=0
+
+W3C Web Annotation Working Group
+https://www.w3.org/annotation/
+
+Sci-Hub | Cryptree: A Folder Tree Structure for Cryptographic File Systems. 2006 25th IEEE Symposium on Reliable Distributed Systems (SRDS’06) | 10.1109/srds.2006.15
+https://sci-hub.tw/10.1109/SRDS.2006.15
+
+635134 - (wayland) Firefox Wayland port
+https://bugzilla.mozilla.org/show_bug.cgi?id=wayland
+
+Firefox context menus and URL bar dropdown broken under Sway 0.10 · Issue #1003 · swaywm/sway
+https://github.com/swaywm/sway/issues/1003
+
+Firefox waitcursor causes hang and firefox "crash", includes testcase · Issue #3506 · swaywm/sway
+https://github.com/swaywm/sway/issues/3506
+
+Streaming screen capture under Wayland
+https://gist.github.com/edrex/82f307c1b35368952849c01a52366769
+
+FFmpeg Devices Documentation
+https://www.ffmpeg.org/ffmpeg-devices.html#kmsgrab
+
+Streaming to twitch.tv - ArchWiki
+https://wiki.archlinux.org/index.php/Streaming_to_twitch.tv#GUI_solutions
+
+Open Broadcaster Software setup guide - LiveEdu.tv
+https://www.education-ecosystem.com/obs-guide-linux/
+
+FFmpeg Filters Documentation
+https://ffmpeg.org/ffmpeg-filters.html
+
+docs/hyperdrive_spec.md at master · datproject/docs
+https://github.com/datproject/docs/blob/master/docs/hyperdrive_spec.md#how-hypercore-works
+
+docs/intro.md at master · datproject/docs
+https://github.com/datproject/docs/blob/master/docs/intro.md
+
+Joy of Computing
+https://joy.recurse.com/
+
+alike [Totalism.org]
+https://e2h.totalism.org/e2h.php?_=alike#LIST___ONLINE_GROUPS
+
+Eco Hacker Farm (@EcoHackerFarm) | Twitter
+https://twitter.com/EcoHackerFarm
+
+Cow Creek Back Country ByWay | BUREAU OF LAND MANAGEMENT
+https://www.blm.gov/visit/cow-creek-back-country-byway
+
+Land Records | BUREAU OF LAND MANAGEMENT
+https://www.blm.gov/services/land-records
+
+The Doerner Fir Trail | BUREAU OF LAND MANAGEMENT
+https://www.blm.gov/visit/search-details/16509/2
+
+Map - Analyze, comment, and interact with information within a dataset
+https://navigator.blm.gov/map
+
+Protected Areas Viewer
+https://maps.usgs.gov/padus/
+
+OregonPublicLands1.26.15b.pdf
+https://oregonwild.org/sites/default/files/pdf-files/OregonPublicLands1.26.15b.pdf
+
+(4) Marshall Rosenberg: This Thing Called "Love" - YouTube
+https://www.youtube.com/watch?v=LkQlAL8mVPs&list=PLVvR7-f81RSAbkpwik4WgXM5pcgbor6d4&index=8
+
+Needs Inventory | The Center for Nonviolent Communication
+https://www.cnvc.org/Training/needs-inventory
+
+4part_nvc_process - 4part_nvc_process.pdf
+https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf
+
+Riot
+https://riot.im/app/#/room/!tuRBCOZZkgixgKeXYg:matrix.org
+
+Feelings Inventory | The Center for Nonviolent Communication
+https://www.cnvc.org/Training/feelings-inventory
+
+OTF | Alternative Sources of Support - December 2018
+https://www.opentech.fund/news/alternative-sources-support-december-2018/
+

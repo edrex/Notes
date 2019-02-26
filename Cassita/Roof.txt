@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-02-26T10:48:54-08:00
+
+====== Roof ======
+Created Tuesday 26 February 2019
+
+Related: [[+Insulation]]
+
+* [Roof Repair Cost: Minor & Major Repairs 2019](https://www.roofingcalc.com/roof-repair-cost/)
+* [33 of Your Toughest Roofing Questions Answered | This Old House](https://www.thisoldhouse.com/ideas/33-your-toughest-roofing-questions-answered)
+* [How to Repair a Leaky Asphalt Roof - DIY Guide - Roofing Calculator - Estimate your Roofing Costs - RoofingCalc.com](https://www.roofingcalc.com/how-to-repair-a-leaky-asphalt-roof/)
+* [Improve Attic Ventilation: Introduction | The Family Handyman](https://www.familyhandyman.com/attic/improve-attic-ventilation-introduction/view-all/)
+* [InspectAPedia Website Search Results](https://inspectapedia.com/Admin/Search_Results.php?cx=partner-pub-7804030228143760%3A8183382099&cof=FORID%3A10&ie=UTF-8&q=soffit+vent&sa=Search)
+* [Roof ventilation ratios: Specifications for Roof Intake and Outlet Vent Area Ratios](https://inspectapedia.com/ventilation/Roof_Venting_Ratios.php)
+* [Blocked Soffit Intake Vent Effect FAQs](https://inspectapedia.com/ventilation/Soffit-Vents-Blocked-FAQs.php)
+* [Soffit intake vents: how to Install Soffit Intake Vents to Stop Attic Condensation, Ice Dam Leaks, Attic Mold, & Roof Structure Damage](https://inspectapedia.com/ventilation/Soffit_Vent_Specifications.php)
+* [Roof soffit intake venting specifications: Soffit intake vents: How to Inspect Soffit Ventilation from the Attic](https://inspectapedia.com/ventilation/Soffit_Vent_Inspect.php)

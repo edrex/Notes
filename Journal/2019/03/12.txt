@@ -6,7 +6,7 @@ Creation-Date: 2019-03-12T18:02:30-07:00
 
 Hi!
 
-Zim is wack but tolerable because it exports to markdown view pandoc
+Zim is wack but temporarily tolerable because it exports to markdown via pandoc
 
 I'm on a hilltop (see chronologically correlated video in stream) writing and thinking about how to make my voice heard.
 

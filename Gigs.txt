@@ -5,11 +5,10 @@ Creation-Date: 2018-10-07T08:44:38-07:00
 ====== Gigs ======
 Created Sunday 07 October 2018
 
-===== Inbox: =====
-https://signal.org/workworkwork/
-https://boards.greenhouse.io/dgraph/jobs/674354 [[:dgraph]]
 
+===== Templates/Examples/Patterns =====
 
+https://wiki.lineageos.org/upgrading.html
 
 ===== Local Resources =====
 https://www.eugene-or.gov/2542/Regional-Accelerator-Innovation-Network

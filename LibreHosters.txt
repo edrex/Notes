@@ -6,6 +6,8 @@ Creation-Date: 2019-04-04T11:51:17-07:00
 Created Thursday 04 April 2019
 [[:TechCoops]]
 
+[[:Kubernetes]]
+
 
 
 ===== Meetings =====

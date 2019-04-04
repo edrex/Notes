@@ -6,6 +6,7 @@ Creation-Date: 2018-02-21T10:16:40-08:00
 [[:Vendor]] [[:Infrastructure]] [[:Storage]] nee: [[Camlistore]]
 
 [[+Documentation]]
+[[+Usability]]
 
 Tasks:
 [ ] Create a ticket for support channel

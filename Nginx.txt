@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T12:08:15-07:00
+
+====== Nginx ======
+Created Thursday 04 April 2019
+
+
+https://share.libre2.pdxhub.org/chromium-ozone-package
+* [[https://nginxlibrary.com/enable-directory-listing/|h]]ttps://nginxlibrary.com/enable-directory-listing/
+* https://serverfault.com/questions/542234/nginx-serving-files-as-text-without-having-txt-appended-to-it

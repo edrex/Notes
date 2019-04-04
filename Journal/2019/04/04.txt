@@ -28,3 +28,4 @@ Links:
 * [[:GTD]]
 * [[:Shoes]]
 * [[:nginx]]
+* :Phone

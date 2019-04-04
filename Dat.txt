@@ -8,6 +8,8 @@ Browser API:
 https://docs.datproject.org/browser
 https://indieweb.org/Dat
 
+Dat Mounts: https://github.com/datprotocol/DEPs/issues/32
+
 [[HyperDB]]
 [[HyperCore]]
 https://source.ind.ie/hypha/spikes/dat-1

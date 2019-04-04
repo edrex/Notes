@@ -10,6 +10,7 @@ Goal: answer the metaquestion: Which direction should I go?
 
 * 90% sure stick with [[EricPaulson:DragonFly]]
 * Aenea https://github.com/dictation-toolbox/aenea  
+* https://github.com/dictation-toolbox/dragonfly/issues/8
 * [ ] Kaldi 
 
 

@@ -11,4 +11,8 @@ Thinking, taking notes, and communicating.
 
 [[ThinkingDigitally]]
 
+[[SimplifyingConstraints]]
+
+[[NamingThings]]
+
 

@@ -5,6 +5,8 @@ Creation-Date: 2019-04-04T12:14:09-07:00
 ====== wlroots ======
 Created Thursday 04 April 2019
 
-[[+ScreenCapture]]
+[[:Wayland]]
 
-https://github.com/swaywm/wlroots/blob/master/protocol/wlr-screencopy-unstable-v1.xml
+[[+ScreenCapture]]
+[[+Input]]
+

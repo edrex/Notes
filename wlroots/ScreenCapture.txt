@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T12:14:19-07:00
+
+====== ScreenCapture ======
+Created Thursday 04 April 2019
+
+
+https://github.com/swaywm/wlroots/blob/master/protocol/wlr-screencopy-unstable-v1.xml

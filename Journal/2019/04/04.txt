@@ -31,3 +31,4 @@ Links:
 * [[:nginx]]
 * [[:Phone]]
 * [[:TiddlyWiki]]
+* [[:IkiWiki]]

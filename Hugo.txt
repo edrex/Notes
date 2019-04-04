@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T13:43:46-07:00
+
+====== Hugo ======
+Created Thursday 04 April 2019
+
+https://gohugo.io/content-management/shortcodes/
+https://discourse.gohugo.io/t/how-to-implement-edit-this-page-on-github/1166

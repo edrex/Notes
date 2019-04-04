@@ -11,7 +11,7 @@ Huh. I like this. No windows :D
 
 Tasks:
 
-[ ] [[CleanBrowserTabs]]
+[*] [[CleanBrowserTabs]]
 [ ] [[:Zim:Publish]] auto
 [ ] [[PostAboutNotes]]
 

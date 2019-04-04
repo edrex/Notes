@@ -6,7 +6,13 @@ Creation-Date: 2019-04-04T11:54:07-07:00
 Created Thursday 04 April 2019
 
 I want to sync to my own storage ([[:Perkeep]][[ !]])
+
+Global Storage Version 5 — Mozilla Services
+https://mozilla-services.readthedocs.io/en/latest/sync/storageformat5.html#cryptography
+
 https://github.com/mozilla-services/go-syncstorage
+mozilla-services/server-syncstorage: The SyncServer server software, as used by Firefox Sync
+https://github.com/mozilla-services/server-syncstorage
 
 Run your own Sync-1.5 Server — Mozilla Services
 https://mozilla-services.readthedocs.io/en/latest/howtos/run-sync-1.5.html
@@ -16,3 +22,5 @@ https://github.com/SynoCommunity/spksrc/wiki/Firefox-Sync-Server-1.5
 
 mozilla-services/syncclient: Python client for Firefox Sync
 https://github.com/mozilla-services/syncclient
+Network Graph · mozilla-services/syncclient
+https://github.com/mozilla-services/syncclient/network

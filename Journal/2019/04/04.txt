@@ -9,10 +9,7 @@ Huh. I like this. No windows :D
 
 Tasks:
 
-[ ] Publish [[:Zim]] notebook via [[:Netlify]]
-	[ ] Auto export on change
-		* [[:SystemD]] or internal zim change detection? 
-	[ ] Auto upload on change
+[ ] [[:Zim:Publish]] auto
 
 Input on android? Broadway?
 

@@ -6,4 +6,6 @@ Creation-Date: 2019-04-04T11:48:58-07:00
 Created Thursday 04 April 2019
 
 https://github.com/jwilder/nginx-proxy
+https://github.com/JrCs/docker-letsencrypt-nginx-proxy-companion/issues/319
+
 [[:Kubernetes]]

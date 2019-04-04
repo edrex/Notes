@@ -4,7 +4,7 @@ Creation-Date: 2018-02-18T10:24:26-08:00
 
 ====== MigrateIkiWiki ======
 Created Sunday 18 February 2018
-[ ] Move wiki.pdxhub.org to libre node.
+[*] Move wiki.pdxhub.org to libre node.
 [ ] Make full system backup of ankh (details)
 [ ] Decommision ankh (linode)
 

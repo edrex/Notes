@@ -11,8 +11,7 @@ Tasks:
 
 [ ] Publish [[:Zim]] notebook via [[:Netlify]]
 	[ ] Auto export on change
-		* [[:SystemD]] or internal zim change detection?
- 
+		* [[:SystemD]] or internal zim change detection? 
 	[ ] Auto upload on change
 
 Input on android? Broadway?

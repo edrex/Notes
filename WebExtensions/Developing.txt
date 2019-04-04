@@ -26,3 +26,7 @@ mozilla-addons-and-browserify/manifest.json at master · rpl/mozilla-addons-and-
 https://github.com/rpl/mozilla-addons-and-browserify/blob/master/web-ext/manifest.json
 mozilla/web-ext: A command line tool to help build, run, and test web extensions
 https://github.com/mozilla/web-ext
+
+
+windows.onFocusChanged - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/windows/onFocusChanged

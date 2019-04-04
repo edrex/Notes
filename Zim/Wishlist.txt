@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T11:37:04-07:00
+
+====== Wishlist ======
+Created Thursday 04 April 2019
+
+[ ] popup should come to current container
+[ ] plugin to auto add to journal?
+[ ] On phone?
+[ ] In Vim https://github.com/jakykong/vim-zim/blob/master/doc/zim.txt

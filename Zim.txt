@@ -8,11 +8,8 @@ Creation-Date: 2017-11-21T14:39:55-08:00
 http://zim-wiki.org
 
 [[+Publish]]
+[[+Wishlist]]
 
 
 
-[ ] popup should come to current container
-[ ] plugin to auto add to journal?
-[ ] On phone?
-[ ] In Vim https://github.com/jakykong/vim-zim/blob/master/doc/zim.txt
 

@@ -9,10 +9,11 @@ http://zim-wiki.org/manual/Usage/Publishing.html
 
 ===== m1 =====
 [*] Command to export
-[*] Setup netlify
-[*] Command to export+upload 
+[*] Setup [[:Netlify]]
+[*] Command to export+upload https://github.com/edrex/dotfiles/blob/master/bin/publish-notes
 
-Automatically publish to [[:Netlify]] on change
+===== m2 =====
+Automate publish via a [[:Systemd:UserUnit]]  to [[:Netlify]] on change
 	[ ] Auto export on change
 		* [[:Systemd]] or internal zim change detection? 
 	[ ] Auto upload on change

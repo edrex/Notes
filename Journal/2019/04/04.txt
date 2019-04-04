@@ -9,8 +9,9 @@ Huh. I like this. No windows :D
 
 Tasks:
 
-[ ] CleanB
+[ ] [[CleanBrowserTabs]]
 [ ] [[:Zim:Publish]] auto
+[ ] [[PostAboutNotes]]
 
 [[:KnowledgeArchitectures]]
 

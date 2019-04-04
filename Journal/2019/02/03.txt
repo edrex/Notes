@@ -5,8 +5,3 @@ Creation-Date: 2019-04-04T11:05:02-07:00
 ====== 03 ======
 Created Thursday 04 April 2019
 
-Huh. I like this.
-
-Input on android? Broadway?
-
-[[:KnowledgeArchitectures]]

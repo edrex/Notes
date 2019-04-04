@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T11:25:40-07:00
+
+====== Netlify ======
+Created Thursday 04 April 2019
+
+https://app.netlify.com/teams/edrex/sites
+
+CLI?

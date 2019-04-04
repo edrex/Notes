@@ -5,14 +5,15 @@ Creation-Date: 2019-04-04T11:08:28-07:00
 ====== KnowledgeArchitectures ======
 Created Thursday 04 April 2019
 
+Topic: [[ThinkingDigitally]]
+
+
 This category of things is what I spend much of my time thinking about.
 
-
-Thinking, taking notes, and communicating.
-
-[[ThinkingDigitally]]
 [[SimplifyingConstraints]]
+
 [[NamingThings]]
+
 [[InvalidatingCaches]]
 
 

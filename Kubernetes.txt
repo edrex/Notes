@@ -9,6 +9,7 @@ Created Thursday 04 April 2019
 
 ===== Ingress =====
 [[:Nginx:Proxy]]
+[[:Traefik]]
 
 
 https://lab.libreho.st/libre.sh/kubernetes

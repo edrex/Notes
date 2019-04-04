@@ -9,3 +9,6 @@ https://app.netlify.com/teams/edrex/sites
 
 [[+CLI]]
 
+
+===== Pure static site =====
+https://www.netlify.com/blog/2016/10/27/a-step-by-step-guide-deploying-a-static-site-or-single-page-app/

@@ -19,3 +19,4 @@ https://webmention.herokuapp.com/
 https://eddiehinkle.com/new-home
 [[AaronPereki]]
 
+https://www.w3.org/wiki/SocialCG

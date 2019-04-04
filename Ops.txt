@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T13:07:44-07:00
+
+====== Ops ======
+Created Thursday 04 April 2019
+
+[[:Ansible]]
+
+
+===== Tools =====
+Glances - An Eye on your system
+https://nicolargo.github.io/glances/

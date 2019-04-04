@@ -3,9 +3,9 @@ Wiki-Format: zim 0.4
 Creation-Date: 2018-02-21T10:16:40-08:00
 
 ====== PerKeep ======
-[[:Vendor]] [[:Infrastructure]] [[:Storage]]
-Created Wednesday 06 December 2017
-Previously known as: [[Camlistore]]
+[[:Vendor]] [[:Infrastructure]] [[:Storage]] nee: [[Camlistore]]
+
+[[:Documentation]]
 
 Tasks:
 [ ] Create a ticket for support channel

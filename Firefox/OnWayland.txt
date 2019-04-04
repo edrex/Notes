@@ -7,3 +7,6 @@ Created Thursday 04 April 2019
 
 [[:Wayland]]
 https://bugzilla.mozilla.org/buglist.cgi?quicksearch=wayland
+
+Sync render blocks with hwaccel:
+https://bugzilla.mozilla.org/show_bug.cgi?id=1515448

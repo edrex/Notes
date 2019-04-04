@@ -13,7 +13,6 @@ http://zim-wiki.org/manual/Usage/Publishing.html
 [*] Command to export+upload https://github.com/edrex/dotfiles/blob/master/bin/publish-notes
 
 ===== m2 =====
-Automate publish on change via a [[:Systemd:UserUnit]]
-	[ ] Auto export on change
-		* [[:Systemd]] or internal zim change detection? 
-	[ ] Auto upload on change
+[ ] Automate publish on change via a [[:Systemd:UserUnit]]
+
+m3

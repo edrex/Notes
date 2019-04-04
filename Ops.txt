@@ -9,6 +9,9 @@ Created Thursday 04 April 2019
 [[:Docker]]
 [[:Kubernetes]]
 
+====== My Admin URLs ======
+
+Localhost
 
 ===== Tools =====
 Glances - An Eye on your system

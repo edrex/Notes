@@ -7,3 +7,6 @@ Created Thursday 04 April 2019
 
 I want to sync to my own storage ([[:Perkeep]][[ !]])
 https://github.com/mozilla-services/go-syncstorage
+
+Run your own Sync-1.5 Server — Mozilla Services
+https://mozilla-services.readthedocs.io/en/latest/howtos/run-sync-1.5.html

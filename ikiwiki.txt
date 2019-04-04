@@ -7,4 +7,4 @@ Created Wednesday 25 April 2018
 
 https://wiki.pdxhub.org/
 
-[ ] Fix redirect on e
+[ ] Fix redirect on edit post

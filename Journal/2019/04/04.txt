@@ -32,3 +32,4 @@ Links:
 * [[:Phone]]
 * [[:TiddlyWiki]]
 * [[:IkiWiki]]
+* [[:MySites]]

@@ -10,7 +10,7 @@ http://zim-wiki.org/manual/Usage/Publishing.html
 ===== m1 =====
 [*] Command to export
 [*] Setup netlify
-[*] Command to export+upload
+[*] Command to export+upload 
 
 Automatically publish to [[:Netlify]] on change
 	[ ] Auto export on change

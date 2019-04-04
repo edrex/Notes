@@ -39,3 +39,4 @@ Links:
 * :[[Prosemirror]]
 * [[:SpeechToText]]
 * [[MachineLearning]]
+* [[BoredStuff]]

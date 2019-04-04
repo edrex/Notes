@@ -14,3 +14,6 @@ wayland support · Issue #67 · alols/xcape
 https://github.com/alols/xcape/issues/67
 96621 – bind modifier keys separately when pressed alone (similar to xcape)
 https://bugs.freedesktop.org/show_bug.cgi?id=96621
+
+interception / linux / Interception Tools · GitLab
+https://gitlab.com/interception/linux/tools

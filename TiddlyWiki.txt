@@ -8,5 +8,11 @@ Created Thursday 04 April 2019
 https://tank.peermore.com/tanks/Collaboration/KnowledgeBase
 https://github.com/FND/purpler
 
+
+
+===== Storage Backends =====
+
+https://github.com/fiatjaf/tiddlywiki-remotestorage
+
 add a simple put saver, for saving to a webdav or REST server by edrex · Pull Request #2277 · Jermolene/TiddlyWiki5
 https://github.com/Jermolene/TiddlyWiki5/pull/2277

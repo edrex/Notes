@@ -32,6 +32,7 @@ Links:
 * [[:Phone]]
 * [[:TiddlyWiki]]
 * [[:IkiWiki]]
+* [[:WebExtensions]]
 * [[:MySites]]
 * [[:Ansible]]
 * [[:Dapps]]

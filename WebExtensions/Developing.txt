@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T13:14:39-07:00
+
+====== Developing ======
+Created Thursday 04 April 2019
+
+https://serviceworke.rs/strategy-embedded-fallback.html

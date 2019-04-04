@@ -5,5 +5,5 @@ Creation-Date: 2019-04-04T11:54:07-07:00
 ====== Sync ======
 Created Thursday 04 April 2019
 
-I want to sync to my own storage ([[:Perkeep!]])
+I want to sync to my own storage ([[:Perkeep]][[ !]])
 https://github.com/mozilla-services/go-syncstorage

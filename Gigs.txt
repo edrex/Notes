@@ -7,7 +7,8 @@ Created Sunday 07 October 2018
 
 ===== Inbox: =====
 https://signal.org/workworkwork/
-https://boards.greenhouse.io/dgraph/jobs/674354
+https://boards.greenhouse.io/dgraph/jobs/674354 [[:dgraph]]
+
 
 
 ===== Local Resources =====

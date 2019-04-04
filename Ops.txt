@@ -11,7 +11,8 @@ Created Thursday 04 April 2019
 
 ====== My Admin URLs ======
 
-Localhost
+==== Localhost ====
+Cockpit http://localhost:9090/
 
 ===== Tools =====
 Glances - An Eye on your system

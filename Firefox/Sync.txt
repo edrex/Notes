@@ -10,3 +10,9 @@ https://github.com/mozilla-services/go-syncstorage
 
 Run your own Sync-1.5 Server — Mozilla Services
 https://mozilla-services.readthedocs.io/en/latest/howtos/run-sync-1.5.html
+
+Firefox Sync Server 1.5 · SynoCommunity/spksrc Wiki
+https://github.com/SynoCommunity/spksrc/wiki/Firefox-Sync-Server-1.5
+
+mozilla-services/syncclient: Python client for Firefox Sync
+https://github.com/mozilla-services/syncclient

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T14:00:44-07:00
+
+====== InBrowser ======
+Created Thursday 04 April 2019
+
+Greenfield: An In-Browser HTML5 Wayland Compositor - Phoronix
+https://www.phoronix.com/scan.php?page=news_item&px=Greenfield-HTML5-Wayland

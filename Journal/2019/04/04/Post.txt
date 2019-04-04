@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T14:05:01-07:00
+
+====== Post ======
+Created Thursday 04 April 2019
+
+https://sunbeam.city/web/statuses/101857949032280346
+
+@aral@mastodon.ar.al I bounce around with note systems a lot (which causes so much workflow disruption!) but I've been using Zim for awhile. It's not minimal but it has some attributes I value highly:
+
++WikiLinking
++tight capture/view feedback loop (via wysiwyg) vs something like MD and a static site compiler
++SingleActiveWindow (avoids tab proliferation)
++ Export to HTML
++GTK3 now, so I can use it with Broadway on my phone etc (theoretically, just now testing)

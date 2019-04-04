@@ -7,3 +7,5 @@ Created Thursday 04 April 2019
 
 Support for Go 1.12 · Issue #887 · gopherjs/gopherjs
 https://github.com/gopherjs/gopherjs/issues/887
+
+

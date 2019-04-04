@@ -14,5 +14,6 @@ Thinking, taking notes, and communicating.
 [[SimplifyingConstraints]]
 
 [[NamingThings]]
+[[InvalidatingCaches]]
 
 

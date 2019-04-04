@@ -37,3 +37,5 @@ Links:
 * [[:Ansible]]
 * [[:Dapps]]
 * :[[Prosemirror]]
+* [[:SpeechToText]]
+* [[MachineLearning]]

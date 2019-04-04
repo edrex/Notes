@@ -14,6 +14,9 @@ https://github.com/dwks
 
 Goal: answer the metaquestion: Which direction should I go?
 
+Roadmapish · Issue #214 · dictation-toolbox/Caster
+https://github.com/dictation-toolbox/caster/issues/214
+
 * 90% sure stick with [[EricPaulson:DragonFly]]
 * Aenea https://github.com/dictation-toolbox/aenea  
 * Cross platform support · Issue #8 · dictation-toolbox/dragonfly

@@ -6,5 +6,5 @@ Creation-Date: 2017-11-28T20:02:22-08:00
 Created Tuesday 28 November 2017
 
 [[+Laptops]]
-[[+Phones]]
+[[Phones]]
 +Hi

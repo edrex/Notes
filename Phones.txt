@@ -4,6 +4,7 @@ Creation-Date: 2017-11-29T15:25:47-08:00
 
 ====== Phones ======
 
-Lauren:
+
+[ ] Upgrade my herolte lineageos https://wiki.lineageos.org/upgrading.html
 
 [[+Lauren's Nexus 5x]]

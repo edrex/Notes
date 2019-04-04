@@ -7,3 +7,5 @@ Created Thursday 04 April 2019
 
 https://gohugo.io/content-management/shortcodes/
 https://discourse.gohugo.io/t/how-to-implement-edit-this-page-on-github/1166
+
+[[:HTML]]

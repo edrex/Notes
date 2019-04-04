@@ -14,5 +14,6 @@ I'm not sure if I understand why supporting multiple frames requires async
 
 ==== Support for webextensions · Issue #3186 · qutebrowser/qutebrowser ====
 https://github.com/qutebrowser/qutebrowser/issues/3186
-
+[QTBUG-61676] Support Chromium extensions - Qt Bug Tracker
+https://bugreports.qt.io/browse/QTBUG-61676
 

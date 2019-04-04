@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T14:32:30-07:00
+
+====== CLI ======
+Created Thursday 04 April 2019
+
+https://www.netlify.com/docs/cli/

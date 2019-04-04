@@ -7,4 +7,5 @@ Created Thursday 04 April 2019
 
 https://app.netlify.com/teams/edrex/sites
 
-CLI?
+[[+CLI]]
+

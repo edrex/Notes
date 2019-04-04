@@ -5,6 +5,11 @@ Creation-Date: 2019-04-04T11:46:57-07:00
 ====== OnWayland ======
 Created Thursday 04 April 2019
 
+you should use MOZ_ENABLE_WAYLAND=1 instead
+that's been recommended since 66+
+https://hg.mozilla.org/integration/autoland/rev/b9424178ab0b
+
+
 [[:Wayland]]
 https://bugzilla.mozilla.org/buglist.cgi?quicksearch=wayland
 

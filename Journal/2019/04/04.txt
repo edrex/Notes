@@ -40,3 +40,4 @@ Links:
 * [[:SpeechToText]]
 * [[MachineLearning]]
 * [[BoredStuff]]
+* [[:Funding]]

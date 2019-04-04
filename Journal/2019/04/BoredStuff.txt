@@ -7,3 +7,4 @@ Created Thursday 04 April 2019
 
 Joy of Computing
 https://joy.recurse.com/
+[[SolarPunk]]

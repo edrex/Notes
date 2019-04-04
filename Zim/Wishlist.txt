@@ -5,10 +5,7 @@ Creation-Date: 2019-04-04T11:37:04-07:00
 ====== Wishlist ======
 Created Thursday 04 April 2019
 
-===== Integration With Sway =====
-
-[ ] Open in popup by default
-[ ] Popup sticky (can this be done for all popups?)
-
+[[+SwayIntegration]]
+[[+OnPhone]]
 
 [ ] In Vim https://github.com/jakykong/vim-zim/blob/master/doc/zim.txt

@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T11:39:20-07:00
+
+====== SwayIntegration ======
+Created Thursday 04 April 2019
+
+[ ] Open in popup by default
+[ ] Popup sticky (can this be done for all popups?)

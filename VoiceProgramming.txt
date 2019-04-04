@@ -19,8 +19,15 @@ https://github.com/dictation-toolbox/caster/issues/214
 
 * 90% sure stick with [[EricPaulson:DragonFly]]
 * Aenea https://github.com/dictation-toolbox/aenea  
+
+
+===== Linux =====
+
 * Cross platform support · Issue #8 · dictation-toolbox/dragonfly
 https://github.com/dictation-toolbox/dragonfly/issues/8
+https://github.com/dictation-toolbox/aenea/blob/master/server/linux_wayland/server_wayland.py
+
+
 * [ ] Kaldi 
 
 caster/caster/user at master · dictation-toolbox/caster

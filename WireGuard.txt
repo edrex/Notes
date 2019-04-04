@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T13:58:30-07:00
+
+====== WireGuard ======
+Created Thursday 04 April 2019
+
+WireGuard VPN: What You Need to Know - NOT (Yet) Recommended
+https://restoreprivacy.com/wireguard/

@@ -9,7 +9,7 @@ Huh. I like this. No windows :D
 
 Tasks:
 
-[ ] Publish zim notebook via netlify
+[ ] Publish [[:Zim]] notebook via [[:Netlify]]
 
 Input on android? Broadway?
 

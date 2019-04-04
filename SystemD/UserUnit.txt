@@ -12,5 +12,3 @@ Path Units Are Easy! Better Computing Through Automation
 https://blog.andrewkeech.com/posts/170809_path.html
 
 Do I need to worry about locking?
-
-Foo

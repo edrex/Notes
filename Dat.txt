@@ -68,3 +68,6 @@ Also Beaker browser:
 https://github.com/beakerbrowser/explore
 With Tiddlywiki: https://tiddlywiki.com/static/Saving%2520on%2520Beaker%2520Browser.html
 
+===== Interesting reading =====
+Three protocols and a future of the decentralized internet
+https://blog.datproject.org/2019/03/22/three-protocols-and-a-future-of-the-decentralized-internet/`

@@ -6,3 +6,23 @@ Creation-Date: 2019-04-04T13:14:39-07:00
 Created Thursday 04 April 2019
 
 https://serviceworke.rs/strategy-embedded-fallback.html
+
+
+Getting started with web-ext - Mozilla | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Getting_started_with_web-ext
+Developing extensions for Firefox for Android | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Developing_WebExtensions_for_Firefox_for_Android
+mdn/webextensions-examples: Example Firefox add-ons created using the WebExtensions API
+https://github.com/mdn/webextensions-examples
+tabs.query() | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/tabs/query
+windows.Window | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/windows/Window
+history.search() | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/history/search
+webextensions-examples/chill-out at master · mdn/webextensions-examples
+https://github.com/mdn/webextensions-examples/tree/master/chill-out
+mozilla-addons-and-browserify/manifest.json at master · rpl/mozilla-addons-and-browserify
+https://github.com/rpl/mozilla-addons-and-browserify/blob/master/web-ext/manifest.json
+mozilla/web-ext: A command line tool to help build, run, and test web extensions
+https://github.com/mozilla/web-ext

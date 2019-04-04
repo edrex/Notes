@@ -10,6 +10,8 @@ Huh. I like this. No windows :D
 Tasks:
 
 [ ] Publish [[:Zim]] notebook via [[:Netlify]]
+	[ ] Auto export on change (
+	[ ] Auto upload on dir change
 
 Input on android? Broadway?
 

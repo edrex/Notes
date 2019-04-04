@@ -6,8 +6,9 @@ Creation-Date: 2017-11-21T14:39:55-08:00
 [[:Vendor]]
 
 http://zim-wiki.org
-
 http://zim-wiki.org/manual/Usage/Publishing.html
+
+[ 
 
 [ ] popup should come to current container
 [ ] plugin to auto add to journal?

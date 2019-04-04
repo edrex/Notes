@@ -11,8 +11,6 @@ Tasks:
 
 [ ] [[:Zim:Publish]] auto
 
-Input on android? Broadway?
-
 [[:KnowledgeArchitectures]]
 
 Links:

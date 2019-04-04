@@ -9,7 +9,7 @@ Huh. I like this. No windows :D
 
 Tasks:
 
-
+[ ] CleanB
 [ ] [[:Zim:Publish]] auto
 
 [[:KnowledgeArchitectures]]
@@ -28,4 +28,4 @@ Links:
 * [[:GTD]]
 * [[:Shoes]]
 * [[:nginx]]
-* :Phone
+* [[:Phone]]

@@ -8,7 +8,7 @@ Created Sunday 07 October 2018
 
 ===== Templates/Examples/Patterns =====
 
-https://wiki.lineageos.org/upgrading.html
+[[ColeMickens]] resume: https://docs.google.com/document/d/1LhG6XsiTOs24upHLTtvKwmYZYFF3KN78W6EUat274ss/edit
 
 ===== Local Resources =====
 https://www.eugene-or.gov/2542/Regional-Accelerator-Innovation-Network

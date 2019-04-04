@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T13:09:20-07:00
+
+====== HTTPFrontend ======
+Created Thursday 04 April 2019
+
+[[:Nginx:Proxy]]
+[[:Traefik]]
+
+How to setup a reverse proxy with LetsEncrypt SSL for all your Docker apps
+https://blog.linuxserver.io/2017/11/28/how-to-setup-a-reverse-proxy-with-letsencrypt-ssl-for-all-your-docker-apps/

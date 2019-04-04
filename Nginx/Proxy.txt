@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T11:48:58-07:00
+
+====== Proxy ======
+Created Thursday 04 April 2019
+
+https://github.com/jwilder/nginx-proxy
+[[:Kubernetes]]

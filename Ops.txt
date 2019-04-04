@@ -6,6 +6,8 @@ Creation-Date: 2019-04-04T13:07:44-07:00
 Created Thursday 04 April 2019
 
 [[:Ansible]]
+[[:Docker]]
+[[:Kubernetes]]
 
 
 ===== Tools =====

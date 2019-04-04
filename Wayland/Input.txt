@@ -6,3 +6,8 @@ Creation-Date: 2019-04-04T12:14:33-07:00
 Created Thursday 04 April 2019
 
 https://github.com/Coffee2CodeNL/gebaar-libinput
+
+
+xcape features (double bind modifiers) · Issue #719 · swaywm/sway
+https://github.com/swaywm/sway/issues/719
+https://github.com/alols/xcape/issues/67

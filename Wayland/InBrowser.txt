@@ -7,3 +7,6 @@ Created Thursday 04 April 2019
 
 Greenfield: An In-Browser HTML5 Wayland Compositor - Phoronix
 https://www.phoronix.com/scan.php?page=news_item&px=Greenfield-HTML5-Wayland
+
+Using GTK+ with Broadway: GTK+ 3 Reference Manual
+https://developer.gnome.org/gtk3/stable/gtk-broadway.html

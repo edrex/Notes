@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T12:06:14-07:00
+
+====== GTD ======
+Created Thursday 04 April 2019
+
+For hackers! https://gtdfh.branchable.com/getting-started/

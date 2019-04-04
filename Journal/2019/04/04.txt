@@ -26,3 +26,4 @@ Links:
 * [[:Gigs]]
 * [[:Hiking]]
 * [[:GTD]]
+* [[:Shoes]]

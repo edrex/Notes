@@ -11,4 +11,4 @@ Topics for today:
 
 Start to automate with [[:Ansible]]
 
-First use it to provisi
+[ ] First use it to provision [[RaspberryPi]]

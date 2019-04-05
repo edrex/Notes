@@ -34,8 +34,9 @@ https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 [ ] Remove html branch
 
 ==== M4 fancy export ====
-Idea: Zim => Markdown => Hugo would enable integration of notes with other 
+Idea: Zim => Markdown => Hugo publishing to enable fancy features
 [ ] Manually export site to markdown
+[ ] Create
 [ ] Include markdown as subdir in local hugo build and see if there are any gotchas
 [ ] If it works well, automate this two-step build on CI server
 

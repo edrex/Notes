@@ -8,7 +8,12 @@ Created Friday 05 April 2019
 ===== Habit Change =====
 **Cue:** Evening wind down time
 ~~Routine: Watch youtube and twitch in bed, eventually fall asleep~~
-**Routine:** Clean floor, Watch youtube and twitch in bed, eventually fall asleep
+**Routine:** 
+* Make tea, clean floor
+* Watch youtube and twitch while stretching and exercising
+* Meditate for a10 
+
+eventually fall asleep
 
 **Reward:** Mild intellectual stimulation, clear mind of anxiety
 

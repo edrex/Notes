@@ -5,7 +5,12 @@ Creation-Date: 2019-04-04T11:30:29-07:00
 ====== Publish ======
 Created Thursday 04 April 2019
 
+===== Docs =====
 http://zim-wiki.org/manual/Usage/Publishing.html
+
+===== My site =====
+https://edrex-notes.pdxhub.org/
+https://app.netlify.com/sites/amazing-elion-a348ca
 
 ===== Milestones =====
 

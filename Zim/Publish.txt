@@ -23,7 +23,7 @@ https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 [ ] Set laptop to pull --rebase && push
 	[ ] on local change
 	[ ] on login
-	[ ] on connect (so when I open my laptop it syncs
+	[ ] on connect (so when I open my laptop it syncs)
 [ ] Ensure Zim updates index on remote change
+[ ] Remove html branch
 [ ] Modify template to link to source - direct to file if possible, otherwise repo root
-[ ] Clean up 

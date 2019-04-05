@@ -9,10 +9,9 @@ Created Thursday 04 April 2019
 
 ==== Exercise ====
 🚵 Roberts Mt loop, evening
-:Habits:StrechWithMedia
+[[:Habits:MediaAndStretch]]
 
 ==== Habit ====
-Cue: Evening wind down time
 
 ==== Self Control ====
 No screen in bed

@@ -14,7 +14,6 @@ Created Friday 05 April 2019
 [ ] [[Zim:Publish]] M3 build on CI server instead of local to laptop
 
 ===== Projects =====
-
-Provision [[RaspberryPi]] with [[Ansible]]
+[[Ansible:GettingStarted]]
 
 [[MomsHouse:Deck]]

@@ -6,7 +6,7 @@ Creation-Date: 2019-04-05T07:16:15-07:00
 Created Friday 05 April 2019
 
 [ ] [[+RunGpgAgentOnLogin]]
-[ ] [[Zim:Publish]] build on CI server instead of local to laptop
+[ ] [[Zim:Publish]] M3 build on CI server instead of local to laptop
 
 Topics for today:
 

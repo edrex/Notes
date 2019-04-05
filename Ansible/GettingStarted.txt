@@ -11,4 +11,4 @@ I want to start using Ansible for my personal infrastructure, but applying it to
 
 1. Use ansible to configure a fresh machine, [[RaspberryPi]] from the start
 2. Follow up by configuring Bookmobile using ansible (also from scratch I think)
-3. Once I have a configuration repo, follow up by 
+3. Once I have a configuration repo, follow up by porting laptop config to ansible and use it going forward

@@ -18,8 +18,7 @@ http://zim-wiki.org/manual/Usage/Publishing.html
 [*] Automate publish on change via a [[:Systemd:UserUnit]]
 https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 
-==== m3 edit anywhere ====
+==== m3 edit online ====
 [ ] Build via netlify CI rather than locally
 [ ] Set laptop to pull --rebase && push on login + hourly
-[ ] Same on bookmobile
 m4 

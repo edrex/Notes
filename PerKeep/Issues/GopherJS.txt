@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-04T14:04:14-07:00
+
+====== GopherJS ======
+Created Thursday 04 April 2019
+
+Support for Go 1.12 · Issue #887 · gopherjs/gopherjs
+https://github.com/gopherjs/gopherjs/issues/887
+
+vendor: bump github.com/gopherjs/gopherjs (I8cbb24ff) · Gerrit Code Review
+https://perkeep-review.googlesource.com/c/perkeep/+/18786

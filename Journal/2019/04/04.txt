@@ -7,14 +7,14 @@ Created Thursday 04 April 2019
 
 ===== Achievements =====
 
-==== Exercise ====
+:
 🚵 Roberts Mt loop, evening
 [[:Habits:MediaAndStretch]]
 
 ==== Self Control ====
 No screen in bed
 🚫(💻(🛌))  (first!)
-Cleared browser tabs after a couple months of accretion!
+[[:Workflow]] Cleared browser tabs after a couple months of accretion!
 
 
 [[+Post]]

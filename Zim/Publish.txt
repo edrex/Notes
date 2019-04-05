@@ -7,6 +7,8 @@ Created Thursday 04 April 2019
 
 http://zim-wiki.org/manual/Usage/Publishing.html
 
+Milestones
+
 ===== m1 =====
 [*] Command to export
 [*] Setup [[:Netlify]]
@@ -15,3 +17,5 @@ http://zim-wiki.org/manual/Usage/Publishing.html
 ===== m2 =====
 [*] Automate publish on change via a [[:Systemd:UserUnit]]
 https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
+
+===== m3 =====

@@ -21,4 +21,5 @@ https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 ==== m3 edit online ====
 [ ] Build via netlify CI rather than locally
 [ ] Set laptop to pull --rebase && push on login + hourly
+[ ] Modify template to link to source - direct to file 
 m4 

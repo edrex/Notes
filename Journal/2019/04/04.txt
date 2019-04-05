@@ -21,7 +21,8 @@ Tasks:
 
 [*] [[CleanBrowserTabs]]
 [*] [[:Zim:Publish]] auto
-[ ] [[PostAboutNotes]]
+[ ] [[+PostAboutNotes]]
+
 
 [[:KnowledgeArchitectures]]
 

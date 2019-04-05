@@ -4,6 +4,7 @@ Creation-Date: 2019-04-05T10:15:34-07:00
 
 ====== MediaAndStretch ======
 Created Friday 05 April 2019
+@Habit
 
 ===== Habit Change =====
 **Cue:** Evening wind down time
@@ -13,9 +14,4 @@ Created Friday 05 April 2019
 * Watch youtube and twitch while stretching and exercising
 * Meditate for 10 minutes
 * Get in bed and go to sleep
-**Reward:** clear mind of anxiety
-
-===== New habit =====
-**Cue:** Evening wind down time
-**Routine:** Watch youtube and twitch in bed, eventually fall asleep
-**Reward:** Mild intellectual stimulation, clear mind of anxiety
+**Reward:** Clear mind of anxiety

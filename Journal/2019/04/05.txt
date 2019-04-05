@@ -9,11 +9,11 @@ Created Friday 05 April 2019
 
 🐓7:10am (natural)
 
-
+===== Tasks =====
 [ ] [[+RunGpgAgentOnLogin]]
 [ ] [[Zim:Publish]] M3 build on CI server instead of local to laptop
 
-Topics for today:
+===== Projects =====
 
 Provision [[RaspberryPi]] with [[Ansible]]
 

@@ -5,4 +5,8 @@ Creation-Date: 2019-04-05T08:37:56-07:00
 ====== GettingStarted ======
 Created Friday 05 April 2019
 
-I want to start using Ansible for my personal infrastructure
+I want to start using Ansible for my personal infrastructure, but applying it to existing systems is complicated.
+
+===== Plan =====
+
+- First 

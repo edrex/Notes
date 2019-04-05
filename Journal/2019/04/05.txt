@@ -5,12 +5,10 @@ Creation-Date: 2019-04-05T07:16:15-07:00
 ====== 05 ======
 Created Friday 05 April 2019
 
-[ ] +RunGpgAgentOnGet the ssh-agent thing to run at startup
+[ ] [[+RunGpgAgentOnLogin]]
 
 Topics for today:
 
-Start to automate with [[:Ansible]]
-
-[ ] First use it to provision [[RaspberryPi]]
+Provision [[RaspberryPi]] with [[Ansible]]
 
 [[MomsHouse:Deck]]

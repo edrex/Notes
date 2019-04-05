@@ -25,6 +25,5 @@ https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 	[ ] on login
 	[ ] on connect (so when I open my laptop it syncs
 [ ] Ensure Zim updates index on remote change
-
-M4
 [ ] Modify template to link to source - direct to file if possible, otherwise repo root
+[ ] Clean up 

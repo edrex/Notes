@@ -5,12 +5,11 @@ Creation-Date: 2019-04-04T11:14:53-07:00
 ====== 04 ======
 Created Thursday 04 April 2019
 
-
-====== :Exercise ======
-* 🚵 Roberts Mt loop, evening
-* [[:Habits:MediaAndStretch]]
-No screen in bed
-🚫(💻(🛌))  (first!)
+===== Achievements =====
+* [[:Exercise]]
+	* 🚵 Roberts Mt loop, evening
+	* [[:Habits:MediaAndStretch]]
+* 🚫💻(🛌) No screen in bed  (first!)
 [[:Workflow]] Cleared browser tabs after a couple months of accretion!
 
 

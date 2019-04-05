@@ -11,6 +11,7 @@ http://zim-wiki.org/manual/Usage/Publishing.html
 ===== My site =====
 https://edrex-notes.pdxhub.org/
 https://app.netlify.com/sites/amazing-elion-a348ca
+https://github.com/edrex/Notes
 
 ===== Milestones =====
 

@@ -18,4 +18,4 @@ https://gist.github.com/MrNice/89a3bbe44e218c9d2309
 [[+Ubiquiti]]
 
 ==== OS ====
-nixoshttps://github.com/ktosiek/ansible-nix
+[[:nixos]] https://github.com/ktosiek/ansible-nix

@@ -34,6 +34,8 @@ https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 [ ] Remove html branch
 
 ==== M4 fancy export ====
-[ ] Manually export to md
+[ ] Manually export site to markdown
+[ ] Include markdown as subdir in local hugo build and see if there are any gotchas
+[ ] If it works well, 
 
 [ ] Modify template to link to source - direct to file if possible, otherwise repo root

@@ -6,3 +6,9 @@ Creation-Date: 2019-04-05T07:16:15-07:00
 Created Friday 05 April 2019
 
 [ ] Get the ssh-agent thing to run at startup
+
+Topics for today:
+
+Start to automate with [[:Ansible]]
+
+First use it to provisi

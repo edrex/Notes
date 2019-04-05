@@ -7,7 +7,7 @@ Created Friday 05 April 2019
 
 I want to start using Ansible for my personal infrastructure, but applying it to existing systems is complicated.
 
-[ ] Adopt dotfiles repo for ansible? or fresh one? not sure
+[ ] Create a fresh repo for ansible playbooks
 [ ] Use ansible to configure a few user env things on bookmobile
 
 ===== Plan =====

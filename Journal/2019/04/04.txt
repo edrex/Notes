@@ -12,7 +12,7 @@ Huh. I like this. No windows :D
 Tasks:
 
 [*] [[CleanBrowserTabs]]
-[ ] [[:Zim:Publish]] auto
+[*] [[:Zim:Publish]] auto
 [ ] [[PostAboutNotes]]
 
 [[:KnowledgeArchitectures]]

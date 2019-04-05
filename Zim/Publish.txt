@@ -32,4 +32,8 @@ https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 	[ ] on connect (so when I open my laptop it syncs)
 [ ] Ensure Zim updates index on remote change
 [ ] Remove html branch
+
+==== M4 fancy export ====
+[ ] Manually export to md
+
 [ ] Modify template to link to source - direct to file if possible, otherwise repo root

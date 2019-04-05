@@ -10,3 +10,6 @@ Created Friday 05 April 2019
 
 ==== Guides ====
 https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units
+
+===== Questions =====
+How to override properties in edit subcommand? https://askubuntu.com/questions/659267/how-do-i-override-or-configure-systemd-services

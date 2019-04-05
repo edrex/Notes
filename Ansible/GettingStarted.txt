@@ -9,4 +9,5 @@ I want to start using Ansible for my personal infrastructure, but applying it to
 
 ===== Plan =====
 
-- First 
+Use ansible to configure a fresh machine, [[RaspberryPi]] from the start
+

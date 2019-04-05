@@ -20,3 +20,4 @@ https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 
 === m3 - edit anywhere ===
 [ ] Build via netlify CI rather than locally
+[ ] Set laptop to pull on login + hourly

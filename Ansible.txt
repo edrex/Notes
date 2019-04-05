@@ -6,6 +6,9 @@ Creation-Date: 2019-04-04T13:01:16-07:00
 Created Thursday 04 April 2019
 [[:Ops]]
 
+[[+GettingStarted]]
+
+
 Explain how to think about ansible and how to use it
 https://gist.github.com/MrNice/89a3bbe44e218c9d2309
 

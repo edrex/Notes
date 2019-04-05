@@ -14,12 +14,12 @@ http://zim-wiki.org/manual/Usage/Publishing.html
 [*] Setup [[:Netlify]]
 [*] Command to export+upload https://github.com/edrex/dotfiles/blob/master/bin/publish-notes
 
-==== m2 automatic p ====
+==== m2 auto publish ====
 [*] Automate publish on change via a [[:Systemd:UserUnit]]
 https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 
-==== m3 - edit anywhere ====
+==== m3 edit anywhere ====
 [ ] Build via netlify CI rather than locally
 [ ] Set laptop to pull --rebase && push on login + hourly
-
-m4
+[ ] Same on bookmobile
+m4 

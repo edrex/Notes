@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-05T11:04:18-07:00
+
+====== PostAboutNotes ======
+Created Friday 05 April 2019
+
+[ ] [[:Fediverse]] https://sunbeam.city/@uniqbits/101874795255442542
+[ ] [[:Twitter]]
+[ ] [[:Facebook]]

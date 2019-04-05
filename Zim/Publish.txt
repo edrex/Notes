@@ -7,15 +7,16 @@ Created Thursday 04 April 2019
 
 http://zim-wiki.org/manual/Usage/Publishing.html
 
-Milestones
+===== Milestones =====
 
-===== m1 =====
+==== m1 ====
 [*] Command to export
 [*] Setup [[:Netlify]]
 [*] Command to export+upload https://github.com/edrex/dotfiles/blob/master/bin/publish-notes
 
-===== m2 =====
+==== m2 ====
 [*] Automate publish on change via a [[:Systemd:UserUnit]]
 https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 
-===== m3 =====
+=== m3 - edit anywhere ===
+[ ] Build via netlify CI rather than locally

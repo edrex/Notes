@@ -5,5 +5,9 @@ Creation-Date: 2019-04-05T15:12:20-07:00
 ====== 06 ======
 Created Friday 05 April 2019
 
+===== Agenda =====
+Visit [[EricPaulson]] ([[EricPaulson:Weekly:2019:04:06]])
+
+
 ===== Projects =====
 [[MomsHouse:Deck]]

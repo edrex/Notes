@@ -8,3 +8,6 @@ Created Saturday 06 April 2019
 Turned off Dragon's "current intermediate hypothesis" overlay because it covering up a thing in [[../../../Civ4|Civ4]]
 
 Wish for display [[:Project:SpeechRecognitionStatusSideKickDisplay]]
+
+===== What is the most blocking for you? =====
+What in your interface is most interferin

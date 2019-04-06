@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-06T11:32:31-07:00
+
+====== SpeechRecognitionStatusSideKickDisplay ======
+Created Saturday 06 April 2019
+
+[[:Project:SpeechRecognitionStatusSideKickDisplayForSpeechRecognitionHypothesisFeedback|ForSpeechRecognitionHypothesisFeedback]]

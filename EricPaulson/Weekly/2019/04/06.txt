@@ -10,4 +10,4 @@ Turned off Dragon's "current intermediate hypothesis" overlay because it coverin
 Wish for display [[:Project:SpeechRecognitionStatusSideKickDisplay]]
 
 ===== What is the most blocking for you? =====
-What in your interface is most interferin
+What in your interface is most interfering with your 

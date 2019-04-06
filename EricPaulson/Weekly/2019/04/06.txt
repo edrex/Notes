@@ -5,4 +5,4 @@ Creation-Date: 2019-04-06T11:24:20-07:00
 ====== 06 ======
 Created Saturday 06 April 2019
 
-Dragon's overlay
+Turned off Dragon's "current intermediate hypothesis" overlay because it was interfering 

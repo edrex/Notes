@@ -18,3 +18,4 @@ Created Friday 05 April 2019
 
 ===== Links =====
 [[:SystemD]]
+[[:Gadgets:Wishlist]]

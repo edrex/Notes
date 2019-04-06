@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-05T23:49:50-07:00
+
+====== Wishlist ======
+Created Friday 05 April 2019
+
+[[EndoScope]]

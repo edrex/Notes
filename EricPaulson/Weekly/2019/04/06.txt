@@ -6,3 +6,5 @@ Creation-Date: 2019-04-06T11:24:20-07:00
 Created Saturday 06 April 2019
 
 Turned off Dragon's "current intermediate hypothesis" overlay because it covering up a thing in [[../../../Civ4|Civ4]]
+
+Wish for display 

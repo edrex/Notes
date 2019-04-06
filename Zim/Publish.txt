@@ -35,7 +35,7 @@ https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 
 ==== M4 fancy export ====
 Idea: Zim => Markdown => Hugo publishing to enable fancy features
-[ ] Question: Possible to create an export template that includes frontmatter?
+[ ] Question: Possible to create a markdown export template that includes basic frontmatter?
 [ ] Manually export site to markdown
 [ ] Include markdown as subdir in local hugo build and see if there are any gotchas
 [ ] If it works well, automate this two-step build on CI server

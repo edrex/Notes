@@ -20,4 +20,4 @@ Some highlights:
 	* Two river trips (the Happy Valley boat ramp [[+01|Monday]] and Winston's River Bend Park, which has a beautiful, underused beach, [[+03|Wednesday]])
 	* Long hike up the nearby hill, with my customary [[:WorkFromHilltop]] [[+05|Friday]]
 * Set up this personal notebook to auto publish ( [[:Zim:Publish]] ) [[+05|Thursday]] which is a big step towards my goal of making online communication without [[:CorporateCloud]] [[:LowFriction]] 
-* Succeeded in redirecting my dysfunctional [[:Sleep]] [[:Habits]] by getting up early Thur and Fri
+* Succeeded in redirecting my dysfunctional [[:Sleep]] [[:Habits]] by getting up early Thur and Fri, and

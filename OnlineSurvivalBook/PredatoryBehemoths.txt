@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-07T16:00:35-07:00
+
+====== PredatoryBehemoths ======
+Created Sunday 07 April 2019
+
+===== Examples =====
+* [[NationalSecurityAgency]]
+ * [[FacebookCorp]]
+ * [[GoogleCorp]]

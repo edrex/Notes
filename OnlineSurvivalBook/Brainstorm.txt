@@ -5,8 +5,10 @@ Creation-Date: 2019-04-07T15:34:38-07:00
 ====== Brainstorm ======
 Created Sunday 07 April 2019
 
-===== Synopsis =====
+===== About =====
 
+
+===== Not About =====
 
 ===== Keywords =====
 * Online

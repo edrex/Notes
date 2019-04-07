@@ -6,11 +6,11 @@ Creation-Date: 2019-04-07T11:56:23-07:00
 Created Sunday 07 April 2019
 
 Such rain! Flood watch.
-Pruned the apple  Such a satisfying activity, learning how to shape a tree that has gone crazy with unchecked growth.
-[[:Trees]]
+Pruned the apple [[:Trees.]]  Such a satisfying activity, learning how to shape a tree that has gone crazy with unchecked growth.
 
 
-Bit of planning in [[PublicLands:Umpqua]]
+
+File bits of planning in [[PublicLands:Umpqua]]
 
 [[:Sway]] has core dumped twice in the last day.
 Possibly related to gpg-agent related config changes I made

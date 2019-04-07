@@ -3,6 +3,5 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-04-07T15:59:43-07:00
 
 ====== Glossary ======
-Created Sunday 07 April 2019
 
-[[PredatoryBehemoths]]
+* [[PredatoryBehemoths]]

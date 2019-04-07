@@ -10,7 +10,7 @@ Pruned the apple [[:Trees]] .  Such a satisfying activity, learning how to shape
 File bits of planning in [[PublicLands:Umpqua]]
 
 [[:Sway:Issues:SegFaults]] (twice in the last day.
-[ ] zim publish automation still isn't working
+[ ] [[Zim:Publish]]  automation still isn't working
 
 
 Possibly related to gpg-agent related config changes I made

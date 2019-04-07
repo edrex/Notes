@@ -13,4 +13,5 @@ Bit of planning in [[PublicLands:Umpqua]]
 Possibly related to gpg-agent related config changes I made
 [ ] Triage/report issue
 
-Also, get gtk-agent pinentry working 
+[ ] Also, get gtk-agent pinentry working correctly at startup
+[ ] Also, figure out why [[~/.aliases]] isn't sourced by 

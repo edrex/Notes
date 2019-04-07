@@ -12,10 +12,10 @@ File bits of planning in [[PublicLands:Umpqua]]
 [[:Sway]] has core dumped twice in the last day.
 Possibly related to gpg-agent related config changes I made
 [ ] Triage/report issue
-[ ] Also, get gtk-agent pinentry working correctly at startup
-[ ] Also, figure out why [[~/.aliases]] isn't sourced by [[:ZSH]]
+[ ] Get gtk-agent pinentry working correctly at startup
+[ ] Figure out why [[~/.aliases]] isn't sourced by [[:ZSH]]
 
 Thinking about [[:Projects:HighValue]] 
 
 
-[[:OnlineSurvivalBook]]
+Started notes for [[:OnlineSurvivalBook]] .

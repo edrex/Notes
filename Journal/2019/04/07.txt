@@ -8,3 +8,5 @@ Created Sunday 07 April 2019
 
 
 Bit of planning in [[PublicLands:Umpqua]]
+
+[[:Sway]] has core dumped twice in the last day.

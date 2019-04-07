@@ -4,10 +4,11 @@ Creation-Date: 2019-04-07T16:00:35-07:00
 
 ====== PredatoryBehemoths ======
 
-Powerful entities organized around the exploitation of individuals.
+Powerful entities organized around the exploitation, manipulation, and control of individuals.
 
 ===== Examples =====
 * [[NationalSecurityAgency]]
 * [[FacebookCorp]]
 * [[GoogleCorp]]
-* Hypothetical:
+* [[Hypothetical:SuperIntelligentAI]]
+

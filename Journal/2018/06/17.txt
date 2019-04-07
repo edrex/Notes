@@ -6,7 +6,7 @@ Creation-Date: 2018-06-17T13:07:24-07:00
 Today:
 
 [*] figure out what's happening to my matrix messages
-[ ] laundry
-[ ] trim kickstand https://groups.google.com/forum/#!topic/surlylht/a9UbF5mvhcM
+[ ] ~~laundry~~
+[*] trim kickstand https://groups.google.com/forum/#!topic/surlylht/a9UbF5mvhcM
 [ ] setup voicemail
-[ ] put clothes away
+[ ] ~~put clothes away~~

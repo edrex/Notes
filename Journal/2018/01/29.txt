@@ -7,13 +7,13 @@ Hi
 [[:Mood:Depressed]]
 
 Tasks
-[ ] Set up a basement workspace that's sufficiently clean and ergonomic //Progress!//
-	[*] air cleaner
-	[ ] hang bikes
-	[ ] clear bench
-	[ ] vacuum
+[ ] ~~Set up a basement workspace that's sufficiently clean and ergonomic Progress!~~
+	[*] ~~air cleaner~~
+	[ ] ~~hang bikes~~
+	[ ] ~~clear bench~~
+	[ ] ~~vacuum~~
 
-[ ] Get health insurance
+[ ] ~~Get health insurance~~
 
 Contact:
 [*] Shea re: meetup Tue aft

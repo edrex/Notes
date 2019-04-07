@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2018-03-14T11:52:04-07:00
-
-====== BuildingImages ======
-Created Wednesday 14 March 2018
-
-https://docs.armbian.com/Developer-Guide_Using-Vagrant/

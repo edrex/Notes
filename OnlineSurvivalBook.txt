@@ -6,6 +6,10 @@ Creation-Date: 2019-04-07T15:33:41-07:00
 
 I'm going to write a book.
 
+===== Synopsis =====
+
+===== Why? =====
+
 
 [[+Brainstorm]]
 [[+MarketingPlan]]

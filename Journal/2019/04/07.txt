@@ -17,7 +17,7 @@ Possibly related to gpg-agent related config changes I made
 [ ] Triage/report issue
 
 [ ] Also, get gtk-agent pinentry working correctly at startup
-[ ] Also, figure out why [[~/.aliases]] isn't sourced by 
+[ ] Also, figure out why [[~/.aliases]] isn't sourced by [[:ZSH]]
 
 
 [[:OnlineSurvivalBook]]

@@ -12,3 +12,5 @@ Bit of planning in [[PublicLands:Umpqua]]
 [[:Sway]] has core dumped twice in the last day.
 Possibly related to gpg-agent related config changes I made
 [ ] Triage/report issue
+
+Also, get gtk-agent pinentry working 

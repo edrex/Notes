@@ -8,7 +8,7 @@ Created Friday 05 April 2019
 [[:Habits]] 
 
 🐓7:10am (natural)
- (natural)
+🛌1:00am?
 
 ===== Tasks =====
 [*] [[RunGpgAgentOnLogin]] 

@@ -4,7 +4,9 @@ Creation-Date: 2019-04-07T15:33:41-07:00
 
 ====== OnlineSurvivalBook ======
 
-I'm going to write a book.
+I'm going to write a book. Well, maybe not a print book. But a book-size cohesive text.
+
+
 
 ===== Synopsis =====
 The online life of individuals is increasingly fraught with predatory dangers.

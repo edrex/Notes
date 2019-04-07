@@ -9,7 +9,9 @@ I'm going to write a book.
 ===== Synopsis =====
 The online life of individuals is increasingly fraught with predatory dangers.
 
-The lore required in order to thrive as a free person 
+The lore required in order to thrive as a free person using digital tools is not well distributed among the people. This book seeks to help redress that.
+
+[[+Glossary]]
 
 ===== Why? =====
 

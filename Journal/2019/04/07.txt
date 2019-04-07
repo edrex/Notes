@@ -19,6 +19,7 @@ Possibly related to gpg-agent related config changes I made
 [ ] Also, get gtk-agent pinentry working correctly at startup
 [ ] Also, figure out why [[~/.aliases]] isn't sourced by [[:ZSH]]
 
-Thinking about :Projects:HighValu
+Thinking about [[:Projects:HighValue]] 
+
 
 [[:OnlineSurvivalBook]]

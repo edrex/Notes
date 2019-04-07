@@ -2,11 +2,14 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-04-07T15:34:38-07:00
 
-====== TitleBrainstorm ======
+====== Brainstorm ======
 Created Sunday 07 April 2019
+
+===== Synopsis =====
+
 
 ===== Keywords =====
 * Online
 * Person
-* Predators
+* Predatory Behemoths
 Surviving 

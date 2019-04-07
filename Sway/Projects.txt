@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-07T13:34:39-07:00
+
+====== Projects ======
+Created Sunday 07 April 2019
+
+[ ] @TODO [[+i3-remember-session]]
+https://www.reddit.com/r/i3wm/comments/8q44zr/script_to_runs_scratchpad_if_not_running/

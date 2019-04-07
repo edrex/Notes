@@ -8,7 +8,7 @@ Created Monday 31 December 2018
 [[+Issues]]
 [[+Projects]]
 
-
+===== Docs =====
 https://i3wm.org/docs/userguide.html#for_window
 
 Related: [[:Wayland]]

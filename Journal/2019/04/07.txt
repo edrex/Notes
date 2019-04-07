@@ -17,4 +17,4 @@ Possibly related to gpg-agent related config changes I made
 [ ] Also, figure out why [[~/.aliases]] isn't sourced by 
 
 
-[[:DigitalFreedomBook]]
+[[:OnlineSurvivalBook]]

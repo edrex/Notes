@@ -9,7 +9,7 @@ Such rain! Flood watch.
 Pruned the apple [[:Trees]] .  Such a satisfying activity, learning how to shape a tree that has gone crazy with unchecked growth.
 File bits of planning in [[PublicLands:Umpqua]]
 
-[[:Sway]] has core dumped twice in the last day.
+[[:Sway:Issues:SegFaults]] (twice in the last day.
 Possibly related to gpg-agent related config changes I made
 [ ] Triage/report issue
 [ ] Get gtk-agent pinentry working correctly at startup

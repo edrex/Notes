@@ -21,4 +21,4 @@ Possibly related to gpg-agent related config changes I made
 Thinking about [[:Projects:HighValue]] 
 
 
-Started notes for [[:OnlineSurvivalBook]] .
+Started notes for [[:DigitalOperatorLore]] .

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-07T19:40:59-07:00
+
+====== Principles ======
+Created Sunday 07 April 2019
+
+[[+Automation]]

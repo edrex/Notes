@@ -13,3 +13,6 @@ http://www.hardkernel.com/main/products/prdt_info.php?g_code=G149142327280
 
 https://www.crowdsupply.com/gnubee/personal-cloud-1
 
+===== Interesting Builds =====
+
+https://joeyh.name/blog/entry/usb_drives_with_no_phantom_load/

@@ -26,6 +26,7 @@ https://github.com/edrex/dotfiles/tree/master/.config/systemd/user
 
 ==== M3 edit online ====
 [*] Make a generic [[:SystemD:GitPushUnit]] and enable for notes repo
+	* https://github.com/edrex/dotfiles/commit/03fc38e7f1894b5fed60bdb7af306976cf210bee
 [ ] Get Zim export to run headless (test on bookmobile
 [ ] Build via netlify CI rather than locally
 [ ] Set laptop to pull --rebase && push

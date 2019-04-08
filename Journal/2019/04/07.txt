@@ -15,7 +15,7 @@ File bits of planning in [[PublicLands:Umpqua]]
 
 Possibly related to gpg-agent related config changes I made
 [ ] Triage/report issue
-[ ] Get gtk-agent pinentry working correctly at startup
+[ ] [[:GpgAgent]] pinentry working correctly at startup
 [ ] Figure out why [[~/.aliases]] isn't sourced by [[:ZSH]]
 
 Thinking about [[:Projects:HighValue]] 

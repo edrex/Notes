@@ -5,5 +5,5 @@ Creation-Date: 2019-04-07T16:58:42-07:00
 ====== GitPushUnit ======
 Created Sunday 07 April 2019
 
-https://www.freedesktop.org/software/systemd/man/systemd.service.html
+https://www.freedesktop.org/software/systemd/man/systemd.service.html#Examples
 https://www.freedesktop.org/software/systemd/man/systemd.exec.html#Environment%20variables%20in%20spawned%20processes

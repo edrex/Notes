@@ -5,4 +5,4 @@ Creation-Date: 2019-04-07T19:44:26-07:00
 ====== ReduceOverhead ======
 Created Sunday 07 April 2019
 
-Every workflow imposes a set of costs: upfront,
+Every workflow imposes a set of costs, whether upfront or per-transaction

@@ -10,11 +10,9 @@ Pruned the apple [[:Trees]] .  Such a satisfying activity, learning how to shape
 File bits of planning in [[PublicLands:Umpqua]]
 
 [[:Sway:Issues:SegFaults]] (twice in the last day.
-[ ] [[Zim:Publish]]  automation still isn't working
+[*] Check how [[Zim:Publish]]  automation is working
 
 
-Possibly related to gpg-agent related config changes I made
-[ ] Triage/report issue
 [ ] [[:GpgAgent]] pinentry working correctly at startup
 [ ] Figure out why [[~/.aliases]] isn't sourced by [[:ZSH]]
 

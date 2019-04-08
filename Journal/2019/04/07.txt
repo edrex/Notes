@@ -22,3 +22,5 @@ Thinking about [[:Projects:HighValue]]
 Started notes for [[:DigitalOperatorLore]] .
 
 ===== Reading =====
+[[:NixOS]]
+

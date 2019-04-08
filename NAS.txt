@@ -15,4 +15,4 @@ https://www.crowdsupply.com/gnubee/personal-cloud-1
 
 ===== Interesting Builds =====
 
-https://joeyh.name/blog/entry/usb_drives_with_no_phantom_load/
+I'd like my NAS to use as little power as possible. I'll use [[JoeyHess']] research https://joeyh.name/blog/entry/usb_drives_with_no_phantom_load/

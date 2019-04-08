@@ -5,5 +5,7 @@ Creation-Date: 2019-04-07T19:47:32-07:00
 ====== GpgAgent ======
 Created Sunday 07 April 2019
 
+https://eklitzke.org/using-gpg-agent-effectively
+
 [ ] Get pinentry working at startup
 

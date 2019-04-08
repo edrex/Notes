@@ -17,6 +17,7 @@ https://kevincox.ca/2015/12/13/getting-started-with-nixos/
 ===== criticism =====
 https://www.reddit.com/r/NixOS/comments/8tkllx/standard_project_structure/
 * Overlays https://gist.github.com/LnL7/e645b9075933417e7fd8f93207787581
+* Lava Layer :D http://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html
 
 ===== digging deeper =====
 https://nixos.wiki/wiki/NixOS:extend_NixOS#Example:_Add_a_System_Service

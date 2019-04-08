@@ -2,9 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-04-07T19:40:04-07:00
 
-====== TheStack ======
+====== Stack ======
 Created Sunday 07 April 2019
 
-Maybe your stack instead
-
-Key principles[[Automation]]
+[[StaticSites]]

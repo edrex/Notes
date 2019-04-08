@@ -5,4 +5,4 @@ Creation-Date: 2019-04-08T11:49:02-07:00
 ====== Python ======
 Created Monday 08 April 2019
 
-I write a python script a few times a ye
+I write a python script a few times a year, infrequently enough that I always have to look up how to manage python environments because the best practices keep changing

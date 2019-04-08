@@ -6,6 +6,8 @@ Creation-Date: 2019-04-07T19:47:32-07:00
 Created Sunday 07 April 2019
 
 https://eklitzke.org/using-gpg-agent-effectively
+gpg-agent with --enable-ssh-support, and no socket / Applications & Desktop Environments / Arch Linux Forums
+https://bbs.archlinux.org/viewtopic.php?id=215980
 
 [ ] Get pinentry working at startup
 

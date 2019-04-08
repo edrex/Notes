@@ -5,4 +5,4 @@ Creation-Date: 2019-04-07T19:41:21-07:00
 ====== Automation ======
 Created Sunday 07 April 2019
 
-The more you can 
+The more you can automate your workflow, the more consistently and resiliently you will be able to execute.

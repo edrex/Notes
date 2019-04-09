@@ -9,3 +9,4 @@ Created Tuesday 09 April 2019
 
 
 https://github.com/rak8s/rak8s
+https://tobru.ch/kubernetes-on-orangepi-arm64/

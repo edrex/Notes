@@ -7,9 +7,11 @@ Created Tuesday 09 April 2019
 
 [[:Kubernetes]]
 
+https://github.com/carlosedp/prometheus-operator-ARM
 
 https://github.com/rak8s/rak8s
 
 Build logs:
 
+https://blog.alexellis.io/build-your-own-bare-metal-arm-cluster/
 https://tobru.ch/kubernetes-on-orangepi-arm64/

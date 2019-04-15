@@ -15,3 +15,4 @@ Build logs:
 
 https://blog.alexellis.io/build-your-own-bare-metal-arm-cluster/
 https://tobru.ch/kubernetes-on-orangepi-arm64/
+https://medium.com/@carlosedp/building-a-hybrid-x86-64-and-arm-kubernetes-cluster-e7f94ff6e51d

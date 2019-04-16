@@ -9,4 +9,5 @@ Created Tuesday 16 April 2019
 
 Sometimes, though, users may want functionality that isn't available in the standard palette of blocks, and that would be too complicated to build up from primatives, given their skill level.
 
-What if 
+What if the environment was connected to a marketplace so that the user could provide some examples of the desired output and get someone online to implement it?
+

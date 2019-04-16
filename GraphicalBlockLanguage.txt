@@ -5,3 +5,6 @@ Creation-Date: 2019-04-16T10:58:17-07:00
 ====== GraphicalBlockLanguage ======
 Created Tuesday 16 April 2019
 
+Examples:
+https://www.postscapes.com/iot-visual-programming-tools/
+https://developers.google.com/blockly/

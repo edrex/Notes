@@ -8,4 +8,4 @@ Created Tuesday 16 April 2019
 This is me trying to narrative prose daily, alongside and partially replacing my usual one-word cryptograms and scrawls.
 
 I had an idea while making [[:coffee]] that I think has merrit:
-:IdeaBin:BusConnectorMicro
+:Ideas:BusConnectorMicro

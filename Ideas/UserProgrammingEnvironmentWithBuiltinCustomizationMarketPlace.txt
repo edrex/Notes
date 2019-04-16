@@ -5,4 +5,6 @@ Creation-Date: 2019-04-16T10:55:31-07:00
 ====== UserProgrammingEnvironmentWithBuiltinCustomizationMarketPlace ======
 Created Tuesday 16 April 2019
 
-[[:UserProgrammingEnvironments]] are great. They allow end users to customize the functioning of their tools at runtime by writing code, sometimes in the form of a [[:GraphicalBlockLanguage]]
+[[:UserProgrammingEnvironments]] are great. They allow end users to customize the functioning of their tools at runtime by writing code, sometimes in the form of a [[:GraphicalBlockLanguage.]]
+
+Sometimes, though, us

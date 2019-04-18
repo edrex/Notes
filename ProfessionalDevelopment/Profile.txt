@@ -5,4 +5,4 @@ Creation-Date: 2019-04-18T09:15:34-07:00
 ====== Profile ======
 Created Thursday 18 April 2019
 
-[ ] Landing page des
+[ ] [[+Start]] page describing general interests

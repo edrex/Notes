@@ -10,4 +10,4 @@ Created Thursday 18 April 2019
 [[:Weather:Nice]]
 
 ===== Activities =====
-[ ] [[MomsHouse:Roof]]
+[ ] [[MomsHouse:Roof]] (Replace bathroom vent hood and connect fan duct, remove satellite antennas and 

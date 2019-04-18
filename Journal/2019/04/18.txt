@@ -7,3 +7,7 @@ Created Thursday 18 April 2019
 [[17]]
 [*] [[:Habits:UpEarly]]
 [*] [[FullNightSleep]]
+[[:Weather:Nice]]
+
+===== Activities =====
+[ ] [[MomsHouse:Roof]]

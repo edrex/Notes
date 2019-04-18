@@ -12,3 +12,4 @@ Created Thursday 18 April 2019
 ===== Activities =====
 [ ] [[MomsHouse:Roof]] (Replace bathroom vent hood and connect fan duct, leave [[:SatelliteAntennas]] for now)
 [ ] [[:MomsHouse:Deck]] 
+[ ] [[:ProfessionalDevelopment]]

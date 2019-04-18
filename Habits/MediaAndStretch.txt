@@ -4,7 +4,8 @@ Creation-Date: 2019-04-05T10:15:34-07:00
 
 ====== MediaAndStretch ======
 Created Friday 05 April 2019
-[[:Habit]]
+[[:Habits]]
+
 
 ===== Habit Change =====
 **Cue:** Evening wind down time

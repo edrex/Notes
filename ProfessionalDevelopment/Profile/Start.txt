@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-18T09:18:08-07:00
+
+====== Start ======
+Created Thursday 18 April 2019
+
+====== About Me ======
+
+I'm Eric Drechsel
+
+===== Attributes =====

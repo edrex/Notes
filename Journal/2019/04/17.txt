@@ -6,7 +6,7 @@ Creation-Date: 2019-04-18T08:46:04-07:00
 Created Thursday 18 April 2019
 
 ===== Activities =====
-Significant progress on [[MomsHouse:Deck]] (Planning and selective demolition)
+[*] Significant progress on [[MomsHouse:Deck]] (Planning and selective demolition)
 Short [[:Hiking]] in evening.
 
-[[Habits:EveningRoutine]]
+[*] [[Habits:EveningRoutine]]

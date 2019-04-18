@@ -5,5 +5,3 @@ Creation-Date: 2019-04-05T10:25:17-07:00
 ====== Habit ======
 Created Friday 05 April 2019
 
-===== References =====
-Book: https://charlesduhigg.com/the-power-of-habit/

@@ -2,11 +2,11 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-04-18T09:12:35-07:00
 
-====== ProfessionalDevelopment ======
+====== GetWork ======
 Created Thursday 18 April 2019
 
 I need to be pragmatic and efficient in this.
-I have a tendency to procrastinate by s
+I have a tendency to procrastinate by side-tracking so I need to set an i
 
 ===== Projects =====
 [ ] [[+Profile]]

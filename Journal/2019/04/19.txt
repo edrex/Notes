@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-19T09:49:22-07:00
+
+====== 19 ======
+Created Friday 19 April 2019
+
+
+[ ] [[MomsHouse:Roof]] (Replace bathroom vent hood and connect fan duct, leave [[:SatelliteAntennas]] for now)

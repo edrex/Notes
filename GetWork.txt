@@ -9,7 +9,8 @@ I need to be pragmatic and efficient in this.
 I have a tendency to procrastinate by side-tracking so I need to take care to constrain my activities to only directly beneficial actions
 
 ===== Priorities =====
-
+[ ] Update resume on homepage
+[ ] Start emailing [[+Contacts]]
 
 
 ===== Projects =====

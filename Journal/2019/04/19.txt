@@ -13,3 +13,5 @@ Thinking about how to organize ideas and communicate effectively as well as effi
 ===== Working on =====
 [[ProfessionalDevelopment:Profile:Start]]
 
+[[:People:LaurenPederson]] sent out a personal update [[:Newsletter]]
+

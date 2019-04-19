@@ -4,10 +4,12 @@ Creation-Date: 2019-04-18T08:45:43-07:00
 
 ====== 18 ======
 Created Thursday 18 April 2019
-[[17]]
+[[17]] 
+[[:Weather:Nice|Weather:Nice]]
+
 [*] [[:Habits:UpEarly]]
 [*] [[FullNightSleep]]
-[[:Weather:Nice]]
+[[:]][[Habits:EveningRoutine]]
 
 ===== Activities =====
 [ ] [[MomsHouse:Roof]] (Replace bathroom vent hood and connect fan duct, leave [[:SatelliteAntennas]] for now)

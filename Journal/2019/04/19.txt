@@ -6,7 +6,7 @@ Creation-Date: 2019-04-19T09:49:22-07:00
 Created Friday 19 April 2019
 
 
-[ ] Replace bathroom vent hood and connect fan duct, remove [[:SatelliteAntennas]] and install flashing over holes on [[MomsHouse:Roof]] (Replace bathroom vent hood and connect fan duct, leave [[:SatelliteAntennas]] for now)
+[ ] Replace bathroom vent hood and connect fan duct, remove [[:SatelliteAntennas]] and install flashing over holes on [[MomsHouse:Roof]]
 
 Thinking about how to organize ideas and communicate effectively as well as efficiently in terms of overhead.
 

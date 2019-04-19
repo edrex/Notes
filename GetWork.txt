@@ -6,7 +6,9 @@ Creation-Date: 2019-04-18T09:12:35-07:00
 Created Thursday 18 April 2019
 
 I need to be pragmatic and efficient in this.
-I have a tendency to procrastinate by side-tracking so I need to set an i
+I have a tendency to procrastinate by side-tracking so I need to take care to constrain my activities to only directly beneficial actions
+
+===== P =====
 
 ===== Projects =====
 [ ] [[+Profile]]

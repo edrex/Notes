@@ -5,5 +5,8 @@ Creation-Date: 2019-04-18T09:12:35-07:00
 ====== ProfessionalDevelopment ======
 Created Thursday 18 April 2019
 
+I need to be pragmatic and efficient in this.
+I have a tendency to procrastinate by s
+
 ===== Projects =====
 [ ] [[+Profile]]

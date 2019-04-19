@@ -8,9 +8,8 @@ Created Thursday 18 April 2019
 [[:Weather:Nice|Weather:Nice]]
 
 [*] [[:Habits:UpEarly]]
-[*] [[FullNightSleep]]
-[[:]][[Habits:EveningRoutine]]
+[*] [[:Achievements:FullNightSleep]]
+[x] [[:]][[Habits:EveningRoutine]]
 
 ===== Activities =====
-[ ] [[MomsHouse:Roof]] (Replace bathroom vent hood and connect fan duct, leave [[:SatelliteAntennas]] for now)
-[ ] [[:MomsHouse:Deck]] 
+[[:MomsHouse:Deck]] 

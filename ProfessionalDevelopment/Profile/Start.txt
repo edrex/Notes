@@ -14,3 +14,4 @@ I'm Eric Drechsel
 * A lifelong learner
 
 ===== Interests =====
+[[Technology]]

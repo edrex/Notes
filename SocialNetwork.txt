@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-20T11:59:16-07:00
+
+====== SocialNetwork ======
+Created Saturday 20 April 2019
+
+[[SecureScuttlebutt]]
+[[Mastodon]]

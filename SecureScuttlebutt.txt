@@ -4,6 +4,7 @@ Creation-Date: 2019-04-04T11:15:28-07:00
 
 ====== SecureScuttlebutt ======
 Created Thursday 04 April 2019
+[[Decentralized]] [[SocialNetwork]]
 
 Secure Scuttlebutt (SSB) is a fully decentralized offline-first social network.
 

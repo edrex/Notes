@@ -10,5 +10,7 @@ For example, http://allmende.io/ self-describes as digital commons.
 Does this analogy to common land hold up?
 
 One difference is that a server must be continually maintained (provided with power, rack rents, security updates, etc) to continue to provide value to people,
-whereas land, while it may benefit from watering etc, will still exist and be useful without regular intervention by the deed holder.
+whereas land, while it may benefit from watering etc, will still exist and be useful without regular intervention by the owner.
+
+
 I think in many ways clearly not, since land generally requires no maintenance to continue to exist 

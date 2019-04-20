@@ -9,4 +9,5 @@ For example, http://allmende.io/ self-describes as digital commons.
 
 Does this analogy to common land hold up?
 
-I think in many ways clearly not, since land generally requires no maintenance to 
+One difference is that a server 
+I think in many ways clearly not, since land generally requires no maintenance to continue to exist 

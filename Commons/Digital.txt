@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-20T10:20:43-07:00
+
+====== Digital ======
+Created Saturday 20 April 2019
+
+For example, http://allmende.io/ self-describes as digital commons.
+
+Does th

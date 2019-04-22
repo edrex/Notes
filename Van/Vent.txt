@@ -7,4 +7,4 @@ Created Monday 22 April 2019
 
 This is a very important part of van build, since warm air holds more moisture and condenses on cold surfaces such as windows.
 
-Conventional RV fans cost upwards of $100 for basic no-thermostat models. That might still be the way to go, but I'd like to also look at using PC vent fans with a custom arcontroller
+Conventional RV fans cost upwards of $100 for basic no-thermostat models. That might still be the way to go, but I'd like to also look at using PC vent fans with a custom arduino controller

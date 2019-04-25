@@ -12,7 +12,7 @@ I'm going to write a book. Well, maybe not a print [[:Book]]. But a book-size co
 
 
 ===== Synopsis =====
-The online life of individuals is increasingly fraught with predatory dangers.
+The online life of individuals is increasingly fraught with predatory dangers from large, well funded multinational corporations employing a.
 
 The lore required in order to thrive as a free person using digital tools is not well distributed among the people. This book seeks to help redress that.
 

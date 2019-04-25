@@ -4,7 +4,7 @@ Creation-Date: 2019-04-07T15:33:41-07:00
 
 ====== DigitalOperatorLore ======
 
-I'm going to write a book. Well, maybe not a print book. But a book-size cohesive text.
+I'm going to write a book. Well, maybe not a print [[:Book]]. But a book-size cohesive text.
 
 [[+Principles]]
 [[+Stack]]

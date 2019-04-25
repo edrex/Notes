@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-04-25T11:03:45-07:00
+
+====== Book ======
+Created Thursday 25 April 2019
+
+[[DigitalOperatorLore]]

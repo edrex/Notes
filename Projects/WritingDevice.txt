@@ -5,4 +5,8 @@ Creation-Date: 2019-04-25T11:08:08-07:00
 ====== WritingDevice ======
 Created Thursday 25 April 2019
 
+A device for writing on the go.
+
+===== Design goals =====
+
 Just a keyboard, with a small text display (maybe as little as a line) 

@@ -7,4 +7,6 @@ Created Thursday 25 April 2019
 
 ===== Journaling in partial shade on the back patio between building =====
 
-
+===== Thinking about =====
+[[DigitalOperatorLore]]
+[[:Projects:WritingDevice]]

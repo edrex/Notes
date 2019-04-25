@@ -9,6 +9,6 @@ A device for writing on the go.
 
 ===== Design goals =====
 * Portable
-	* build into the body of an existing keyboard or maybe make it
+	* build into the body of an existing keyboard or maybe make it plug in?
 * Minimal output
 	* a small text display (maybe as little as a line) 

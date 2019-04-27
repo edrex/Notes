@@ -13,6 +13,6 @@ Web, desktop, mobile, paper: each has tools I reach for when I need to write som
 ===== Unifying =====
 
 ==== User interface ====
-Having a single user interface that's 
+Having a single user interface that's comfortable to use on a laptop or phone is a lofty goal.
 
 ==== Content Streams ====

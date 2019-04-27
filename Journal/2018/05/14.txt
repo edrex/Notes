@@ -9,7 +9,7 @@ Creation-Date: 2018-05-14T09:32:58-07:00
 [ ] [[:Repair:GlueKeyboardHinges]]
 
 [[PerKeep]] "pkmail"
-[[:Projects:EricsInterface]]
+[[:Research:EricsInterface]]
 
 https://github.com/angrave/SystemProgramming/wiki
 https://github.com/0x00A/ldb

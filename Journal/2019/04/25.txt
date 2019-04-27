@@ -9,5 +9,5 @@ Created Thursday 25 April 2019
 
 ===== Thinking about =====
 [[DigitalOperatorLore]]
-[[:Projects:WritingDevice]]
+[[:Projects:WritingTool]]
 

@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-04-25T11:08:08-07:00
 
-====== WritingDevice ======
+====== WritingTool ======
 Created Thursday 25 April 2019
 
 A device for writing on the go.

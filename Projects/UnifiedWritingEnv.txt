@@ -10,5 +10,9 @@ Writing happens where inspiration is. For instance, I'm on a sandy beach on the 
 
 Web, desktop, mobile, paper: each has tools I reach for when I need to write something down.
 
-===== Seeking unification =====
-Unification can 
+===== Unifying =====
+
+==== User interface ====
+Having a single user interface that's 
+
+==== Content Streams ====

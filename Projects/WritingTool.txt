@@ -5,6 +5,14 @@ Creation-Date: 2019-04-25T11:08:08-07:00
 ====== WritingTool ======
 Created Thursday 25 April 2019
 
+What do I want?
+
+A key chord that brings up a window that can take text. When I'm done, escape closes the window - no need to save.
+
+A sunlight readable screen, optimized for viewing text.
+
+[[:Technology]] is a thing, but also [[:Habits]]
+
 A device for writing on the go.
 
 ===== Design goals =====
@@ -12,3 +20,5 @@ A device for writing on the go.
 	* build into the body of an existing keyboard or maybe make it plug in?
 * Minimal output
 	* a small text display (maybe as little as a line) 
+
+

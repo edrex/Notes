@@ -10,4 +10,5 @@ Created Saturday 27 April 2019
 When I open my laptop, what do I see? Browser tabs.
 What was I thinking just before I opened my laptop?
 Either:
- - I would like to perform some specific task, such as writing or configuring some software components
+ - I would like to perform some specific task, such as writing or configuring some software components.
+ - I just want to "surf"  ; or I may have been thinking nothing at all, just reaching for the laptop as a

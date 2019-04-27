@@ -5,8 +5,7 @@ Creation-Date: 2018-09-24T13:01:08-07:00
 ====== Projects ======
 Created Monday 24 September 2018
 
-There are so many interesting possibilities for projects, but ultimately I will be most successful if I prioritize those which will offer the highest [[:ValueToEffort]] ratio.
+There are so many interesting possibilities for projects, but ultimately I will be most successful if I prioritize those which will offer the highest [[:ValueToEffort]] ratio. 
+[[:PrioritizeCafefully]]
 
-Comp
-[[+HighValue]]
 [[+WritingTool]]

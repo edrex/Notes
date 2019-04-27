@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-04-07T16:11:20-07:00
-
-====== HighValue ======
-Created Sunday 07 April 2019
-
-S

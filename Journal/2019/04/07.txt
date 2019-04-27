@@ -16,7 +16,7 @@ File bits of planning in [[PublicLands:Umpqua]]
 [ ] [[:GpgAgent]] pinentry working correctly at startup
 [ ] Figure out why [[~/.aliases]] isn't sourced by [[:ZSH]]
 
-Thinking about [[:Research:HighValue]] 
+Thinking about [[:Projects:HighValue]] 
 
 
 Started notes for [[:DigitalOperatorLore]] .

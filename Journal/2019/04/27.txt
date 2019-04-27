@@ -6,3 +6,5 @@ Creation-Date: 2019-04-27T12:53:21-07:00
 Created Saturday 27 April 2019
 [[Projects:WritingTool]]
 [[Projects:UnifiedWritingEnv]]
+
+When I open my laptop, what do I see? Browser tab

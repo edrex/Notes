@@ -7,4 +7,7 @@ Created Saturday 27 April 2019
 [[Projects:WritingTool]]
 [[Projects:UnifiedWritingEnv]]
 
-When I open my laptop, what do I see? Browser tab
+When I open my laptop, what do I see? Browser tabs.
+What was I thinking just before I opened my laptop?
+Either:
+ - I would like to perform some specific task, such as writing or configuring some software components

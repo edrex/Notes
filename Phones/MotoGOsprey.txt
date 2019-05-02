@@ -10,11 +10,12 @@ Created Thursday 02 May 2019
 ==== android shows "no sim card" ====
 [x] Check ADB logs to see if something happens low level when sim is inserted **NADA**
 [ ] Attempt solder repair https://www.ifixit.com/Guide/SIM+Card+Slot+Repair/93387
-[ ] Replace SIM board?
+[ ] Replace SIM board https://www.ifixit.com/Guide/Motorola+Moto+G+3rd+Generation+SIM-SD+Card+PCB+Replacement/59921
 
 https://www.ebay.com/itm/OEM-Micro-SD-Sim-Card-Reader-Holder-For-Motorola-Moto-G3-XT1540-XT1541-XT1548/192429210704
 https://www.ebay.com/itm/ORIGINAL-Pre-cut-Sticky-Adhesive-Tape-Glue-For-Moto-G-3rd-Gen-2015-XT1540-XT1548/401222770634
 
+https://forum.xda-developers.com/2015-moto-g
 https://wiki.postmarketos.org/wiki/Moto_G_2015_(motorola-osprey)
 https://wiki.lineageos.org/devices/osprey/
 https://www.gsmarena.com/motorola_moto_g_(3rd_gen)-7247.php

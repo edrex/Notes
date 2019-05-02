@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-02T12:13:51-07:00
+
+====== Signal ======
+Created Thursday 02 May 2019
+
+https://pyre.chat/
+https://git.callpipe.com/finn/signald
+https://gitlab.com/thefinn93/signald

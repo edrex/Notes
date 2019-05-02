@@ -12,3 +12,4 @@ https://forum.xda-developers.com/galaxy-s7/development/lineageos-15-android-8-0-
 
 [[+Lauren's Nexus 5x]]
 [[+MotoGOsprey]]
+[[+Repair]]

@@ -10,5 +10,4 @@ android shows "no sim card"
 Ideas:
 
  1. Check ADB logs to see if something happens low level when sim is inserted
-
-https://www.ifixit.com/Guide/SIM+Card+Slot+Repair/93387
+ 2. Attempt solder repair https://www.ifixit.com/Guide/SIM+Card+Slot+Repair/93387

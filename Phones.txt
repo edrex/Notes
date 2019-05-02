@@ -11,4 +11,4 @@ https://forum.xda-developers.com/galaxy-s7/development/beta-lineageos-16-0-s7-he
 https://forum.xda-developers.com/galaxy-s7/development/lineageos-15-android-8-0-0-herolte-t3710107
 
 [[+Lauren's Nexus 5x]]
-+MotoGOspre
+[[+MotoGOsprey]]

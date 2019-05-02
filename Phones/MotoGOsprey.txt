@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-02T11:18:46-07:00
+
+====== MotoGOsprey ======
+Created Thursday 02 May 2019
+
+android shows "no sim card"
+
+Ideas:
+
+ 1. Check ADB logs to see if something happens low level when sim is inserted
+
+https://www.ifixit.com/Guide/SIM+Card+Slot+Repair/93387

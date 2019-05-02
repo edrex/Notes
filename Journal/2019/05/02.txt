@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-02T09:31:30-07:00
+
+====== 02 ======
+Created Thursday 02 May 2019
+Wow, May..
+
+Yesterday, I finished the bulk of the work cutting 

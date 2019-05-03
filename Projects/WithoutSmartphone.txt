@@ -37,5 +37,5 @@ I don't want to be constantly connected, only when i choose to be.
 * Something beefier with USB-C
 
 ==== Cases ====
-http://www.noodlepi.com/store
+	http://www.noodlepi.com/store
 

@@ -19,7 +19,11 @@ I don't want to be constantly connected, only when i choose to be.
 ===== Modem =====
 
 ===== Screen =====
-Lots of options. A t
+Lots of options. A touch screen would be nice.
+
+==== Connection types ====
+* USB C
+* HDMI (with battery or USB power)
 
 
 ===== SBC =====

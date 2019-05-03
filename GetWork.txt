@@ -12,6 +12,7 @@ I have a tendency to procrastinate by side-tracking so I need to take care to co
 [ ] Update resume on homepage
 [ ] Start emailing [[+Contacts]]
 
-
 ===== Projects =====
 [ ] [[+Profile]]
+
+===== Contacts =====

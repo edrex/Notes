@@ -16,7 +16,10 @@ I don't want to be constantly connected, only when i choose to be.
 * SBC + screen module + battery pack
 * Camera?
 
-===== Modem =====
+===== LTE =====
+
+==== Big router thing ====
+$109 Amazon.com: NETGEAR 4G LTE Modem – Instant Broadband Connection | Works with AT&T and Alternate Carriers (LB1120): Computers & Accessories: https://www.amazon.com/NETGEAR-LTE-Modem-Broadband-Connection/dp/B01N5ASNTE
 
 ===== Screen =====
 

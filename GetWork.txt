@@ -16,3 +16,5 @@ I have a tendency to procrastinate by side-tracking so I need to take care to co
 [ ] [[+Profile]]
 
 ===== Contacts =====
+Keybase
+https://keybase.io/jobs#engineer

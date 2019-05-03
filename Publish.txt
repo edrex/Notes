@@ -7,7 +7,9 @@ Created Friday 03 May 2019
 
 ===== Needs =====
 
-* Unify zim and vim journal
+==== Unify zim and vim journal ====
+
+
 * editing solution for android (with sync, preferably via [[:Git:Sync]])
 
 ===== Priority Tasks =====

@@ -22,6 +22,9 @@ I don't want to be constantly connected, only when i choose to be.
 
 ==== Criteria ====
 * Touch would be nice
+* Size
+* Portability (battery etc)
+* [[:eInk]] would be cool, expensive and only one vendor afaik though
 
 
 ==== Connection types ====

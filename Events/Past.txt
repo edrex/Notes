@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-03T12:21:12-07:00
+
+====== Past ======
+Created Friday 03 May 2019
+
+https://github.com/dat-land/comm-comm/issues/47

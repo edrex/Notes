@@ -33,4 +33,9 @@ I don't want to be constantly connected, only when i choose to be.
 
 
 ===== SBC =====
+* Pi
+* Something beefier with USB-C
+
+==== Cases ====
+http://www.noodlepi.com/store
 

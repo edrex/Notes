@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-03T11:28:21-07:00
+
+====== Synapse ======
+Created Friday 03 May 2019
+
+Go rewrite
+https://github.com/orgs/matrix-org/projects/9

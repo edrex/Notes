@@ -6,7 +6,13 @@ Creation-Date: 2019-04-04T11:51:17-07:00
 Created Thursday 04 April 2019
 
 https://lab.libreho.st/libre.sh/compose
+standardize user signup on web free software - HackMD
 https://pad.lamyne.org/KwQwbAnCAsDGYFoBmYCMATB1oGYAcCIIARrAgExKrCw4DsxwEYsQA===#
+libre.sh - HackMD
+https://pad.lamyne.org/GwRghgJhBGDMCcBaAxtNiAs9pkfVA7IgKzTEZgAMAZvGNJcEA===#
+Projects · Explore · GitLab
+https://lab.allmende.io/explore/projects/starred
+
 [[:TechCoops]]
 
 https://lab.libreho.st/librehosters/directory/

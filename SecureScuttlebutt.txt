@@ -8,13 +8,16 @@ Created Thursday 04 April 2019
 
 Secure Scuttlebutt (SSB) is a fully decentralized offline-first social network.
 
-THERE ARE NO SERVERS (there are "pubs", which are willing to forward messages for anyone)
 
 ===== Intro reading =====
 Start with the "Scuttlebutt, a love story" https://www.scuttlebutt.nz/
 https://www.scuttlebutt.nz/getting-started.html
 https://medium.com/clebertech-en/the-definitive-guide-to-secure-scuttlebutt-a1b3a3fd73f6
 
+===== Pubs =====
+THERE ARE NO SERVERS, but there are "pubs", which are nodes willing to stireforward messages for anyone)
+
+https://github.com/ssbc/ssb-server/wiki/Pub-Servers
 
 Source code: https://github.com/ssbc
 

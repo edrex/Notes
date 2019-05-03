@@ -13,3 +13,5 @@ Think about how to combine Vim journal with Zim stuff. Maybe ditch Zim for vimwi
 [[Projects:WithoutSmartphone]]
 [[JoeyHess]]
 [[LibreHosters]]
+[[:Buddhism]]
+

@@ -4,6 +4,9 @@ Creation-Date: 2019-04-04T11:51:17-07:00
 
 ====== LibreHosters ======
 Created Thursday 04 April 2019
+
+https://lab.libreho.st/libre.sh/compose
+https://pad.lamyne.org/KwQwbAnCAsDGYFoBmYCMATB1oGYAcCIIARrAgExKrCw4DsxwEYsQA===#
 [[:TechCoops]]
 
 https://lab.libreho.st/librehosters/directory/

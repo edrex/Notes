@@ -5,4 +5,6 @@ Creation-Date: 2019-05-03T07:29:22-07:00
 ====== 03 ======
 Created Friday 03 May 2019
 
-Computer stuffDark themes (After last night's journaling)
+===== Computer stuff =====
+Dark themes (After last night's journaling)
+Think about how to combine Vim journal with Zim stuff. Maybe ditch Zim for vimwiki?

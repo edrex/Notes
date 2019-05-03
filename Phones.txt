@@ -5,6 +5,7 @@ Creation-Date: 2017-11-29T15:25:47-08:00
 ====== Phones ======
 
 [[:LineageOS]]
+[[:PostmarketOS]]
 
 [ ] Upgrade my herolte lineageos https://wiki.lineageos.org/upgrading.html
 https://forum.xda-developers.com/galaxy-s7/development/beta-lineageos-16-0-s7-herolte-t3842465

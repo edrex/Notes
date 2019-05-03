@@ -35,6 +35,7 @@ I don't want to be constantly connected, only when i choose to be.
 ===== SBC =====
 * Pi
 * Something beefier with USB-C
+* GPS + LTE + battery controller: https://www.instructables.com/id/PiAnyWhere-4G-LTE-Hat-for-the-Raspberry-Pi/
 
 ==== Cases ====
 	http://www.noodlepi.com/store

@@ -15,9 +15,10 @@ https://www.scuttlebutt.nz/getting-started.html
 https://medium.com/clebertech-en/the-definitive-guide-to-secure-scuttlebutt-a1b3a3fd73f6
 
 ===== Pubs =====
-THERE ARE NO SERVERS, but there are "pubs", which are nodes willing to stireforward messages for anyone)
+THERE ARE NO SERVERS, but there are "pubs", which are nodes willing to store/forward messages for others
 
 https://github.com/ssbc/ssb-server/wiki/Pub-Servers
+https://www.zie.one/en/ssb/
 
 Source code: https://github.com/ssbc
 

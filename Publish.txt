@@ -5,8 +5,10 @@ Creation-Date: 2019-05-03T11:41:37-07:00
 ====== Publish ======
 Created Friday 03 May 2019
 
+===== Needs =====
+
+* Unify zim and vim journal
+* editing solution for android (with sync)
+
 ===== Priority Tasks =====
 
-Unify
-
-====== zim and vim journal, and have an editing solution for android ======

@@ -29,4 +29,4 @@ https://www.amitgawande.com/
 https://www.w3.org/wiki/SocialCG
 
 ===== With =====
-Netlifyhttps://indieweb.org/Netlify
+[[:Netlify]] https://indieweb.org/Netlify

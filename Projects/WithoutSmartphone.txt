@@ -13,4 +13,7 @@ I don't want to be constantly connected, only when i choose to be.
 ===== Idea =====
 
 * USB LTE modem
-* SB
+* SBC + screen module + battery pack
+* Camera?
+
+===== Modem =====

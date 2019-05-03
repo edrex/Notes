@@ -27,3 +27,6 @@ https://eli.li/entry/20180314144847
 Musings. Et Al. · Amit Gawande
 https://www.amitgawande.com/
 https://www.w3.org/wiki/SocialCG
+
+===== With =====
+Netlifyhttps://indieweb.org/Netlify

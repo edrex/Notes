@@ -20,3 +20,5 @@ Think about how to combine Vim journal with Zim stuff. Maybe ditch Zim for vimwi
 [[:Publish]]
 [[:IndieWeb]]
 [[:Events:Upcoming]]
+
+

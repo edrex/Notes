@@ -19,7 +19,10 @@ I don't want to be constantly connected, only when i choose to be.
 ===== Modem =====
 
 ===== Screen =====
-Lots of options. A touch screen would be nice.
+
+==== Criteria ====
+* Touch would be nice
+
 
 ==== Connection types ====
 * USB C

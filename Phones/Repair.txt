@@ -4,6 +4,7 @@ Creation-Date: 2019-05-02T12:13:29-07:00
 
 ====== Repair ======
 Created Thursday 02 May 2019
+[[:Phones]]
 
 ===== Tapes/adhesives =====
 https://www.ifixit.com/Store/Tools/Tesa-61395-Tape/IF317-072?o=1
@@ -16,3 +17,5 @@ https://www.ifixit.com/Store/Tools/Tesa-61395-Tape/IF317-072?o=1
 $54 from CH
 New For Samsung Galaxy S7 G930A G930V LCD Digitizer Touch Screen Display (Gold) | eBay
 https://www.ebay.com/itm/New-For-Samsung-Galaxy-S7-G930A-G930V-LCD-Digitizer-Touch-Screen-Display-Gold/173885513994
+
+Might want to replace battery at the same time 

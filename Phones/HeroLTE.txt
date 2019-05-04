@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-04T14:28:54-07:00
+
+====== HeroLTE ======
+Created Saturday 04 May 2019
+
+===== Issues =====
+Screen is broken (digitizer + LCD)
+https://www.ifixit.com/Answers/View/445086/How+to+switch+off+device+experiencing+a+bootloop
+
+
+===== ROMs =====
+https://forum.xda-developers.com/galaxy-s7/development/beta-lineageos-16-0-s7-herolte-t3842465
+https://forum.xda-developers.com/galaxy-s7/development/lineageos-15-android-8-0-0-herolte-t3710107

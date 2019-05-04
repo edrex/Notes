@@ -7,10 +7,9 @@ Creation-Date: 2017-11-29T15:25:47-08:00
 [[:LineageOS]]
 [[:PostmarketOS]]
 
-[ ] Upgrade my herolte lineageos https://wiki.lineageos.org/upgrading.html
-https://forum.xda-developers.com/galaxy-s7/development/beta-lineageos-16-0-s7-herolte-t3842465
-https://forum.xda-developers.com/galaxy-s7/development/lineageos-15-android-8-0-0-herolte-t3710107
 
 [[+Lauren's Nexus 5x]]
 [[+MotoGOsprey]]
+[[+HeroLTE]]
+
 [[+Repair]]

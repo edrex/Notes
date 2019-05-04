@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-04T12:23:14-07:00
+
+====== HiDPI ======
+Created Saturday 04 May 2019
+
+Mouse cursor is tiny when not over a window (desktop

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-03T22:09:04-07:00
+
+====== eInk ======
+Created Friday 03 May 2019
+
+Dasung makes portable HDMI eInk monitors!!
+
+The new one: First E-ink Monitor with Front-light & Touch | Indiegogo: https://www.indiegogo.com/projects/first-e-ink-monitor-with-front-light-touch#/

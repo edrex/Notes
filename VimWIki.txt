@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-04T14:20:36-07:00
+
+====== VimWIki ======
+Created Saturday 04 May 2019
+
+http://vimwiki.github.io/

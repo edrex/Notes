@@ -12,4 +12,6 @@ Yesterday was highly productive, especially in the morning.
 [[:Psych]]
 [[:Books:Audio]]
 [[:SecureScuttlebutt]]
-VimW
+[[:VimWiki]]
+
+

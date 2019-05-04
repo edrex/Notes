@@ -11,3 +11,5 @@ Yesterday was highly productive, especially in the morning.
 [[Sway:Issues]]
 [[:Psych]]
 [[:Books:Audio]]
+[[:SecureScuttlebutt]]
+VimW

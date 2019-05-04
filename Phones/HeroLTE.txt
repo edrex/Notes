@@ -6,7 +6,9 @@ Creation-Date: 2019-05-04T14:28:54-07:00
 Created Saturday 04 May 2019
 
 ===== Issues =====
-Screen is broken (digitizer + LCD)
+
+==== Screen is broken (digitizer + LCD)  RIP? ====
+
 https://www.ifixit.com/Answers/View/445086/How+to+switch+off+device+experiencing+a+bootloop
 
 

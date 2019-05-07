@@ -8,6 +8,7 @@ Created Tuesday 07 May 2019
 Last night I had an [[:Adventure]]
 [ ] write about it [[+Adventure]]
 
-Box spring 
+[ ] Get abandoned box spring 
 
+[ ] Migrate [[:Zim]] wiki to [[:VimWiki]] 
 

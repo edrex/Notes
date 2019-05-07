@@ -11,9 +11,10 @@ Created Wednesday 27 December 2017
 [[+AttachingThings]] 
 [[+Builtins]]
 [[+Envelope]]
+[ ] [[+Vent]]
 [[+Seats]]
 [[+PowerSystem]]
-[[+Stereo]]
+[ ] [[+Stereo]]
 [[+Data]]
 [[+RoofRack]]
 
@@ -23,7 +24,7 @@ http://forum-sbmcc.co.uk/
 
 ===== Buy List =====
 [*] Rivnuts
-[ ] Some sort of exhaust fan [[+Vent]]
+[ ] Some sort of exhaust fan 
 
 
 ==== Junkyard ====

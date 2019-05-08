@@ -9,4 +9,4 @@ http://vimwiki.github.io/
 
 I've decided to migrate from [[:Zim]] to vimwiki.
 
-[ ] Test ex
+[*] Test export to md/use with vim

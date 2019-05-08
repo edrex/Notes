@@ -6,3 +6,7 @@ Creation-Date: 2019-05-04T14:20:36-07:00
 Created Saturday 04 May 2019
 
 http://vimwiki.github.io/
+
+I've decided to migrate from [[:Zim]] to vimwiki.
+
+[ ] Test ex

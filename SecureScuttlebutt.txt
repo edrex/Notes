@@ -23,3 +23,6 @@ https://www.zie.one/en/ssb/
 
 Source code: https://github.com/ssbc
 https://github.com/ssbc/patchwork
+
+
+https://github.com/ssbc/scuttle-shell

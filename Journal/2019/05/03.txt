@@ -20,7 +20,7 @@ Think about how to combine Vim journal with Zim stuff. Maybe ditch Zim for vimwi
 [[GetWork]]
 [[:Publish]]
 [[:IndieWeb]]
-[[:Events:Upcoming]]
+[[:Events]]
 
 
 46*94/144

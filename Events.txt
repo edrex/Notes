@@ -5,4 +5,6 @@ Creation-Date: 2019-05-10T21:38:44-07:00
 ====== Events ======
 Created Friday 10 May 2019
 
+[[:Workflow]]: Archive to [[Past]]
+
 Coming this Summer: The First DWeb Camp | Internet Archive Blogs: https://blog.archive.org/2019/03/24/coming-this-summer-the-first-dweb-camp/

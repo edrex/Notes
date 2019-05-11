@@ -10,6 +10,10 @@ Created Thursday 04 April 2019
 
 
 https://ryaneschinger.com/blog/ansible-quick-start/
+Ansible Quick Start - A Brief Introduction · Ryan Eschinger Consulting: https://ryaneschinger.com/blog/ansible-quick-start/
+Ansible quickstart cheatsheet: https://devhints.io/ansible-guide
+Getting started with ansible - Low End Box Low End Box: http://lowendbox.com/blog/getting-started-with-ansible/
+
 
 [[+GettingStarted]]
 

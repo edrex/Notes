@@ -13,6 +13,7 @@ https://ryaneschinger.com/blog/ansible-quick-start/
 Ansible Quick Start - A Brief Introduction · Ryan Eschinger Consulting: https://ryaneschinger.com/blog/ansible-quick-start/
 Ansible quickstart cheatsheet: https://devhints.io/ansible-guide
 Getting started with ansible - Low End Box Low End Box: http://lowendbox.com/blog/getting-started-with-ansible/
+geerlingguy/ansible-role-dotfiles: Ansible Role - Easy and flexible dotfile installation.: https://github.com/geerlingguy/ansible-role-dotfiles
 
 
 [[+GettingStarted]]

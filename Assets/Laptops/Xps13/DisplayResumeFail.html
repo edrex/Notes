@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Concentration</title>
+	<title>DisplayResumeFail</title>
 	<meta name='Generator' content='Zim 0.70'>
 	<style type='text/css'>
 		a          { text-decoration: none      }
@@ -40,11 +40,11 @@
 
 <!-- Header -->
 <div class='header'>
-	[ <a href='./ComputerLab.html'>Prev</a> ]
+	[ <a href='../Xps13.html'>Prev</a> ]
 
-	[ <a href='./index.html'>Index</a> ]
+	[ <a href='../../../index.html'>Index</a> ]
 
-	[ <a href='./Concrete.html'>Next</a> ]
+	[ <a href='../../../AtomsOfThought.html'>Next</a> ]
 </div>
 
 <hr />
@@ -53,11 +53,69 @@
 
 <div class='pages'>
 	<div class='heading'>
-	<h1>Concentration <a name='Concentration'></a></h1>
+	<h1>DisplayResumeFail <a name='Assets:Laptops:Xps13:DisplayResumeFail'></a></h1>
 	</div>
 
 	<div class='content'>
-	
+	<p>
+Created Thursday 10 May 2018
+</p>
+
+<p>
+Problem description: When usb-c HDMI dongle is disconnected while suspended, display later fails to resume. 
+</p>
+
+<p>
+maybe cause-indicating?
+</p>
+
+<p>
+ 07:22 xhci_hcd 0000:39:00.0: PCI post-resume error -110! kernel<br>
+ 07:22 xhci_hcd 0000:39:00.0: HC died; cleaning up kernel 2 <br>
+ 07:22 dpm_run_callback(): pci_pm_resume+0x0/0xa0 returns -110 kernel<br>
+ 07:22 PM: Device 0000:39:00.0 failed to resume async: error -110 kernel<br>
+ 07:22 [drm:intel_dp_start_link_train [i915]] *ERROR* failed to enable link training kernel
+</p>
+
+<p>
+SUSPEND
+</p>
+
+<p>
+ 08:04 [drm:intel_display_resume [i915]] *ERROR* Restoring old state failed with -22 kernel
+</p>
+
+<p>
+BAD STATE
+</p>
+
+<p>
+ 08:05 PM: Some devices failed to suspend, or early wake event detected kernel
+</p>
+
+<p>
+Plugged in
+</p>
+
+<p>
+ 08:12 ACPI BIOS Error (bug): Failure creating [\_GPE.XTBT.SPRT], AE_ALREADY_EXISTS (20180105/dswload2-350) kernel<br>
+ 08:12 ACPI Error: AE_ALREADY_EXISTS, During name lookup/catalog (20180105/psobject-252) kernel<br>
+ 08:12 ACPI Error: Method parse/execution failed \_GPE.XTBT, AE_ALREADY_EXISTS (20180105/psparse-550) kernel 2 <br>
+ 08:12 ACPI Error: Method parse/execution failed \_GPE._E42, AE_ALREADY_EXISTS (20180105/psparse-550) kernel<br>
+ 08:12 ACPI Error: AE_ALREADY_EXISTS, while evaluating GPE method [_E42] (20180105/evgpe-646) kernel<br>
+ 08:12 Error calling EVIOCSKEYCODE on device node '/dev/input/event21' (scan code 0x70039, key code 1): Invalid argument systemd-udevd<br>
+ 08:12 Error calling EVIOCSKEYCODE on device node '/dev/input/event21' (scan code 0x700e2, key code 125): Invalid argument systemd-udevd<br>
+ 08:12 Error calling EVIOCSKEYCODE on device node '/dev/input/event21' (scan code 0x700e3, key code 56): Invalid argument systemd-udevd
+</p>
+
+<p>
+Ran "xrandr --auto", display is back
+</p>
+
+<p>
+<a href="https://www.google.com/search?q=%5Bdrm%3Aintel_dp_start_link_train%20%5Bi915%5D%5D%20%2AERROR%2A%20failed%20to%20enable%20link%20training" title="https://www.google.com/search?q=%5Bdrm%3Aintel_dp_start_link_train%20%5Bi915%5D%5D%20%2AERROR%2A%20failed%20to%20enable%20link%20training" class="https">https://www.google.com/search?q=%5Bdrm%3Aintel_dp_start_link_train%20%5Bi915%5D%5D%20%2AERROR%2A%20failed%20to%20enable%20link%20training</a>
+</p>
+
 	</div>
 
 	<br />
@@ -65,7 +123,12 @@
 	<div class='page-footer'>
 		<b>Backlinks:</b>
 
-		<a href='./Buddhism.html'>Buddhism</a>
+		<a href='../../../Journal/2018/05/10.html'>Journal:2018:05:10</a>
+
+		
+		
+
+		<a href='../Xps13.html'>Assets:Laptops:Xps13</a>
 
 		<br /><br />
 

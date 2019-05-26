@@ -61,6 +61,16 @@
 Created Thursday 04 April 2019
 </p>
 
+<h2>Basics</h2>
+
+<br>
+
+<h3>List devices</h3>
+
+<p>
+sudo libinput list-devices
+</p>
+
 <h2>Touch gestures</h2>
 
 <p>
@@ -72,9 +82,26 @@ Created Thursday 04 April 2019
 <br>
 
 <p>
-interception / linux / Interception Tools · GitLab<br>
-<a href="https://gitlab.com/interception/linux/tools" title="https://gitlab.com/interception/linux/tools" class="https">https://gitlab.com/interception/linux/tools</a>
+It seems that the most well-developed tooling for this is <a href="https://gitlab.com/interception/linux/tools" title="https://gitlab.com/interception/linux/tools" class="https">https://gitlab.com/interception/linux/tools</a>
 </p>
+
+<p>
+It consists of `intercept`, which gets exclusive access to an input device and simply prints all the (raw) events to stdout, and uinput, which takes events from stdin and injects them to a given device.
+</p>
+
+<p>
+Simplest example,<br>
+sudo intercept -g $DEVNODE | sudo uinput -d $DEVNODE<br>
+is a noop (other that introducing a small latency, TODO: measure latency)
+</p>
+
+<p>
+The idea is you can write programs that transform the event stream in arbitrary ways. Example:<br>
+<a href="https://gitlab.com/interception/linux/plugins/caps2esc/blob/master/caps2esc.c" title="https://gitlab.com/interception/linux/plugins/caps2esc/blob/master/caps2esc.c" class="https">https://gitlab.com/interception/linux/plugins/caps2esc/blob/master/caps2esc.c</a>
+</p>
+
+<br>
+<br>
 
 <p>
 <a href="http://welz.org.za/projects/mxk" title="http://welz.org.za/projects/mxk" class="http">http://welz.org.za/projects/mxk</a>

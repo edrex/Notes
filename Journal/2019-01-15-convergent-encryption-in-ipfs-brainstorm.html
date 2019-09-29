@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>2019-01-15-Convergent-Encryption-In-Ipfs-Brainstorm</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<section id="sharing-data" class="level2">
+<h2>Sharing data</h2>
+<p>I would like to be able to selectively share content from my (private by default) storage with others</p>
+<ul>
+<li>“in situ” (meaning sharing doesn’t require that I make a copy)</li>
+</ul>
+</section>
+<section id="keys-as-bearer-tokens-in-centralized-storage" class="level2">
+<h2>Keys as Bearer Tokens in Centralized Storage</h2>
+<p>One very simple way to do this when I control the storage system is with a “hash keys as bearer tokens” sharing model:</p>
+<ol type="1">
+<li>decompose all my personal data in a big Merkle graph.</li>
+<li>dump it in a content addressable storage.</li>
+<li>expose a fetch-only interface to the CAS to the world.</li>
+<li>when I want to share a branch with a friend, send them the key for that node so they can fetch it.</li>
+<li>any dependencies (such as files included in a directory node) will have their keys in the body of the first node, enabling my friend to recursively fetch the whole subgraph starting from the node I sent them the key for.</li>
+</ol>
+<p>Lots of systems use this basic structure (bittorrent, Git, IPFS, Perkeep), except for point 3: Since I control the storage, I can avoid leaking an index of keys, allowing them to be used for access control.</p>
+<p>I’ve been doing this for a long time, originally with a PHP script and later with Perkeep né Camlistore.</p>
+<p>The problem with treating hashes with bearer tokens in a DHT is that they are leaked to peers in the network.</p>
+<p>It occurs to me that IPFS might be able to use something like Dat Project’s discovery keys to avoid this difficulty.</p>
+<p>t solves this difficulty by hashing twice to create a “discovery key”, and only sharing that with the DHT. To actually get the content, the requester has to do some Diffie Hellman with the holder. It The trouble with So far the recommended solutions for unlisted content are:</p>
+<ul>
+<li>Run a private network
+<ul>
+<li>Not very granular - you have to run a network for each sharing context</li>
+</ul></li>
+<li>Encrypt your content before adding it
+<ul>
+<li>breaks global deduplication</li>
+<li>complexity around key distribution/revocation</li>
+</ul></li>
+</ul>
+<p>Neither case allows straightforward, ad-hoc sharing.</p>
+<p>With a non-distributed hash table, there is a third, much simpler option: expose a public interface to fetch objects. If you want to share an object with someone, send them the key.</p>
+<p>IPFS stores content keys in a DHT, which makes “unlisted content” impossible.</p>
+<p>However,</p>
+</section>
+</body>
+</html>

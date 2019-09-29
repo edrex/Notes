@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>2019-09-16-Qt-Scaling-Bug</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<p>swaymsg output eDP-1 scale 1</p>
+<p>QT_AUTO_SCREEN_SCALE_FACTOR=1 kdialog –sorry “qt doesn’t catch scale changes”</p>
+<p>swaymsg output eDP-1 scale 3 Screenshot demonstating issue: https://clbin.com/04RTo</p>
+<p><a href="https://codereview.qt-project.org/c/qt/qtwayland/+/224155.html">Update QScreen::devicePixelRatio when wl_output scale changes (I9b5eed77) · Gerrit Code Review</a> <a href="https://codereview.qt-project.org/c/qt/qtbase/+/224187.html">Support QScreen::devicePixelRatio changing (I8d6b93f5) · Gerrit Code Review</a></p>
+</body>
+</html>

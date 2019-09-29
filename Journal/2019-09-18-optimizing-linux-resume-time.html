@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>2019-09-18-Optimizing-Linux-Resume-Time</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<p>One annoyance I’ve had for awhile is how long it takes to resume from suspend on my XPS 13 laptop when a USBC hub is plugged in. I’ve tested with various combinations of plugged USB devices:</p>
+<ul>
+<li>USB C hub
+<ul>
+<li>HDMI</li>
+<li>Mouse</li>
+<li>Keyboard</li>
+<li>Power</li>
+</ul></li>
+</ul>
+<p>Resume time: ~13.5 seconds Just USBC hub: 12334 ms</p>
+<ul>
+<li>No devices: &lt;3 seconds</li>
+</ul>
+<p>Mouse+keyboard plugged directly: &lt;3 seconds</p>
+<p>USB A 3.0 hub with mouse+keyboard: Total Resume Time: 2924 ms</p>
+<p>Intel’s <code>sleepgraph</code> tool is an amazing facility for tracking down suspend/resume performance issues:</p>
+<p>https://01.org/blogs/2018/improving-linux-suspend-resume-performance https://01.org/pm-graph/documentation/getting-started</p>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>2019-09-17-Laptop-Support</title>
+  <style>
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<p>asus x502c</p>
+<ul>
+<li><input type="checkbox" disabled="" />
+PRO:LaptopSupport Update BIOS</li>
+</ul>
+<p>For hardware testing, use SysRescueCD: http://www.system-rescue-cd.org/</p>
+<ol type="1">
+<li>Download the latest image</li>
+<li>Write it to your USB stick. There are some GUI tools like Etcher for this but I suggest just doing it from the command line.</li>
+</ol>
+<p>Find the device for your USB stick:</p>
+<pre><code>lsblk</code></pre>
+<p>This will list all your “block” (storage) devices, including disks and partitions.</p>
+<p>Disks are named like</p>
+<p><code>{disk type}{disk number}</code></p>
+<p>while partitions are named like {disk}</p>
+<p><code>{disk type}{disk number}p{partition number}</code></p>
+<p>(so just with a pN at the end)</p>
+<p>https://tails.boum.org/about/index.en.html</p>
+</body>
+</html>
